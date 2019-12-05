@@ -19,7 +19,7 @@ public class GamePlay extends BasePage {
         super(driver);
 
         AltFindObjectsParameters par=new AltFindObjectsParameters.Builder(AltUnityDriver.By.PATH, "//Game/WholeUI/pauseButton").build();
-        AltWaitForObjectsParameters params = new AltWaitForObjectsParameters.Builder(par).build();
+        AltWaitForObjectsParameters params = new AltWaitForObjectsParameters.Builder(par).withTimeout(2).build();
         this.pauseButton = driver.waitForObject(params);
 
         par = new AltFindObjectsParameters.Builder(AltUnityDriver.By.NAME, "PlayerPivot").build();
@@ -34,8 +34,12 @@ public class GamePlay extends BasePage {
         return false;
     }
 
-    public void preddPause(){
+    public void pressPause(){
         pauseButton.tap();
+    }
+
+    public int getCurrentLife() throws Exception {
+        return Integer.parseInt(character.callComponentMethod("CharacterInputController", "get_currentLife",""));
     }
 
     public void avoidObstacles(int nrOfObstacles){
