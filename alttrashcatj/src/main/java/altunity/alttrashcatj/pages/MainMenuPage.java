@@ -48,7 +48,7 @@ public class MainMenuPage extends BasePage{
     }
 
     public boolean isDisplayed(){
-        if(storeButton != null || leaderBoardButton != null || settingsButton != null || missionButton != null || runButton != null || characterName != null || themeName != null){
+        if(storeButton != null && leaderBoardButton != null && settingsButton != null && missionButton != null && runButton != null && characterName != null && themeName != null){
             return true;
         }
         return false;
