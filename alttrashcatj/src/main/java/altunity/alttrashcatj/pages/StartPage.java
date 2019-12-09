@@ -19,15 +19,15 @@ public class StartPage extends BasePage{
         AltWaitForObjectsParameters params = new AltWaitForObjectsParameters.Builder(par).withTimeout(2).build();
         this.startButton = driver.waitForObject(params);
 
-        par=new AltFindObjectsParameters.Builder(AltUnityDriver.By.PATH, "StartText").build();
+        par=new AltFindObjectsParameters.Builder(AltUnityDriver.By.NAME, "StartText").build();
         params = new AltWaitForObjectsParameters.Builder(par).withTimeout(2).build();
         this.startText = driver.waitForObject(params);
 
-        par=new AltFindObjectsParameters.Builder(AltUnityDriver.By.PATH, "LogoImage").build();
+        par=new AltFindObjectsParameters.Builder(AltUnityDriver.By.NAME, "LogoImage").build();
         params = new AltWaitForObjectsParameters.Builder(par).withTimeout(2).build();
         this.logoImage = driver.waitForObject(params);
 
-        par=new AltFindObjectsParameters.Builder(AltUnityDriver.By.PATH, "UnityURLButton").build();
+        par=new AltFindObjectsParameters.Builder(AltUnityDriver.By.NAME, "UnityURLButton").build();
         params = new AltWaitForObjectsParameters.Builder(par).withTimeout(2).build();
         this.unityUrlButton = driver.waitForObject(params);
     }
@@ -37,6 +37,10 @@ public class StartPage extends BasePage{
             return true;
         }
         return false;
+    }
+
+    public void load(){
+        getDriver().loadScene("Start");
     }
 
     public void pressStart(){

@@ -2,9 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef29af3a-f99e-4a77-9341-33f0c1ac4e77" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_26.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alttrashcatj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/alttrashcatj.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/pages/MainMenuPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/pages/MainMenuPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/pages/PauseOverlayPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/pages/PauseOverlayPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/pages/StartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/pages/StartPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/tests/StartPageTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/tests/StartPageTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/altunity/alttrashcatj/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/altunity/alttrashcatj/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/altunity/alttrashcatj/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/altunity/alttrashcatj/AppTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +27,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -39,6 +52,61 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="JUnit.StartPageTests">
+    <configuration name="MainMenuTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="alttrashcatj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="altunity.alttrashcatj.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="altunity.alttrashcatj.tests" />
+      <option name="MAIN_CLASS_NAME" value="altunity.alttrashcatj.tests.MainMenuTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartPageTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="alttrashcatj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="altunity.alttrashcatj.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="altunity.alttrashcatj.tests" />
+      <option name="MAIN_CLASS_NAME" value="altunity.alttrashcatj.tests.StartPageTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartPageTests.testStartButtonLoadMainMenu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="alttrashcatj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="altunity.alttrashcatj.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="altunity.alttrashcatj.tests" />
+      <option name="MAIN_CLASS_NAME" value="altunity.alttrashcatj.tests.StartPageTests" />
+      <option name="METHOD_NAME" value="testStartButtonLoadMainMenu" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StartPageTests" />
+        <item itemvalue="JUnit.StartPageTests.testStartButtonLoadMainMenu" />
+        <item itemvalue="JUnit.MainMenuTests" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -66,10 +134,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1575539224731">
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1575635972575">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1575539224731" />
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1575635972575" />
+    <state width="1237" height="306" key="GridCell.Tab.0.bottom" timestamp="1575877805622">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="306" key="GridCell.Tab.0.bottom/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1575877805622" />
+    <state width="1237" height="306" key="GridCell.Tab.0.center" timestamp="1575877805621">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="306" key="GridCell.Tab.0.center/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1575877805621" />
+    <state width="1237" height="306" key="GridCell.Tab.0.left" timestamp="1575877805621">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="306" key="GridCell.Tab.0.left/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1575877805621" />
+    <state width="1237" height="306" key="GridCell.Tab.0.right" timestamp="1575877805622">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="306" key="GridCell.Tab.0.right/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1575877805622" />
     <state x="0" y="0" width="609" height="689" key="find.popup" timestamp="1575538314594">
       <screen x="0" y="0" width="1280" height="689" />
     </state>

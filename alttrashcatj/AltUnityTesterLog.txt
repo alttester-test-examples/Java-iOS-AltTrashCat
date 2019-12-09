@@ -1,0 +1,891 @@
+12/6/2019 12:02:59 PM:Logging is set to True
+12-06-2019 12:02:59 : response received : Ok
+12/6/2019 12:02:59 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-06-2019 12:02:59 : response received : error:notFound
+12/6/2019 12:02:59 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-06-2019 12:02:59 : response received : error:notFound
+12/6/2019 12:03:00 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-06-2019 12:03:00 : response received : error:notFound
+12/6/2019 12:03:00 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-06-2019 12:03:00 : response received : error:notFound
+12/6/2019 12:03:01 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-06-2019 12:03:01 : response received : error:notFound
+12/6/2019 12:03:01 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-06-2019 12:03:01 : response received : error:notFound
+12/6/2019 12:03:02 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-06-2019 12:03:02 : response received : error:notFound
+12/6/2019 12:03:02 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-06-2019 12:03:03 : response received : error:notFound
+12/6/2019 12:03:03 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-06-2019 12:03:03 : response received : error:notFound
+12/6/2019 12:03:04 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-06-2019 12:03:04 : response received : error:notFound
+12/6/2019 12:03:04 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-06-2019 12:03:04 : response received : error:notFound
+12/6/2019 12:03:05 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-06-2019 12:03:05 : response received : error:notFound
+12/6/2019 12:03:05 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-06-2019 12:03:05 : response received : error:notFound
+12/6/2019 12:03:06 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-06-2019 12:03:06 : response received : error:notFound
+12/6/2019 12:03:06 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-06-2019 12:03:06 : response received : error:notFound
+12/6/2019 12:03:07 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-06-2019 12:03:07 : response received : error:notFound
+12/6/2019 12:03:07 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-06-2019 12:03:07 : response received : error:notFound
+12/6/2019 12:03:08 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-06-2019 12:03:08 : response received : error:notFound
+12/6/2019 12:03:08 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-06-2019 12:03:08 : response received : error:notFound
+12/6/2019 12:03:09 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-06-2019 12:03:09 : response received : error:notFound
+12/6/2019 3:36:51 PM:Logging is set to True
+12-06-2019 15:36:51 : response received : Ok
+12/6/2019 3:36:52 PM:findActiveObjectByName for: StartButton
+12-06-2019 15:36:52 : response received : {"name":"StartButton","id":133704,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":133604,"parentId":133698,"transformId":133706}
+12/6/2019 3:36:52 PM:findActiveObjectByName for: StartText
+12-06-2019 15:36:52 : response received : {"name":"StartText","id":133722,"x":540,"y":346,"z":0,"mobileY":1574,"type":"","enabled":true,"worldX":540.0,"worldY":346.199951,"worldZ":0.0,"idCamera":133604,"parentId":133706,"transformId":133724}
+12/6/2019 3:36:52 PM:findActiveObjectByName for: LogoImage
+12-06-2019 15:36:52 : response received : {"name":"LogoImage","id":133566,"x":540,"y":1380,"z":0,"mobileY":540,"type":"","enabled":true,"worldX":540.0,"worldY":1380.0,"worldZ":0.0,"idCamera":133604,"parentId":133698,"transformId":133568}
+12/6/2019 3:36:52 PM:findActiveObjectByName for: UnityURLButton
+12-06-2019 15:36:52 : response received : {"name":"UnityURLButton","id":133554,"x":540,"y":18,"z":0,"mobileY":1902,"type":"","enabled":true,"worldX":540.0,"worldY":18.0,"worldZ":0.0,"idCamera":133604,"parentId":133698,"transformId":133556}
+12/6/2019 3:36:52 PM:LoadScene Start
+12-06-2019 15:36:52 : response received : Ok
+12/6/2019 3:36:52 PM:LoadScene Start
+12-06-2019 15:36:52 : response received : Ok
+12/6/2019 3:36:53 PM:tapped object by name StartButton
+12-06-2019 15:36:53 : response received : error:unknownError;Assets.AltUnityTester.AltUnityDriver.NotFoundException: Object not found
+  at AltUnityRunner.GetGameObject (AltUnityObject altUnityObject) [0x00033] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\AltUnityRunner.cs:505 
+  at Assets.AltUnityTester.AltUnityServer.Commands.TapCommand.Execute () [0x00067] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\InputActions\TapCommand.cs:18 
+  at Command+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00004] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\Command.cs:10 
+12/6/2019 3:36:53 PM:LoadScene Start
+12-06-2019 15:36:53 : response received : Ok
+12/9/2019 8:53:37 AM:Logging is set to True
+12-09-2019 08:53:37 : response received : Ok
+12/9/2019 8:53:37 AM:findActiveObjectByName for: StartButton
+12-09-2019 08:53:37 : response received : {"name":"StartButton","id":17270,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":17170,"parentId":17264,"transformId":17272}
+12/9/2019 8:53:37 AM:findActiveObjectByName for: StartText
+12-09-2019 08:53:37 : response received : {"name":"StartText","id":17288,"x":540,"y":346,"z":0,"mobileY":1574,"type":"","enabled":true,"worldX":540.0,"worldY":346.199951,"worldZ":0.0,"idCamera":17170,"parentId":17272,"transformId":17290}
+12/9/2019 8:53:37 AM:findActiveObjectByName for: LogoImage
+12-09-2019 08:53:37 : response received : {"name":"LogoImage","id":17132,"x":540,"y":1380,"z":0,"mobileY":540,"type":"","enabled":true,"worldX":540.0,"worldY":1380.0,"worldZ":0.0,"idCamera":17170,"parentId":17264,"transformId":17134}
+12/9/2019 8:53:37 AM:findActiveObjectByName for: UnityURLButton
+12-09-2019 08:53:37 : response received : {"name":"UnityURLButton","id":17120,"x":540,"y":18,"z":0,"mobileY":1902,"type":"","enabled":true,"worldX":540.0,"worldY":18.0,"worldZ":0.0,"idCamera":17170,"parentId":17264,"transformId":17122}
+12/9/2019 8:53:37 AM:LoadScene Start
+12-09-2019 08:53:37 : response received : Ok
+12/9/2019 8:53:37 AM:LoadScene Start
+12-09-2019 08:53:37 : response received : Ok
+12/9/2019 8:53:39 AM:tapped object by name StartButton
+12-09-2019 08:53:39 : response received : error:unknownError;Assets.AltUnityTester.AltUnityDriver.NotFoundException: Object not found
+  at AltUnityRunner.GetGameObject (AltUnityObject altUnityObject) [0x00033] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\AltUnityRunner.cs:505 
+  at Assets.AltUnityTester.AltUnityServer.Commands.TapCommand.Execute () [0x00067] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\InputActions\TapCommand.cs:18 
+  at Command+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00004] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\Command.cs:10 
+12/9/2019 8:53:39 AM:LoadScene Start
+12-09-2019 08:53:39 : response received : Ok
+12/9/2019 8:58:50 AM:Logging is set to True
+12-09-2019 08:58:50 : response received : Ok
+12/9/2019 8:58:50 AM:findActiveObjectByName for: StartButton
+12-09-2019 08:58:50 : response received : {"name":"StartButton","id":28160,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":27294,"parentId":28090,"transformId":28162}
+12/9/2019 8:58:50 AM:findActiveObjectByName for: StartText
+12-09-2019 08:58:50 : response received : {"name":"StartText","id":28222,"x":540,"y":346,"z":0,"mobileY":1574,"type":"","enabled":true,"worldX":540.0,"worldY":346.199951,"worldZ":0.0,"idCamera":27294,"parentId":28162,"transformId":28224}
+12/9/2019 8:58:50 AM:findActiveObjectByName for: LogoImage
+12-09-2019 08:58:50 : response received : {"name":"LogoImage","id":27142,"x":540,"y":1380,"z":0,"mobileY":540,"type":"","enabled":true,"worldX":540.0,"worldY":1380.0,"worldZ":0.0,"idCamera":27294,"parentId":28090,"transformId":27144}
+12/9/2019 8:58:50 AM:findActiveObjectByName for: UnityURLButton
+12-09-2019 08:58:50 : response received : {"name":"UnityURLButton","id":27104,"x":540,"y":18,"z":0,"mobileY":1902,"type":"","enabled":true,"worldX":540.0,"worldY":18.0,"worldZ":0.0,"idCamera":27294,"parentId":28090,"transformId":27106}
+12/9/2019 8:58:50 AM:LoadScene Start
+12-09-2019 08:58:50 : response received : Ok
+12/9/2019 8:58:51 AM:LoadScene Start
+12-09-2019 08:58:51 : response received : Ok
+12/9/2019 8:58:52 AM:tapped object by name StartButton
+12-09-2019 08:58:52 : response received : error:unknownError;Assets.AltUnityTester.AltUnityDriver.NotFoundException: Object not found
+  at AltUnityRunner.GetGameObject (AltUnityObject altUnityObject) [0x00033] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\AltUnityRunner.cs:505 
+  at Assets.AltUnityTester.AltUnityServer.Commands.TapCommand.Execute () [0x00067] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\InputActions\TapCommand.cs:18 
+  at Command+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00004] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\Command.cs:10 
+12/9/2019 9:02:28 AM:Logging is set to True
+12-09-2019 09:02:28 : response received : Ok
+12/9/2019 9:02:28 AM:findActiveObjectByName for: StartButton
+12-09-2019 09:02:28 : response received : {"name":"StartButton","id":31536,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":31436,"parentId":31530,"transformId":31538}
+12/9/2019 9:02:28 AM:findActiveObjectByName for: StartText
+12-09-2019 09:02:28 : response received : {"name":"StartText","id":31554,"x":540,"y":346,"z":0,"mobileY":1574,"type":"","enabled":true,"worldX":540.0,"worldY":346.199951,"worldZ":0.0,"idCamera":31436,"parentId":31538,"transformId":31556}
+12/9/2019 9:02:28 AM:findActiveObjectByName for: LogoImage
+12-09-2019 09:02:28 : response received : {"name":"LogoImage","id":31398,"x":540,"y":1380,"z":0,"mobileY":540,"type":"","enabled":true,"worldX":540.0,"worldY":1380.0,"worldZ":0.0,"idCamera":31436,"parentId":31530,"transformId":31400}
+12/9/2019 9:02:28 AM:findActiveObjectByName for: UnityURLButton
+12-09-2019 09:02:28 : response received : {"name":"UnityURLButton","id":31386,"x":540,"y":18,"z":0,"mobileY":1902,"type":"","enabled":true,"worldX":540.0,"worldY":18.0,"worldZ":0.0,"idCamera":31436,"parentId":31530,"transformId":31388}
+12/9/2019 9:02:28 AM:LoadScene Start
+12-09-2019 09:02:28 : response received : Ok
+12/9/2019 9:02:28 AM:LoadScene Start
+12-09-2019 09:02:28 : response received : Ok
+12/9/2019 9:02:29 AM:tapped object by name StartButton
+12-09-2019 09:02:29 : response received : error:unknownError;Assets.AltUnityTester.AltUnityDriver.NotFoundException: Object not found
+  at AltUnityRunner.GetGameObject (AltUnityObject altUnityObject) [0x00033] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\AltUnityRunner.cs:505 
+  at Assets.AltUnityTester.AltUnityServer.Commands.TapCommand.Execute () [0x00067] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\InputActions\TapCommand.cs:18 
+  at Command+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00004] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\Command.cs:10 
+12/9/2019 9:08:21 AM:Logging is set to True
+12-09-2019 09:08:21 : response received : Ok
+12/9/2019 9:08:22 AM:findActiveObjectByName for: StartButton
+12-09-2019 09:08:22 : response received : {"name":"StartButton","id":35512,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":34660,"parentId":35410,"transformId":35514}
+12/9/2019 9:08:22 AM:findActiveObjectByName for: StartText
+12-09-2019 09:08:22 : response received : {"name":"StartText","id":35586,"x":540,"y":346,"z":0,"mobileY":1574,"type":"","enabled":true,"worldX":540.0,"worldY":346.199951,"worldZ":0.0,"idCamera":34660,"parentId":35514,"transformId":35588}
+12/9/2019 9:08:22 AM:findActiveObjectByName for: LogoImage
+12-09-2019 09:08:22 : response received : {"name":"LogoImage","id":34504,"x":540,"y":1380,"z":0,"mobileY":540,"type":"","enabled":true,"worldX":540.0,"worldY":1380.0,"worldZ":0.0,"idCamera":34660,"parentId":35410,"transformId":34506}
+12/9/2019 9:08:22 AM:findActiveObjectByName for: UnityURLButton
+12-09-2019 09:08:22 : response received : {"name":"UnityURLButton","id":34486,"x":540,"y":18,"z":0,"mobileY":1902,"type":"","enabled":true,"worldX":540.0,"worldY":18.0,"worldZ":0.0,"idCamera":34660,"parentId":35410,"transformId":34488}
+12/9/2019 9:08:22 AM:LoadScene Start
+12-09-2019 09:08:22 : response received : Ok
+12/9/2019 9:08:23 AM:LoadScene Start
+12-09-2019 09:08:23 : response received : Ok
+12/9/2019 9:08:24 AM:Touch at: (540.0, 338.0)
+12-09-2019 09:08:24 : response received : Ok
+12/9/2019 9:10:50 AM:Logging is set to True
+12-09-2019 09:10:50 : response received : Ok
+12/9/2019 9:10:50 AM:findActiveObjectByName for: StartButton
+12-09-2019 09:10:50 : response received : {"name":"StartButton","id":38112,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":37260,"parentId":38010,"transformId":38114}
+12/9/2019 9:10:50 AM:findActiveObjectByName for: StartText
+12-09-2019 09:10:50 : response received : {"name":"StartText","id":38186,"x":540,"y":346,"z":0,"mobileY":1574,"type":"","enabled":true,"worldX":540.0,"worldY":346.199951,"worldZ":0.0,"idCamera":37260,"parentId":38114,"transformId":38188}
+12/9/2019 9:10:50 AM:findActiveObjectByName for: LogoImage
+12-09-2019 09:10:50 : response received : {"name":"LogoImage","id":37104,"x":540,"y":1380,"z":0,"mobileY":540,"type":"","enabled":true,"worldX":540.0,"worldY":1380.0,"worldZ":0.0,"idCamera":37260,"parentId":38010,"transformId":37106}
+12/9/2019 9:10:50 AM:findActiveObjectByName for: UnityURLButton
+12-09-2019 09:10:50 : response received : {"name":"UnityURLButton","id":37086,"x":540,"y":18,"z":0,"mobileY":1902,"type":"","enabled":true,"worldX":540.0,"worldY":18.0,"worldZ":0.0,"idCamera":37260,"parentId":38010,"transformId":37088}
+12/9/2019 9:10:50 AM:LoadScene Start
+12-09-2019 09:10:50 : response received : Ok
+12/9/2019 9:10:51 AM:LoadScene Start
+12-09-2019 09:10:51 : response received : Ok
+12/9/2019 9:10:52 AM:Screen tapped at X:540 Y:338
+12-09-2019 09:10:52 : response received : error:notFound
+12/9/2019 9:10:52 AM:Touch at: (540.0, 338.0)
+12-09-2019 09:10:52 : response received : Ok
+12/9/2019 9:12:10 AM:Logging is set to True
+12-09-2019 09:12:10 : response received : Ok
+12/9/2019 9:12:10 AM:findActiveObjectByName for: StartButton
+12-09-2019 09:12:10 : response received : {"name":"StartButton","id":42218,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":41476,"parentId":41666,"transformId":42220}
+12/9/2019 9:12:10 AM:findActiveObjectByName for: StartText
+12-09-2019 09:12:10 : response received : error:notFound
+12/9/2019 9:12:11 AM:findActiveObjectByName for: StartText
+12-09-2019 09:12:11 : response received : error:notFound
+12/9/2019 9:12:11 AM:findActiveObjectByName for: StartText
+12-09-2019 09:12:11 : response received : error:notFound
+12/9/2019 9:12:12 AM:findActiveObjectByName for: StartText
+12-09-2019 09:12:12 : response received : error:notFound
+12/9/2019 9:12:43 AM:Logging is set to True
+12-09-2019 09:12:43 : response received : Ok
+12/9/2019 9:12:43 AM:findActiveObjectByName for: StartButton
+12-09-2019 09:12:43 : response received : {"name":"StartButton","id":31536,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":31436,"parentId":31530,"transformId":31538}
+12/9/2019 9:12:43 AM:findActiveObjectByName for: StartText
+12-09-2019 09:12:43 : response received : {"name":"StartText","id":31554,"x":540,"y":346,"z":0,"mobileY":1574,"type":"","enabled":true,"worldX":540.0,"worldY":346.199951,"worldZ":0.0,"idCamera":31436,"parentId":31538,"transformId":31556}
+12/9/2019 9:12:43 AM:findActiveObjectByName for: LogoImage
+12-09-2019 09:12:43 : response received : {"name":"LogoImage","id":31398,"x":540,"y":1380,"z":0,"mobileY":540,"type":"","enabled":true,"worldX":540.0,"worldY":1380.0,"worldZ":0.0,"idCamera":31436,"parentId":31530,"transformId":31400}
+12/9/2019 9:12:43 AM:findActiveObjectByName for: UnityURLButton
+12-09-2019 09:12:43 : response received : {"name":"UnityURLButton","id":31386,"x":540,"y":18,"z":0,"mobileY":1902,"type":"","enabled":true,"worldX":540.0,"worldY":18.0,"worldZ":0.0,"idCamera":31436,"parentId":31530,"transformId":31388}
+12/9/2019 9:12:43 AM:LoadScene Start
+12-09-2019 09:12:43 : response received : Ok
+12/9/2019 9:12:44 AM:LoadScene Start
+12-09-2019 09:12:44 : response received : Ok
+12/9/2019 9:12:45 AM:Screen tapped at X:540 Y:338
+12-09-2019 09:12:45 : response received : error:notFound
+12/9/2019 9:12:45 AM:findObject for: CharName;;true
+12-09-2019 09:12:45 : response received : error:unknownError;System.Exception: Expected / or // instead of CharName
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.SetCondition (System.Collections.Generic.List`1[T] list) [0x00048] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:49 
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.ProcessPath (System.String path) [0x00013] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:10 
+  at Assets.AltUnityTester.AltUnityServer.Commands.FindObjectCommand.Execute () [0x00064] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\FindObjectCommand.cs:22 
+  at Command+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00004] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\Command.cs:10 
+12/9/2019 9:12:45 AM:findObject for: CharName;;true
+12-09-2019 09:12:45 : response received : error:unknownError;System.Exception: Expected / or // instead of CharName
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.SetCondition (System.Collections.Generic.List`1[T] list) [0x00048] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:49 
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.ProcessPath (System.String path) [0x00013] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:10 
+  at Assets.AltUnityTester.AltUnityServer.Commands.FindObjectCommand.Execute () [0x00064] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\FindObjectCommand.cs:22 
+  at Command+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00004] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\Command.cs:10 
+12/9/2019 9:12:46 AM:findObject for: CharName;;true
+12-09-2019 09:12:46 : response received : error:unknownError;System.Exception: Expected / or // instead of CharName
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.SetCondition (System.Collections.Generic.List`1[T] list) [0x00048] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:49 
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.ProcessPath (System.String path) [0x00013] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:10 
+  at Assets.AltUnityTester.AltUnityServer.Commands.FindObjectCommand.Execute () [0x00064] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\FindObjectCommand.cs:22 
+  at Command+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00004] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\Command.cs:10 
+12/9/2019 9:12:46 AM:findObject for: CharName;;true
+12-09-2019 09:12:46 : response received : error:unknownError;System.Exception: Expected / or // instead of CharName
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.SetCondition (System.Collections.Generic.List`1[T] list) [0x00048] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:49 
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.ProcessPath (System.String path) [0x00013] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:10 
+  at Assets.AltUnityTester.AltUnityServer.Commands.FindObjectCommand.Execute () [0x00064] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\FindObjectCommand.cs:22 
+  at Command+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00004] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\Command.cs:10 
+12/9/2019 9:12:47 AM:findObject for: CharName;;true
+12-09-2019 09:12:47 : response received : error:unknownError;System.Exception: Expected / or // instead of CharName
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.SetCondition (System.Collections.Generic.List`1[T] list) [0x00048] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:49 
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.ProcessPath (System.String path) [0x00013] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:10 
+  at Assets.AltUnityTester.AltUnityServer.Commands.FindObjectCommand.Execute () [0x00064] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\FindObjectCommand.cs:22 
+  at Command+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00004] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\Command.cs:10 
+12/9/2019 9:12:47 AM:findObject for: CharName;;true
+12-09-2019 09:12:47 : response received : error:unknownError;System.Exception: Expected / or // instead of CharName
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.SetCondition (System.Collections.Generic.List`1[T] list) [0x00048] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:49 
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.ProcessPath (System.String path) [0x00013] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:10 
+  at Assets.AltUnityTester.AltUnityServer.Commands.FindObjectCommand.Execute () [0x00064] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\FindObjectCommand.cs:22 
+  at Command+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00004] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\Command.cs:10 
+12/9/2019 9:12:48 AM:findObject for: CharName;;true
+12-09-2019 09:12:48 : response received : error:unknownError;System.Exception: Expected / or // instead of CharName
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.SetCondition (System.Collections.Generic.List`1[T] list) [0x00048] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:49 
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.ProcessPath (System.String path) [0x00013] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:10 
+  at Assets.AltUnityTester.AltUnityServer.Commands.FindObjectCommand.Execute () [0x00064] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\FindObjectCommand.cs:22 
+  at Command+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00004] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\Command.cs:10 
+12/9/2019 9:12:48 AM:findObject for: CharName;;true
+12-09-2019 09:12:48 : response received : error:unknownError;System.Exception: Expected / or // instead of CharName
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.SetCondition (System.Collections.Generic.List`1[T] list) [0x00048] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:49 
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.ProcessPath (System.String path) [0x00013] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:10 
+  at Assets.AltUnityTester.AltUnityServer.Commands.FindObjectCommand.Execute () [0x00064] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\FindObjectCommand.cs:22 
+  at Command+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00004] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\Command.cs:10 
+12/9/2019 9:12:49 AM:findObject for: CharName;;true
+12-09-2019 09:12:49 : response received : error:unknownError;System.Exception: Expected / or // instead of CharName
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.SetCondition (System.Collections.Generic.List`1[T] list) [0x00048] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:49 
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.ProcessPath (System.String path) [0x00013] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:10 
+  at Assets.AltUnityTester.AltUnityServer.Commands.FindObjectCommand.Execute () [0x00064] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\FindObjectCommand.cs:22 
+  at Command+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00004] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\Command.cs:10 
+12/9/2019 9:12:49 AM:findObject for: CharName;;true
+12-09-2019 09:12:49 : response received : error:unknownError;System.Exception: Expected / or // instead of CharName
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.SetCondition (System.Collections.Generic.List`1[T] list) [0x00048] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:49 
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.ProcessPath (System.String path) [0x00013] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:10 
+  at Assets.AltUnityTester.AltUnityServer.Commands.FindObjectCommand.Execute () [0x00064] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\FindObjectCommand.cs:22 
+  at Command+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00004] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\Command.cs:10 
+12/9/2019 9:12:50 AM:findObject for: CharName;;true
+12-09-2019 09:12:50 : response received : error:unknownError;System.Exception: Expected / or // instead of CharName
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.SetCondition (System.Collections.Generic.List`1[T] list) [0x00048] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:49 
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.ProcessPath (System.String path) [0x00013] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:10 
+  at Assets.AltUnityTester.AltUnityServer.Commands.FindObjectCommand.Execute () [0x00064] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\FindObjectCommand.cs:22 
+  at Command+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00004] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\Command.cs:10 
+12/9/2019 9:12:51 AM:findObject for: CharName;;true
+12-09-2019 09:12:51 : response received : error:unknownError;System.Exception: Expected / or // instead of CharName
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.SetCondition (System.Collections.Generic.List`1[T] list) [0x00048] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:49 
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.ProcessPath (System.String path) [0x00013] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:10 
+  at Assets.AltUnityTester.AltUnityServer.Commands.FindObjectCommand.Execute () [0x00064] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\FindObjectCommand.cs:22 
+  at Command+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00004] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\Command.cs:10 
+12/9/2019 9:12:51 AM:findObject for: CharName;;true
+12-09-2019 09:12:51 : response received : error:unknownError;System.Exception: Expected / or // instead of CharName
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.SetCondition (System.Collections.Generic.List`1[T] list) [0x00048] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:49 
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.ProcessPath (System.String path) [0x00013] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:10 
+  at Assets.AltUnityTester.AltUnityServer.Commands.FindObjectCommand.Execute () [0x00064] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\FindObjectCommand.cs:22 
+  at Command+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00004] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\Command.cs:10 
+12/9/2019 9:12:52 AM:findObject for: CharName;;true
+12-09-2019 09:12:52 : response received : error:unknownError;System.Exception: Expected / or // instead of CharName
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.SetCondition (System.Collections.Generic.List`1[T] list) [0x00048] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:49 
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.ProcessPath (System.String path) [0x00013] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:10 
+  at Assets.AltUnityTester.AltUnityServer.Commands.FindObjectCommand.Execute () [0x00064] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\FindObjectCommand.cs:22 
+  at Command+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00004] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\Command.cs:10 
+12/9/2019 9:12:52 AM:findObject for: CharName;;true
+12-09-2019 09:12:52 : response received : error:unknownError;System.Exception: Expected / or // instead of CharName
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.SetCondition (System.Collections.Generic.List`1[T] list) [0x00048] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:49 
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.ProcessPath (System.String path) [0x00013] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:10 
+  at Assets.AltUnityTester.AltUnityServer.Commands.FindObjectCommand.Execute () [0x00064] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\FindObjectCommand.cs:22 
+  at Command+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00004] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\Command.cs:10 
+12/9/2019 9:12:53 AM:findObject for: CharName;;true
+12-09-2019 09:12:53 : response received : error:unknownError;System.Exception: Expected / or // instead of CharName
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.SetCondition (System.Collections.Generic.List`1[T] list) [0x00048] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:49 
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.ProcessPath (System.String path) [0x00013] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:10 
+  at Assets.AltUnityTester.AltUnityServer.Commands.FindObjectCommand.Execute () [0x00064] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\FindObjectCommand.cs:22 
+  at Command+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00004] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\Command.cs:10 
+12/9/2019 9:12:53 AM:findObject for: CharName;;true
+12-09-2019 09:12:53 : response received : error:unknownError;System.Exception: Expected / or // instead of CharName
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.SetCondition (System.Collections.Generic.List`1[T] list) [0x00048] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:49 
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.ProcessPath (System.String path) [0x00013] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:10 
+  at Assets.AltUnityTester.AltUnityServer.Commands.FindObjectCommand.Execute () [0x00064] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\FindObjectCommand.cs:22 
+  at Command+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00004] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\Command.cs:10 
+12/9/2019 9:12:54 AM:findObject for: CharName;;true
+12-09-2019 09:12:54 : response received : error:unknownError;System.Exception: Expected / or // instead of CharName
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.SetCondition (System.Collections.Generic.List`1[T] list) [0x00048] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:49 
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.ProcessPath (System.String path) [0x00013] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:10 
+  at Assets.AltUnityTester.AltUnityServer.Commands.FindObjectCommand.Execute () [0x00064] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\FindObjectCommand.cs:22 
+  at Command+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00004] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\Command.cs:10 
+12/9/2019 9:12:54 AM:findObject for: CharName;;true
+12-09-2019 09:12:54 : response received : error:unknownError;System.Exception: Expected / or // instead of CharName
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.SetCondition (System.Collections.Generic.List`1[T] list) [0x00048] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:49 
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.ProcessPath (System.String path) [0x00013] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:10 
+  at Assets.AltUnityTester.AltUnityServer.Commands.FindObjectCommand.Execute () [0x00064] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\FindObjectCommand.cs:22 
+  at Command+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00004] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\Command.cs:10 
+12/9/2019 9:12:55 AM:findObject for: CharName;;true
+12-09-2019 09:12:55 : response received : error:unknownError;System.Exception: Expected / or // instead of CharName
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.SetCondition (System.Collections.Generic.List`1[T] list) [0x00048] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:49 
+  at Assets.AltUnityTester.AltUnityServer.BaseClassFindObjectsCommand.ProcessPath (System.String path) [0x00013] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\BaseClassFindObjectsCommand.cs:10 
+  at Assets.AltUnityTester.AltUnityServer.Commands.FindObjectCommand.Execute () [0x00064] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\FindObject\FindObjectCommand.cs:22 
+  at Command+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00004] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\Command.cs:10 
+12/9/2019 9:12:55 AM:LoadScene Start
+12-09-2019 09:12:55 : response received : Ok
+12/9/2019 9:15:33 AM:Logging is set to True
+12-09-2019 09:15:33 : response received : Ok
+12/9/2019 9:15:33 AM:findActiveObjectByName for: StartButton
+12-09-2019 09:15:33 : response received : {"name":"StartButton","id":31536,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":31436,"parentId":31530,"transformId":31538}
+12/9/2019 9:15:34 AM:findActiveObjectByName for: StartText
+12-09-2019 09:15:34 : response received : {"name":"StartText","id":31554,"x":540,"y":346,"z":0,"mobileY":1574,"type":"","enabled":true,"worldX":540.0,"worldY":346.199951,"worldZ":0.0,"idCamera":31436,"parentId":31538,"transformId":31556}
+12/9/2019 9:15:34 AM:findActiveObjectByName for: LogoImage
+12-09-2019 09:15:34 : response received : {"name":"LogoImage","id":31398,"x":540,"y":1380,"z":0,"mobileY":540,"type":"","enabled":true,"worldX":540.0,"worldY":1380.0,"worldZ":0.0,"idCamera":31436,"parentId":31530,"transformId":31400}
+12/9/2019 9:15:34 AM:findActiveObjectByName for: UnityURLButton
+12-09-2019 09:15:34 : response received : {"name":"UnityURLButton","id":31386,"x":540,"y":18,"z":0,"mobileY":1902,"type":"","enabled":true,"worldX":540.0,"worldY":18.0,"worldZ":0.0,"idCamera":31436,"parentId":31530,"transformId":31388}
+12/9/2019 9:15:34 AM:LoadScene Start
+12-09-2019 09:15:34 : response received : Ok
+12/9/2019 9:15:34 AM:LoadScene Start
+12-09-2019 09:15:34 : response received : Ok
+12/9/2019 9:15:35 AM:Screen tapped at X:540 Y:338
+12-09-2019 09:15:35 : response received : error:notFound
+12/9/2019 9:15:35 AM:findActiveObjectByName for: CharName
+12-09-2019 09:15:35 : response received : error:notFound
+12/9/2019 9:15:35 AM:findActiveObjectByName for: CharName
+12-09-2019 09:15:35 : response received : error:notFound
+12/9/2019 9:15:36 AM:findActiveObjectByName for: CharName
+12-09-2019 09:15:36 : response received : error:notFound
+12/9/2019 9:15:36 AM:findActiveObjectByName for: CharName
+12-09-2019 09:15:36 : response received : error:notFound
+12/9/2019 9:15:37 AM:findActiveObjectByName for: CharName
+12-09-2019 09:15:37 : response received : error:notFound
+12/9/2019 9:15:38 AM:findActiveObjectByName for: CharName
+12-09-2019 09:15:38 : response received : error:notFound
+12/9/2019 9:15:38 AM:findActiveObjectByName for: CharName
+12-09-2019 09:15:38 : response received : error:notFound
+12/9/2019 9:15:39 AM:findActiveObjectByName for: CharName
+12-09-2019 09:15:39 : response received : error:notFound
+12/9/2019 9:15:39 AM:findActiveObjectByName for: CharName
+12-09-2019 09:15:39 : response received : error:notFound
+12/9/2019 9:15:40 AM:findActiveObjectByName for: CharName
+12-09-2019 09:15:40 : response received : error:notFound
+12/9/2019 9:15:40 AM:findActiveObjectByName for: CharName
+12-09-2019 09:15:40 : response received : error:notFound
+12/9/2019 9:15:41 AM:findActiveObjectByName for: CharName
+12-09-2019 09:15:41 : response received : error:notFound
+12/9/2019 9:15:41 AM:findActiveObjectByName for: CharName
+12-09-2019 09:15:41 : response received : error:notFound
+12/9/2019 9:15:42 AM:findActiveObjectByName for: CharName
+12-09-2019 09:15:42 : response received : error:notFound
+12/9/2019 9:15:42 AM:findActiveObjectByName for: CharName
+12-09-2019 09:15:42 : response received : error:notFound
+12/9/2019 9:15:43 AM:findActiveObjectByName for: CharName
+12-09-2019 09:15:43 : response received : error:notFound
+12/9/2019 9:15:43 AM:findActiveObjectByName for: CharName
+12-09-2019 09:15:43 : response received : error:notFound
+12/9/2019 9:15:44 AM:findActiveObjectByName for: CharName
+12-09-2019 09:15:44 : response received : error:notFound
+12/9/2019 9:15:45 AM:findActiveObjectByName for: CharName
+12-09-2019 09:15:45 : response received : error:notFound
+12/9/2019 9:15:45 AM:findActiveObjectByName for: CharName
+12-09-2019 09:15:45 : response received : error:notFound
+12/9/2019 9:15:46 AM:LoadScene Start
+12-09-2019 09:15:46 : response received : Ok
+12/9/2019 9:17:17 AM:Logging is set to True
+12-09-2019 09:17:17 : response received : Ok
+12/9/2019 9:17:17 AM:findActiveObjectByName for: StartButton
+12-09-2019 09:17:17 : response received : {"name":"StartButton","id":31536,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":31436,"parentId":31530,"transformId":31538}
+12/9/2019 9:17:17 AM:findActiveObjectByName for: StartText
+12-09-2019 09:17:17 : response received : {"name":"StartText","id":31554,"x":540,"y":346,"z":0,"mobileY":1574,"type":"","enabled":true,"worldX":540.0,"worldY":346.199951,"worldZ":0.0,"idCamera":31436,"parentId":31538,"transformId":31556}
+12/9/2019 9:17:17 AM:findActiveObjectByName for: LogoImage
+12-09-2019 09:17:17 : response received : {"name":"LogoImage","id":31398,"x":540,"y":1380,"z":0,"mobileY":540,"type":"","enabled":true,"worldX":540.0,"worldY":1380.0,"worldZ":0.0,"idCamera":31436,"parentId":31530,"transformId":31400}
+12/9/2019 9:17:17 AM:findActiveObjectByName for: UnityURLButton
+12-09-2019 09:17:17 : response received : {"name":"UnityURLButton","id":31386,"x":540,"y":18,"z":0,"mobileY":1902,"type":"","enabled":true,"worldX":540.0,"worldY":18.0,"worldZ":0.0,"idCamera":31436,"parentId":31530,"transformId":31388}
+12/9/2019 9:17:17 AM:LoadScene Start
+12-09-2019 09:17:17 : response received : Ok
+12/9/2019 9:17:17 AM:LoadScene Start
+12-09-2019 09:17:17 : response received : Ok
+12/9/2019 9:17:18 AM:Screen tapped at X:540 Y:338
+12-09-2019 09:17:18 : response received : error:notFound
+12/9/2019 9:17:18 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:17:18 : response received : error:notFound
+12/9/2019 9:17:19 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:17:19 : response received : error:notFound
+12/9/2019 9:17:19 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:17:19 : response received : error:notFound
+12/9/2019 9:17:20 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:17:20 : response received : error:notFound
+12/9/2019 9:17:20 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:17:20 : response received : error:notFound
+12/9/2019 9:17:21 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:17:21 : response received : error:notFound
+12/9/2019 9:17:22 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:17:22 : response received : error:notFound
+12/9/2019 9:17:22 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:17:22 : response received : error:notFound
+12/9/2019 9:17:23 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:17:23 : response received : error:notFound
+12/9/2019 9:17:23 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:17:23 : response received : error:notFound
+12/9/2019 9:17:24 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:17:24 : response received : error:notFound
+12/9/2019 9:17:24 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:17:24 : response received : error:notFound
+12/9/2019 9:17:25 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:17:25 : response received : error:notFound
+12/9/2019 9:17:25 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:17:25 : response received : error:notFound
+12/9/2019 9:17:26 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:17:26 : response received : error:notFound
+12/9/2019 9:17:26 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:17:26 : response received : error:notFound
+12/9/2019 9:17:27 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:17:27 : response received : error:notFound
+12/9/2019 9:17:27 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:17:27 : response received : error:notFound
+12/9/2019 9:17:28 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:17:28 : response received : error:notFound
+12/9/2019 9:17:28 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:17:29 : response received : error:notFound
+12/9/2019 9:17:29 AM:LoadScene Start
+12-09-2019 09:17:29 : response received : Ok
+12/9/2019 9:17:59 AM:Logging is set to True
+12-09-2019 09:17:59 : response received : Ok
+12/9/2019 9:17:59 AM:findActiveObjectByName for: StartButton
+12-09-2019 09:17:59 : response received : {"name":"StartButton","id":63316,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":62464,"parentId":63214,"transformId":63318}
+12/9/2019 9:17:59 AM:findActiveObjectByName for: StartText
+12-09-2019 09:17:59 : response received : {"name":"StartText","id":63390,"x":540,"y":346,"z":0,"mobileY":1574,"type":"","enabled":true,"worldX":540.0,"worldY":346.199951,"worldZ":0.0,"idCamera":62464,"parentId":63318,"transformId":63392}
+12/9/2019 9:18:00 AM:findActiveObjectByName for: LogoImage
+12-09-2019 09:18:00 : response received : {"name":"LogoImage","id":62308,"x":540,"y":1380,"z":0,"mobileY":540,"type":"","enabled":true,"worldX":540.0,"worldY":1380.0,"worldZ":0.0,"idCamera":62464,"parentId":63214,"transformId":62310}
+12/9/2019 9:18:00 AM:findActiveObjectByName for: UnityURLButton
+12-09-2019 09:18:00 : response received : {"name":"UnityURLButton","id":62290,"x":540,"y":18,"z":0,"mobileY":1902,"type":"","enabled":true,"worldX":540.0,"worldY":18.0,"worldZ":0.0,"idCamera":62464,"parentId":63214,"transformId":62292}
+12/9/2019 9:18:00 AM:LoadScene Start
+12-09-2019 09:18:00 : response received : Ok
+12/9/2019 9:18:00 AM:LoadScene Start
+12-09-2019 09:18:00 : response received : Ok
+12/9/2019 9:18:01 AM:Screen tapped at X:540 Y:338
+12-09-2019 09:18:01 : response received : error:notFound
+12/9/2019 9:18:01 AM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 09:18:01 : response received : error:notFound
+12/9/2019 9:18:02 AM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 09:18:02 : response received : error:notFound
+12/9/2019 9:18:02 AM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 09:18:02 : response received : error:notFound
+12/9/2019 9:18:03 AM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 09:18:03 : response received : error:notFound
+12/9/2019 9:18:03 AM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 09:18:04 : response received : error:notFound
+12/9/2019 9:18:04 AM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 09:18:04 : response received : error:notFound
+12/9/2019 9:18:05 AM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 09:18:05 : response received : error:notFound
+12/9/2019 9:18:05 AM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 09:18:05 : response received : error:notFound
+12/9/2019 9:18:06 AM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 09:18:06 : response received : error:notFound
+12/9/2019 9:18:06 AM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 09:18:06 : response received : error:notFound
+12/9/2019 9:18:07 AM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 09:18:07 : response received : error:notFound
+12/9/2019 9:18:07 AM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 09:18:07 : response received : error:notFound
+12/9/2019 9:18:08 AM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 09:18:08 : response received : error:notFound
+12/9/2019 9:18:08 AM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 09:18:08 : response received : error:notFound
+12/9/2019 9:18:09 AM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 09:18:09 : response received : error:notFound
+12/9/2019 9:18:09 AM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 09:18:09 : response received : error:notFound
+12/9/2019 9:18:10 AM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 09:18:10 : response received : error:notFound
+12/9/2019 9:18:10 AM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 09:18:10 : response received : error:notFound
+12/9/2019 9:18:11 AM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 09:18:11 : response received : error:notFound
+12/9/2019 9:19:18 AM:Logging is set to True
+12-09-2019 09:19:18 : response received : Ok
+12/9/2019 9:19:18 AM:findActiveObjectByName for: StartButton
+12-09-2019 09:19:18 : response received : {"name":"StartButton","id":31536,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":31436,"parentId":31530,"transformId":31538}
+12/9/2019 9:19:18 AM:findActiveObjectByName for: StartText
+12-09-2019 09:19:18 : response received : {"name":"StartText","id":31554,"x":540,"y":346,"z":0,"mobileY":1574,"type":"","enabled":true,"worldX":540.0,"worldY":346.199951,"worldZ":0.0,"idCamera":31436,"parentId":31538,"transformId":31556}
+12/9/2019 9:19:18 AM:findActiveObjectByName for: LogoImage
+12-09-2019 09:19:18 : response received : {"name":"LogoImage","id":31398,"x":540,"y":1380,"z":0,"mobileY":540,"type":"","enabled":true,"worldX":540.0,"worldY":1380.0,"worldZ":0.0,"idCamera":31436,"parentId":31530,"transformId":31400}
+12/9/2019 9:19:18 AM:findActiveObjectByName for: UnityURLButton
+12-09-2019 09:19:18 : response received : {"name":"UnityURLButton","id":31386,"x":540,"y":18,"z":0,"mobileY":1902,"type":"","enabled":true,"worldX":540.0,"worldY":18.0,"worldZ":0.0,"idCamera":31436,"parentId":31530,"transformId":31388}
+12/9/2019 9:19:18 AM:LoadScene Start
+12-09-2019 09:19:18 : response received : Ok
+12/9/2019 9:19:19 AM:LoadScene Start
+12-09-2019 09:19:19 : response received : Ok
+12/9/2019 9:19:20 AM:tapped object by name StartButton
+12-09-2019 09:19:20 : response received : error:unknownError;Assets.AltUnityTester.AltUnityDriver.NotFoundException: Object not found
+  at AltUnityRunner.GetGameObject (AltUnityObject altUnityObject) [0x00033] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\AltUnityRunner.cs:505 
+  at Assets.AltUnityTester.AltUnityServer.Commands.TapCommand.Execute () [0x00067] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\InputActions\TapCommand.cs:18 
+  at Command+<>c__DisplayClass0_0.<SendResponse>b__0 () [0x00004] in D:\AltUnity\JavaTesting\Assets\AltUnityTester\AltUnityServer\Commands\Command.cs:10 
+12/9/2019 9:19:20 AM:LoadScene Start
+12-09-2019 09:19:20 : response received : Ok
+12/9/2019 9:20:22 AM:Logging is set to True
+12-09-2019 09:20:22 : response received : Ok
+12/9/2019 9:20:22 AM:findActiveObjectByName for: StartButton
+12-09-2019 09:20:22 : response received : {"name":"StartButton","id":71130,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":70278,"parentId":71028,"transformId":71132}
+12/9/2019 9:20:23 AM:findActiveObjectByName for: StartText
+12-09-2019 09:20:23 : response received : {"name":"StartText","id":71204,"x":540,"y":346,"z":0,"mobileY":1574,"type":"","enabled":true,"worldX":540.0,"worldY":346.199951,"worldZ":0.0,"idCamera":70278,"parentId":71132,"transformId":71206}
+12/9/2019 9:20:23 AM:findActiveObjectByName for: LogoImage
+12-09-2019 09:20:23 : response received : {"name":"LogoImage","id":70122,"x":540,"y":1380,"z":0,"mobileY":540,"type":"","enabled":true,"worldX":540.0,"worldY":1380.0,"worldZ":0.0,"idCamera":70278,"parentId":71028,"transformId":70124}
+12/9/2019 9:20:23 AM:findActiveObjectByName for: UnityURLButton
+12-09-2019 09:20:23 : response received : {"name":"UnityURLButton","id":70104,"x":540,"y":18,"z":0,"mobileY":1902,"type":"","enabled":true,"worldX":540.0,"worldY":18.0,"worldZ":0.0,"idCamera":70278,"parentId":71028,"transformId":70106}
+12/9/2019 9:20:23 AM:LoadScene Start
+12-09-2019 09:20:23 : response received : Ok
+12/9/2019 9:20:24 AM:LoadScene Start
+12-09-2019 09:20:24 : response received : Ok
+12/9/2019 9:20:25 AM:Touch at: (540.0, 338.0)
+12-09-2019 09:20:25 : response received : Ok
+12/9/2019 9:20:25 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:20:25 : response received : error:notFound
+12/9/2019 9:20:25 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:20:25 : response received : error:notFound
+12/9/2019 9:20:26 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:20:26 : response received : error:notFound
+12/9/2019 9:20:26 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:20:26 : response received : error:notFound
+12/9/2019 9:20:27 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:20:27 : response received : error:notFound
+12/9/2019 9:20:27 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:20:27 : response received : error:notFound
+12/9/2019 9:20:28 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:20:28 : response received : error:notFound
+12/9/2019 9:20:28 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:20:28 : response received : error:notFound
+12/9/2019 9:20:29 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:20:29 : response received : error:notFound
+12/9/2019 9:20:29 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:20:29 : response received : error:notFound
+12/9/2019 9:20:30 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:20:30 : response received : error:notFound
+12/9/2019 9:20:31 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:20:31 : response received : error:notFound
+12/9/2019 9:20:31 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:20:31 : response received : error:notFound
+12/9/2019 9:21:24 AM:Logging is set to True
+12-09-2019 09:21:24 : response received : Ok
+12/9/2019 9:21:24 AM:findActiveObjectByName for: StartButton
+12-09-2019 09:21:24 : response received : {"name":"StartButton","id":31536,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":31436,"parentId":31530,"transformId":31538}
+12/9/2019 9:21:25 AM:findActiveObjectByName for: StartText
+12-09-2019 09:21:25 : response received : {"name":"StartText","id":31554,"x":540,"y":346,"z":0,"mobileY":1574,"type":"","enabled":true,"worldX":540.0,"worldY":346.199951,"worldZ":0.0,"idCamera":31436,"parentId":31538,"transformId":31556}
+12/9/2019 9:21:25 AM:findActiveObjectByName for: LogoImage
+12-09-2019 09:21:25 : response received : {"name":"LogoImage","id":31398,"x":540,"y":1380,"z":0,"mobileY":540,"type":"","enabled":true,"worldX":540.0,"worldY":1380.0,"worldZ":0.0,"idCamera":31436,"parentId":31530,"transformId":31400}
+12/9/2019 9:21:25 AM:findActiveObjectByName for: UnityURLButton
+12-09-2019 09:21:25 : response received : {"name":"UnityURLButton","id":31386,"x":540,"y":18,"z":0,"mobileY":1902,"type":"","enabled":true,"worldX":540.0,"worldY":18.0,"worldZ":0.0,"idCamera":31436,"parentId":31530,"transformId":31388}
+12/9/2019 9:21:25 AM:LoadScene Start
+12-09-2019 09:21:25 : response received : Ok
+12/9/2019 9:21:25 AM:LoadScene Start
+12-09-2019 09:21:25 : response received : Ok
+12/9/2019 9:21:26 AM:Screen tapped at X:540 Y:338
+12-09-2019 09:21:26 : response received : error:notFound
+12/9/2019 9:21:26 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:21:26 : response received : error:notFound
+12/9/2019 9:21:27 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:21:27 : response received : error:notFound
+12/9/2019 9:21:27 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:21:27 : response received : error:notFound
+12/9/2019 9:21:28 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:21:28 : response received : error:notFound
+12/9/2019 9:21:28 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:21:28 : response received : error:notFound
+12/9/2019 9:21:29 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:21:29 : response received : error:notFound
+12/9/2019 9:21:29 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:21:29 : response received : error:notFound
+12/9/2019 9:21:30 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:21:30 : response received : error:notFound
+12/9/2019 9:21:30 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:21:30 : response received : error:notFound
+12/9/2019 9:21:31 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:21:31 : response received : error:notFound
+12/9/2019 9:21:31 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:21:31 : response received : error:notFound
+12/9/2019 9:21:32 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:21:32 : response received : error:notFound
+12/9/2019 9:21:32 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:21:32 : response received : error:notFound
+12/9/2019 9:21:33 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:21:33 : response received : error:notFound
+12/9/2019 9:21:34 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:21:34 : response received : error:notFound
+12/9/2019 9:21:34 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:21:34 : response received : error:notFound
+12/9/2019 9:21:35 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:21:35 : response received : error:notFound
+12/9/2019 9:21:35 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:21:35 : response received : error:notFound
+12/9/2019 9:21:36 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:21:36 : response received : error:notFound
+12/9/2019 9:21:36 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:21:36 : response received : error:notFound
+12/9/2019 9:21:37 AM:LoadScene Start
+12-09-2019 09:21:37 : response received : Ok
+12/9/2019 9:39:50 AM:Logging is set to True
+12-09-2019 09:39:50 : response received : Ok
+12/9/2019 9:39:50 AM:findActiveObjectByName for: StartButton
+12-09-2019 09:39:50 : response received : {"name":"StartButton","id":31536,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":31436,"parentId":31530,"transformId":31538}
+12/9/2019 9:39:50 AM:findActiveObjectByName for: StartText
+12-09-2019 09:39:50 : response received : {"name":"StartText","id":31554,"x":540,"y":346,"z":0,"mobileY":1574,"type":"","enabled":true,"worldX":540.0,"worldY":346.199951,"worldZ":0.0,"idCamera":31436,"parentId":31538,"transformId":31556}
+12/9/2019 9:39:50 AM:findActiveObjectByName for: LogoImage
+12-09-2019 09:39:50 : response received : {"name":"LogoImage","id":31398,"x":540,"y":1380,"z":0,"mobileY":540,"type":"","enabled":true,"worldX":540.0,"worldY":1380.0,"worldZ":0.0,"idCamera":31436,"parentId":31530,"transformId":31400}
+12/9/2019 9:39:50 AM:findActiveObjectByName for: UnityURLButton
+12-09-2019 09:39:50 : response received : {"name":"UnityURLButton","id":31386,"x":540,"y":18,"z":0,"mobileY":1902,"type":"","enabled":true,"worldX":540.0,"worldY":18.0,"worldZ":0.0,"idCamera":31436,"parentId":31530,"transformId":31388}
+12/9/2019 9:39:50 AM:LoadScene Start
+12-09-2019 09:39:50 : response received : Ok
+12/9/2019 9:39:50 AM:LoadScene Start
+12-09-2019 09:39:50 : response received : Ok
+12/9/2019 9:39:51 AM:Screen tapped at X:540 Y:338
+12-09-2019 09:39:51 : response received : error:notFound
+12/9/2019 9:39:52 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:39:52 : response received : error:notFound
+12/9/2019 9:39:52 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:39:52 : response received : error:notFound
+12/9/2019 9:39:53 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:39:53 : response received : error:notFound
+12/9/2019 9:39:53 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:39:53 : response received : error:notFound
+12/9/2019 9:39:54 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:39:54 : response received : error:notFound
+12/9/2019 9:39:54 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:39:54 : response received : error:notFound
+12/9/2019 9:39:55 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:39:55 : response received : error:notFound
+12/9/2019 9:39:55 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:39:55 : response received : error:notFound
+12/9/2019 9:39:56 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:39:56 : response received : error:notFound
+12/9/2019 9:39:56 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:39:56 : response received : error:notFound
+12/9/2019 9:39:57 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:39:57 : response received : error:notFound
+12/9/2019 9:39:57 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:39:57 : response received : error:notFound
+12/9/2019 9:39:58 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:39:58 : response received : error:notFound
+12/9/2019 9:39:59 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:39:59 : response received : error:notFound
+12/9/2019 9:39:59 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:39:59 : response received : error:notFound
+12/9/2019 9:40:00 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:40:00 : response received : error:notFound
+12/9/2019 9:40:00 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:40:00 : response received : error:notFound
+12/9/2019 9:40:01 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:40:01 : response received : error:notFound
+12/9/2019 9:40:01 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:40:01 : response received : error:notFound
+12/9/2019 9:40:02 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:40:02 : response received : error:notFound
+12/9/2019 9:40:02 AM:LoadScene Start
+12-09-2019 09:40:02 : response received : Ok
+12/9/2019 9:42:29 AM:Logging is set to True
+12-09-2019 09:42:29 : response received : Ok
+12/9/2019 9:42:29 AM:findActiveObjectByName for: StartButton
+12-09-2019 09:42:29 : response received : {"name":"StartButton","id":86772,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":86672,"parentId":86766,"transformId":86774}
+12/9/2019 9:42:29 AM:findActiveObjectByName for: StartText
+12-09-2019 09:42:29 : response received : {"name":"StartText","id":86790,"x":540,"y":346,"z":0,"mobileY":1574,"type":"","enabled":true,"worldX":540.0,"worldY":346.199951,"worldZ":0.0,"idCamera":86672,"parentId":86774,"transformId":86792}
+12/9/2019 9:42:29 AM:findActiveObjectByName for: LogoImage
+12-09-2019 09:42:29 : response received : {"name":"LogoImage","id":86634,"x":540,"y":1380,"z":0,"mobileY":540,"type":"","enabled":true,"worldX":540.0,"worldY":1380.0,"worldZ":0.0,"idCamera":86672,"parentId":86766,"transformId":86636}
+12/9/2019 9:42:29 AM:findActiveObjectByName for: UnityURLButton
+12-09-2019 09:42:29 : response received : {"name":"UnityURLButton","id":86622,"x":540,"y":18,"z":0,"mobileY":1902,"type":"","enabled":true,"worldX":540.0,"worldY":18.0,"worldZ":0.0,"idCamera":86672,"parentId":86766,"transformId":86624}
+12/9/2019 9:42:29 AM:LoadScene Start
+12-09-2019 09:42:29 : response received : Ok
+12/9/2019 9:42:29 AM:LoadScene Start
+12-09-2019 09:42:29 : response received : Ok
+12/9/2019 9:42:30 AM:Screen tapped at X:540 Y:338
+12-09-2019 09:42:30 : response received : error:notFound
+12/9/2019 9:42:30 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:42:30 : response received : error:notFound
+12/9/2019 9:42:31 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:42:31 : response received : error:notFound
+12/9/2019 9:42:31 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:42:31 : response received : error:notFound
+12/9/2019 9:42:32 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:42:32 : response received : error:notFound
+12/9/2019 9:42:32 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:42:32 : response received : error:notFound
+12/9/2019 9:42:33 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:42:33 : response received : error:notFound
+12/9/2019 9:42:33 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:42:33 : response received : error:notFound
+12/9/2019 9:42:34 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:42:34 : response received : error:notFound
+12/9/2019 9:42:34 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:42:34 : response received : error:notFound
+12/9/2019 9:42:35 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:42:35 : response received : error:notFound
+12/9/2019 9:42:36 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:42:36 : response received : error:notFound
+12/9/2019 9:42:36 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:42:36 : response received : error:notFound
+12/9/2019 9:42:37 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:42:37 : response received : error:notFound
+12/9/2019 9:42:37 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:42:37 : response received : error:notFound
+12/9/2019 9:42:38 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:42:38 : response received : error:notFound
+12/9/2019 9:42:38 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:42:38 : response received : error:notFound
+12/9/2019 9:42:39 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:42:39 : response received : error:notFound
+12/9/2019 9:42:39 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:42:39 : response received : error:notFound
+12/9/2019 9:42:40 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:42:40 : response received : error:notFound
+12/9/2019 9:42:40 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:42:40 : response received : error:notFound
+12/9/2019 9:44:33 AM:Logging is set to True
+12-09-2019 09:44:33 : response received : Ok
+12/9/2019 9:44:33 AM:findActiveObjectByName for: StartButton
+12-09-2019 09:44:33 : response received : {"name":"StartButton","id":90798,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":89952,"parentId":90736,"transformId":90800}
+12/9/2019 9:44:33 AM:findActiveObjectByName for: StartText
+12-09-2019 09:44:33 : response received : {"name":"StartText","id":90854,"x":540,"y":346,"z":0,"mobileY":1574,"type":"","enabled":true,"worldX":540.0,"worldY":346.199951,"worldZ":0.0,"idCamera":89952,"parentId":90800,"transformId":90856}
+12/9/2019 9:44:33 AM:findActiveObjectByName for: LogoImage
+12-09-2019 09:44:33 : response received : {"name":"LogoImage","id":89736,"x":540,"y":1380,"z":0,"mobileY":540,"type":"","enabled":true,"worldX":540.0,"worldY":1380.0,"worldZ":0.0,"idCamera":89952,"parentId":90736,"transformId":89738}
+12/9/2019 9:44:33 AM:findActiveObjectByName for: UnityURLButton
+12-09-2019 09:44:33 : response received : {"name":"UnityURLButton","id":89706,"x":540,"y":18,"z":0,"mobileY":1902,"type":"","enabled":true,"worldX":540.0,"worldY":18.0,"worldZ":0.0,"idCamera":89952,"parentId":90736,"transformId":89708}
+12/9/2019 9:44:33 AM:LoadScene Start
+12-09-2019 09:44:33 : response received : Ok
+12/9/2019 9:44:34 AM:LoadScene Start
+12-09-2019 09:44:34 : response received : Ok
+12/9/2019 9:44:35 AM:Screen tapped at X:540 Y:338
+12-09-2019 09:44:35 : response received : error:notFound
+12/9/2019 9:44:35 AM:Touch at: (540.0, 338.0)
+12-09-2019 09:44:35 : response received : Ok
+12/9/2019 9:44:35 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:44:35 : response received : error:notFound
+12/9/2019 9:44:35 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:44:35 : response received : error:notFound
+12/9/2019 9:44:37 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:44:37 : response received : {"name":"CharName","id":93914,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":94110,"parentId":95134,"transformId":93916}
+12/9/2019 9:44:37 AM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 09:44:37 : response received : {"name":"OpenLeaderboard","id":94914,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":94110,"parentId":94300,"transformId":94916}
+12/9/2019 9:44:37 AM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 09:44:37 : response received : {"name":"MissionButton","id":93794,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":94110,"parentId":94300,"transformId":93796}
+12/9/2019 9:44:37 AM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 09:44:37 : response received : {"name":"StartButton","id":94852,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":94110,"parentId":94300,"transformId":94854}
+12/9/2019 9:44:37 AM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 09:44:37 : response received : {"name":"SettingButton","id":94520,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":94110,"parentId":94300,"transformId":94522}
+12/9/2019 9:44:37 AM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 09:44:37 : response received : {"name":"StoreButton","id":94440,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":94110,"parentId":94300,"transformId":94442}
+12/9/2019 9:44:37 AM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 09:44:37 : response received : {"name":"ThemeZone","id":95208,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":94110,"parentId":94300,"transformId":95210}
+12/9/2019 9:45:24 AM:Logging is set to True
+12-09-2019 09:45:24 : response received : Ok
+12/9/2019 9:45:24 AM:findActiveObjectByName for: StartButton
+12-09-2019 09:45:24 : response received : {"name":"StartButton","id":94852,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":94110,"parentId":94300,"transformId":94854}
+12/9/2019 9:45:24 AM:findActiveObjectByName for: StartText
+12-09-2019 09:45:24 : response received : error:notFound
+12/9/2019 9:45:25 AM:findActiveObjectByName for: StartText
+12-09-2019 09:45:25 : response received : error:notFound
+12/9/2019 9:45:25 AM:findActiveObjectByName for: StartText
+12-09-2019 09:45:25 : response received : error:notFound
+12/9/2019 9:45:26 AM:findActiveObjectByName for: StartText
+12-09-2019 09:45:26 : response received : error:notFound
+12/9/2019 9:47:06 AM:Logging is set to True
+12-09-2019 09:47:06 : response received : Ok
+12/9/2019 9:47:06 AM:findActiveObjectByName for: StartButton
+12-09-2019 09:47:06 : response received : {"name":"StartButton","id":94852,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":94110,"parentId":94300,"transformId":94854}
+12/9/2019 9:47:06 AM:findActiveObjectByName for: StartText
+12-09-2019 09:47:06 : response received : error:notFound
+12/9/2019 9:47:06 AM:findActiveObjectByName for: StartText
+12-09-2019 09:47:06 : response received : error:notFound
+12/9/2019 9:47:07 AM:findActiveObjectByName for: StartText
+12-09-2019 09:47:07 : response received : error:notFound
+12/9/2019 9:47:07 AM:findActiveObjectByName for: StartText
+12-09-2019 09:47:07 : response received : error:notFound
+12/9/2019 9:49:07 AM:Logging is set to True
+12-09-2019 09:49:07 : response received : Ok
+12/9/2019 9:49:07 AM:LoadScene Start
+12-09-2019 09:49:07 : response received : Ok
+12/9/2019 9:49:07 AM:findActiveObjectByName for: StartButton
+12-09-2019 09:49:07 : response received : {"name":"StartButton","id":96708,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":95862,"parentId":96646,"transformId":96710}
+12/9/2019 9:49:07 AM:findActiveObjectByName for: StartText
+12-09-2019 09:49:07 : response received : {"name":"StartText","id":96764,"x":540,"y":346,"z":0,"mobileY":1574,"type":"","enabled":true,"worldX":540.0,"worldY":346.199951,"worldZ":0.0,"idCamera":95862,"parentId":96710,"transformId":96766}
+12/9/2019 9:49:07 AM:findActiveObjectByName for: LogoImage
+12-09-2019 09:49:07 : response received : {"name":"LogoImage","id":95646,"x":540,"y":1380,"z":0,"mobileY":540,"type":"","enabled":true,"worldX":540.0,"worldY":1380.0,"worldZ":0.0,"idCamera":95862,"parentId":96646,"transformId":95648}
+12/9/2019 9:49:07 AM:findActiveObjectByName for: UnityURLButton
+12-09-2019 09:49:07 : response received : {"name":"UnityURLButton","id":95616,"x":540,"y":18,"z":0,"mobileY":1902,"type":"","enabled":true,"worldX":540.0,"worldY":18.0,"worldZ":0.0,"idCamera":95862,"parentId":96646,"transformId":95618}
+12/9/2019 9:49:07 AM:Touch at: (540.0, 338.0)
+12-09-2019 09:49:07 : response received : Ok
+12/9/2019 9:49:07 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:49:07 : response received : error:notFound
+12/9/2019 9:49:08 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:49:08 : response received : error:notFound
+12/9/2019 9:49:08 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:49:08 : response received : error:notFound
+12/9/2019 9:49:09 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:49:09 : response received : {"name":"CharName","id":97224,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":97420,"parentId":98444,"transformId":97226}
+12/9/2019 9:49:09 AM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 09:49:09 : response received : {"name":"OpenLeaderboard","id":98224,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":97420,"parentId":97610,"transformId":98226}
+12/9/2019 9:49:09 AM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 09:49:09 : response received : {"name":"MissionButton","id":97104,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":97420,"parentId":97610,"transformId":97106}
+12/9/2019 9:49:09 AM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 09:49:09 : response received : {"name":"StartButton","id":98162,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":97420,"parentId":97610,"transformId":98164}
+12/9/2019 9:49:09 AM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 09:49:09 : response received : {"name":"SettingButton","id":97830,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":97420,"parentId":97610,"transformId":97832}
+12/9/2019 9:49:09 AM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 09:49:09 : response received : {"name":"StoreButton","id":97750,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":97420,"parentId":97610,"transformId":97752}
+12/9/2019 9:49:09 AM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 09:49:09 : response received : {"name":"ThemeZone","id":98518,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":97420,"parentId":97610,"transformId":98520}
+12/9/2019 9:49:09 AM:LoadScene Start
+12-09-2019 09:49:09 : response received : Ok
+12/9/2019 9:49:10 AM:findActiveObjectByName for: StartButton
+12-09-2019 09:49:10 : response received : {"name":"StartButton","id":100018,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":99172,"parentId":99956,"transformId":100020}
+12/9/2019 9:49:10 AM:findActiveObjectByName for: StartText
+12-09-2019 09:49:10 : response received : {"name":"StartText","id":100074,"x":540,"y":346,"z":0,"mobileY":1574,"type":"","enabled":true,"worldX":540.0,"worldY":346.199951,"worldZ":0.0,"idCamera":99172,"parentId":100020,"transformId":100076}
+12/9/2019 9:49:10 AM:findActiveObjectByName for: LogoImage
+12-09-2019 09:49:10 : response received : {"name":"LogoImage","id":98956,"x":540,"y":1380,"z":0,"mobileY":540,"type":"","enabled":true,"worldX":540.0,"worldY":1380.0,"worldZ":0.0,"idCamera":99172,"parentId":99956,"transformId":98958}
+12/9/2019 9:49:10 AM:findActiveObjectByName for: UnityURLButton
+12-09-2019 09:49:10 : response received : {"name":"UnityURLButton","id":98926,"x":540,"y":18,"z":0,"mobileY":1902,"type":"","enabled":true,"worldX":540.0,"worldY":18.0,"worldZ":0.0,"idCamera":99172,"parentId":99956,"transformId":98928}
+12/9/2019 9:49:47 AM:Logging is set to True
+12-09-2019 09:49:47 : response received : Ok
+12/9/2019 9:49:47 AM:LoadScene Start
+12-09-2019 09:49:47 : response received : Ok
+12/9/2019 9:49:47 AM:findActiveObjectByName for: StartButton
+12-09-2019 09:49:47 : response received : {"name":"StartButton","id":101318,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":100472,"parentId":101256,"transformId":101320}
+12/9/2019 9:49:47 AM:findActiveObjectByName for: StartText
+12-09-2019 09:49:47 : response received : {"name":"StartText","id":101374,"x":540,"y":346,"z":0,"mobileY":1574,"type":"","enabled":true,"worldX":540.0,"worldY":346.199951,"worldZ":0.0,"idCamera":100472,"parentId":101320,"transformId":101376}
+12/9/2019 9:49:47 AM:findActiveObjectByName for: LogoImage
+12-09-2019 09:49:47 : response received : {"name":"LogoImage","id":100256,"x":540,"y":1380,"z":0,"mobileY":540,"type":"","enabled":true,"worldX":540.0,"worldY":1380.0,"worldZ":0.0,"idCamera":100472,"parentId":101256,"transformId":100258}
+12/9/2019 9:49:47 AM:findActiveObjectByName for: UnityURLButton
+12-09-2019 09:49:47 : response received : {"name":"UnityURLButton","id":100226,"x":540,"y":18,"z":0,"mobileY":1902,"type":"","enabled":true,"worldX":540.0,"worldY":18.0,"worldZ":0.0,"idCamera":100472,"parentId":101256,"transformId":100228}
+12/9/2019 9:49:47 AM:Screen tapped at X:540 Y:33812/9/2019 9:49:47 AM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 09:49:47 : response received : {"name":"StartButton","id":101318,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":100472,"parentId":101256,"transformId":101320}
+12/9/2019 9:49:47 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:49:47 : response received : {"name":"CharName","id":101834,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":102030,"parentId":103054,"transformId":101836}
+12/9/2019 9:49:48 AM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 09:49:48 : response received : {"name":"OpenLeaderboard","id":102834,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":102030,"parentId":102220,"transformId":102836}
+12/9/2019 9:49:48 AM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 09:49:48 : response received : {"name":"MissionButton","id":101714,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":102030,"parentId":102220,"transformId":101716}
+12/9/2019 9:49:48 AM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 09:49:48 : response received : {"name":"StartButton","id":102772,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":102030,"parentId":102220,"transformId":102774}
+12/9/2019 9:49:48 AM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 09:49:48 : response received : {"name":"SettingButton","id":102440,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":102030,"parentId":102220,"transformId":102442}
+12/9/2019 9:49:48 AM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 09:49:48 : response received : {"name":"StoreButton","id":102360,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":102030,"parentId":102220,"transformId":102362}
+12/9/2019 9:49:48 AM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 09:49:48 : response received : {"name":"ThemeZone","id":103128,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":102030,"parentId":102220,"transformId":103130}
+12/9/2019 9:49:48 AM:LoadScene Start
+12-09-2019 09:49:48 : response received : Ok
+12/9/2019 9:49:48 AM:findActiveObjectByName for: StartButton
+12-09-2019 09:49:48 : response received : {"name":"StartButton","id":104628,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":103782,"parentId":104566,"transformId":104630}
+12/9/2019 9:49:48 AM:findActiveObjectByName for: StartText
+12-09-2019 09:49:48 : response received : {"name":"StartText","id":104684,"x":540,"y":346,"z":0,"mobileY":1574,"type":"","enabled":true,"worldX":540.0,"worldY":346.199951,"worldZ":0.0,"idCamera":103782,"parentId":104630,"transformId":104686}
+12/9/2019 9:49:48 AM:findActiveObjectByName for: LogoImage
+12-09-2019 09:49:48 : response received : {"name":"LogoImage","id":103566,"x":540,"y":1380,"z":0,"mobileY":540,"type":"","enabled":true,"worldX":540.0,"worldY":1380.0,"worldZ":0.0,"idCamera":103782,"parentId":104566,"transformId":103568}
+12/9/2019 9:49:48 AM:findActiveObjectByName for: UnityURLButton
+12-09-2019 09:49:48 : response received : {"name":"UnityURLButton","id":103536,"x":540,"y":18,"z":0,"mobileY":1902,"type":"","enabled":true,"worldX":540.0,"worldY":18.0,"worldZ":0.0,"idCamera":103782,"parentId":104566,"transformId":103538}
+12/9/2019 9:50:08 AM:Logging is set to True
+12-09-2019 09:50:08 : response received : Ok
+12/9/2019 9:50:08 AM:LoadScene Start
+12-09-2019 09:50:08 : response received : Ok
+12/9/2019 9:50:08 AM:findActiveObjectByName for: StartButton
+12-09-2019 09:50:08 : response received : {"name":"StartButton","id":105928,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":105082,"parentId":105866,"transformId":105930}
+12/9/2019 9:50:08 AM:findActiveObjectByName for: StartText
+12-09-2019 09:50:08 : response received : {"name":"StartText","id":105984,"x":540,"y":346,"z":0,"mobileY":1574,"type":"","enabled":true,"worldX":540.0,"worldY":346.199951,"worldZ":0.0,"idCamera":105082,"parentId":105930,"transformId":105986}
+12/9/2019 9:50:08 AM:findActiveObjectByName for: LogoImage
+12-09-2019 09:50:08 : response received : {"name":"LogoImage","id":104866,"x":540,"y":1380,"z":0,"mobileY":540,"type":"","enabled":true,"worldX":540.0,"worldY":1380.0,"worldZ":0.0,"idCamera":105082,"parentId":105866,"transformId":104868}
+12/9/2019 9:50:08 AM:findActiveObjectByName for: UnityURLButton
+12-09-2019 09:50:08 : response received : {"name":"UnityURLButton","id":104836,"x":540,"y":18,"z":0,"mobileY":1902,"type":"","enabled":true,"worldX":540.0,"worldY":18.0,"worldZ":0.0,"idCamera":105082,"parentId":105866,"transformId":104838}
+12/9/2019 9:50:08 AM:tapped object by name StartButton12/9/2019 9:50:08 AM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 09:50:08 : response received : {"name":"StartButton","id":105928,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":105082,"parentId":105866,"transformId":105930}
+12/9/2019 9:50:08 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 09:50:08 : response received : {"name":"CharName","id":106444,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":106640,"parentId":107664,"transformId":106446}
+12/9/2019 9:50:09 AM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 09:50:09 : response received : {"name":"OpenLeaderboard","id":107444,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":106640,"parentId":106830,"transformId":107446}
+12/9/2019 9:50:09 AM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 09:50:09 : response received : {"name":"MissionButton","id":106324,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":106640,"parentId":106830,"transformId":106326}
+12/9/2019 9:50:09 AM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 09:50:09 : response received : {"name":"StartButton","id":107382,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":106640,"parentId":106830,"transformId":107384}
+12/9/2019 9:50:09 AM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 09:50:09 : response received : {"name":"SettingButton","id":107050,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":106640,"parentId":106830,"transformId":107052}
+12/9/2019 9:50:09 AM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 09:50:09 : response received : {"name":"StoreButton","id":106970,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":106640,"parentId":106830,"transformId":106972}
+12/9/2019 9:50:09 AM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 09:50:09 : response received : {"name":"ThemeZone","id":107738,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":106640,"parentId":106830,"transformId":107740}
+12/9/2019 9:50:09 AM:LoadScene Start
+12-09-2019 09:50:09 : response received : Ok
+12/9/2019 9:50:09 AM:findActiveObjectByName for: StartButton
+12-09-2019 09:50:09 : response received : {"name":"StartButton","id":109238,"x":540,"y":338,"z":0,"mobileY":1582,"type":"","enabled":true,"worldX":540.0,"worldY":337.5,"worldZ":0.0,"idCamera":108392,"parentId":109176,"transformId":109240}
+12/9/2019 9:50:09 AM:findActiveObjectByName for: StartText
+12-09-2019 09:50:09 : response received : {"name":"StartText","id":109294,"x":540,"y":346,"z":0,"mobileY":1574,"type":"","enabled":true,"worldX":540.0,"worldY":346.199951,"worldZ":0.0,"idCamera":108392,"parentId":109240,"transformId":109296}
+12/9/2019 9:50:09 AM:findActiveObjectByName for: LogoImage
+12-09-2019 09:50:09 : response received : {"name":"LogoImage","id":108176,"x":540,"y":1380,"z":0,"mobileY":540,"type":"","enabled":true,"worldX":540.0,"worldY":1380.0,"worldZ":0.0,"idCamera":108392,"parentId":109176,"transformId":108178}
+12/9/2019 9:50:09 AM:findActiveObjectByName for: UnityURLButton
+12-09-2019 09:50:09 : response received : {"name":"UnityURLButton","id":108146,"x":540,"y":18,"z":0,"mobileY":1902,"type":"","enabled":true,"worldX":540.0,"worldY":18.0,"worldZ":0.0,"idCamera":108392,"parentId":109176,"transformId":108148}
