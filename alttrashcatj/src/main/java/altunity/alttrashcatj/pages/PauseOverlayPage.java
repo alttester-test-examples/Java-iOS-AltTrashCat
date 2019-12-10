@@ -13,17 +13,25 @@ public class PauseOverlayPage extends BasePage{
 
     public PauseOverlayPage(AltUnityDriver driver) {
         super(driver);
+
+    }
+
+    public void getResumeButton(){
         AltFindObjectsParameters par=new AltFindObjectsParameters.Builder(AltUnityDriver.By.PATH, "//Game/PauseMenu/Resume").build();
         AltWaitForObjectsParameters params = new AltWaitForObjectsParameters.Builder(par).withTimeout(2).build();
-        this.resumeButton = driver.waitForObject(params);
+        this.resumeButton = getDriver().waitForObject(params);
+    }
 
-        par=new AltFindObjectsParameters.Builder(AltUnityDriver.By.PATH, "//Game/PauseMenu/Exit").build();
-        params = new AltWaitForObjectsParameters.Builder(par).withTimeout(2).build();
-        this.mainMenuButton = driver.waitForObject(params);
+    public void getMainMenuButton(){
+        AltFindObjectsParameters par=new AltFindObjectsParameters.Builder(AltUnityDriver.By.PATH, "//Game/PauseMenu/Exit").build();
+        AltWaitForObjectsParameters params = new AltWaitForObjectsParameters.Builder(par).withTimeout(2).build();
+        this.mainMenuButton = getDriver().waitForObject(params);
+    }
 
-        par=new AltFindObjectsParameters.Builder(AltUnityDriver.By.PATH, "//Game/PauseMenu/Text").build();
-        params = new AltWaitForObjectsParameters.Builder(par).withTimeout(2).build();
-        this.title = driver.waitForObject(params);
+    public void getTitle(){
+        AltFindObjectsParameters par=new AltFindObjectsParameters.Builder(AltUnityDriver.By.PATH, "//Game/PauseMenu/Text").build();
+        AltWaitForObjectsParameters params = new AltWaitForObjectsParameters.Builder(par).withTimeout(2).build();
+        this.title = getDriver().waitForObject(params);
     }
 
     public boolean isDisplayed(){

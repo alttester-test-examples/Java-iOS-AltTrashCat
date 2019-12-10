@@ -889,3 +889,1521 @@
 12-09-2019 09:50:09 : response received : {"name":"LogoImage","id":108176,"x":540,"y":1380,"z":0,"mobileY":540,"type":"","enabled":true,"worldX":540.0,"worldY":1380.0,"worldZ":0.0,"idCamera":108392,"parentId":109176,"transformId":108178}
 12/9/2019 9:50:09 AM:findActiveObjectByName for: UnityURLButton
 12-09-2019 09:50:09 : response received : {"name":"UnityURLButton","id":108146,"x":540,"y":18,"z":0,"mobileY":1902,"type":"","enabled":true,"worldX":540.0,"worldY":18.0,"worldZ":0.0,"idCamera":108392,"parentId":109176,"transformId":108148}
+12/9/2019 4:54:11 PM:Logging is set to True
+12-09-2019 16:54:11 : response received : Ok
+12/9/2019 4:54:11 PM:LoadScene Main
+12-09-2019 16:54:11 : response received : Ok
+12/9/2019 4:55:41 PM:Logging is set to True
+12-09-2019 16:55:41 : response received : Ok
+12/9/2019 4:55:41 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 16:55:41 : response received : error:notFound
+12/9/2019 4:55:41 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 16:55:41 : response received : error:notFound
+12/9/2019 4:55:42 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 16:55:42 : response received : error:notFound
+12/9/2019 4:55:42 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 16:55:42 : response received : error:notFound
+12/9/2019 4:55:43 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 16:55:43 : response received : error:notFound
+12/9/2019 4:55:43 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 16:55:43 : response received : error:notFound
+12/9/2019 4:55:44 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 16:55:44 : response received : error:notFound
+12/9/2019 4:55:44 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 16:55:45 : response received : error:notFound
+12/9/2019 4:55:45 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 16:55:45 : response received : error:notFound
+12/9/2019 4:55:46 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 16:55:46 : response received : error:notFound
+12/9/2019 4:55:46 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 16:55:46 : response received : error:notFound
+12/9/2019 4:55:47 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 16:55:47 : response received : error:notFound
+12/9/2019 4:55:47 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 16:55:47 : response received : error:notFound
+12/9/2019 4:55:48 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 16:55:48 : response received : error:notFound
+12/9/2019 4:55:48 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 16:55:48 : response received : error:notFound
+12/9/2019 4:55:49 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 16:55:49 : response received : error:notFound
+12/9/2019 4:55:49 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 16:55:49 : response received : error:notFound
+12/9/2019 4:55:50 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 16:55:50 : response received : error:notFound
+12/9/2019 4:55:50 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 16:55:50 : response received : error:notFound
+12/9/2019 4:55:51 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 16:55:51 : response received : error:notFound
+12/9/2019 4:58:15 PM:Logging is set to True
+12-09-2019 16:58:15 : response received : Ok
+12/9/2019 4:58:16 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 16:58:16 : response received : error:notFound
+12/9/2019 4:58:16 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 16:58:16 : response received : error:notFound
+12/9/2019 4:58:17 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 16:58:17 : response received : error:notFound
+12/9/2019 4:58:17 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 16:58:17 : response received : error:notFound
+12/9/2019 4:58:18 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 16:58:18 : response received : error:notFound
+12/9/2019 4:58:18 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 16:58:18 : response received : error:notFound
+12/9/2019 4:58:19 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 16:58:19 : response received : error:notFound
+12/9/2019 4:58:19 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 16:58:19 : response received : error:notFound
+12/9/2019 4:58:20 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 16:58:20 : response received : error:notFound
+12/9/2019 4:58:20 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 16:58:20 : response received : error:notFound
+12/9/2019 4:59:17 PM:Logging is set to True
+12-09-2019 16:59:17 : response received : Ok
+12/9/2019 4:59:17 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 16:59:17 : response received : error:notFound
+12/9/2019 4:59:18 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 16:59:18 : response received : error:notFound
+12/9/2019 4:59:18 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 16:59:18 : response received : error:notFound
+12/9/2019 4:59:19 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 16:59:19 : response received : error:notFound
+12/9/2019 4:59:19 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 16:59:19 : response received : error:notFound
+12/9/2019 4:59:20 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 16:59:20 : response received : error:notFound
+12/9/2019 4:59:20 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 16:59:20 : response received : error:notFound
+12/9/2019 4:59:21 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 16:59:21 : response received : error:notFound
+12/9/2019 4:59:22 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 16:59:22 : response received : error:notFound
+12/9/2019 4:59:22 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 16:59:22 : response received : error:notFound
+12/9/2019 4:59:23 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 16:59:23 : response received : error:notFound
+12/9/2019 4:59:23 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 16:59:23 : response received : error:notFound
+12/9/2019 4:59:24 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 16:59:24 : response received : error:notFound
+12/9/2019 4:59:24 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 16:59:24 : response received : error:notFound
+12/9/2019 4:59:25 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 16:59:25 : response received : error:notFound
+12/9/2019 4:59:25 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 16:59:25 : response received : error:notFound
+12/9/2019 4:59:26 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 16:59:26 : response received : error:notFound
+12/9/2019 4:59:26 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 16:59:26 : response received : error:notFound
+12/9/2019 4:59:27 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 16:59:27 : response received : error:notFound
+12/9/2019 4:59:27 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 16:59:27 : response received : error:notFound
+12/9/2019 5:00:06 PM:Logging is set to True
+12-09-2019 17:00:06 : response received : Ok
+12/9/2019 5:00:06 PM:LoadScene Main
+12-09-2019 17:00:06 : response received : Ok
+12/9/2019 5:00:06 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 17:00:07 : response received : {"name":"StartButton","id":123292,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":122550,"parentId":122740,"transformId":123294}
+12/9/2019 5:00:07 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 17:00:07 : response received : error:notFound
+12/9/2019 5:00:07 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 17:00:07 : response received : error:notFound
+12/9/2019 5:00:08 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 17:00:08 : response received : error:notFound
+12/9/2019 5:00:08 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 17:00:08 : response received : error:notFound
+12/9/2019 5:01:05 PM:Logging is set to True
+12-09-2019 17:01:05 : response received : Ok
+12/9/2019 5:01:05 PM:LoadScene Main
+12-09-2019 17:01:05 : response received : Ok
+12/9/2019 5:01:06 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 17:01:06 : response received : {"name":"CharName","id":124364,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":124560,"parentId":125584,"transformId":124366}
+12/9/2019 5:01:06 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 17:01:06 : response received : {"name":"OpenLeaderboard","id":125364,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":124560,"parentId":124750,"transformId":125366}
+12/9/2019 5:01:06 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 17:01:06 : response received : {"name":"MissionButton","id":124244,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":124560,"parentId":124750,"transformId":124246}
+12/9/2019 5:01:06 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 17:01:06 : response received : {"name":"StartButton","id":125302,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":124560,"parentId":124750,"transformId":125304}
+12/9/2019 5:01:06 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 17:01:06 : response received : {"name":"SettingButton","id":124970,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":124560,"parentId":124750,"transformId":124972}
+12/9/2019 5:01:06 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 17:01:06 : response received : {"name":"StoreButton","id":124890,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":124560,"parentId":124750,"transformId":124892}
+12/9/2019 5:01:06 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 17:01:06 : response received : {"name":"ThemeZone","id":125658,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":124560,"parentId":124750,"transformId":125660}
+12/9/2019 5:01:06 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 17:01:06 : response received : error:notFound
+12/9/2019 5:01:06 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 17:01:06 : response received : error:notFound
+12/9/2019 5:01:07 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 17:01:07 : response received : error:notFound
+12/9/2019 5:01:08 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 17:01:08 : response received : error:notFound
+12/9/2019 5:01:52 PM:Logging is set to True
+12-09-2019 17:01:52 : response received : Ok
+12/9/2019 5:01:52 PM:LoadScene Main
+12-09-2019 17:01:52 : response received : Ok
+12/9/2019 5:01:52 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 17:01:52 : response received : {"name":"CharName","id":126374,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":126570,"parentId":127594,"transformId":126376}
+12/9/2019 5:01:53 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 17:01:53 : response received : {"name":"OpenLeaderboard","id":127374,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":126570,"parentId":126760,"transformId":127376}
+12/9/2019 5:01:53 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 17:01:53 : response received : {"name":"MissionButton","id":126254,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":126570,"parentId":126760,"transformId":126256}
+12/9/2019 5:01:53 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 17:01:53 : response received : {"name":"StartButton","id":127312,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":126570,"parentId":126760,"transformId":127314}
+12/9/2019 5:01:53 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 17:01:53 : response received : {"name":"SettingButton","id":126980,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":126570,"parentId":126760,"transformId":126982}
+12/9/2019 5:01:53 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 17:01:53 : response received : {"name":"StoreButton","id":126900,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":126570,"parentId":126760,"transformId":126902}
+12/9/2019 5:01:53 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 17:01:53 : response received : {"name":"ThemeZone","id":127668,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":126570,"parentId":126760,"transformId":127670}
+12/9/2019 5:01:53 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 17:01:53 : response received : error:notFound
+12/9/2019 5:01:53 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 17:01:53 : response received : error:notFound
+12/9/2019 5:01:54 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 17:01:54 : response received : error:notFound
+12/9/2019 5:01:54 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 17:01:54 : response received : error:notFound
+12/9/2019 5:10:52 PM:Logging is set to True
+12-09-2019 17:10:52 : response received : Ok
+12/9/2019 5:10:52 PM:LoadScene Main
+12-09-2019 17:10:52 : response received : Ok
+12/9/2019 5:10:53 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 17:10:53 : response received : {"name":"CharName","id":133988,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":134184,"parentId":135208,"transformId":133990}
+12/9/2019 5:10:53 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 17:10:53 : response received : {"name":"OpenLeaderboard","id":134988,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":134184,"parentId":134374,"transformId":134990}
+12/9/2019 5:10:53 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 17:10:53 : response received : {"name":"MissionButton","id":133868,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":134184,"parentId":134374,"transformId":133870}
+12/9/2019 5:10:53 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 17:10:53 : response received : {"name":"StartButton","id":134926,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":134184,"parentId":134374,"transformId":134928}
+12/9/2019 5:10:53 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 17:10:53 : response received : {"name":"SettingButton","id":134594,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":134184,"parentId":134374,"transformId":134596}
+12/9/2019 5:10:53 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 17:10:53 : response received : {"name":"StoreButton","id":134514,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":134184,"parentId":134374,"transformId":134516}
+12/9/2019 5:10:53 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 17:10:53 : response received : {"name":"ThemeZone","id":135282,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":134184,"parentId":134374,"transformId":135284}
+12/9/2019 5:10:53 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 17:10:53 : response received : error:notFound
+12/9/2019 5:10:54 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 17:10:54 : response received : error:notFound
+12/9/2019 5:10:54 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 17:10:54 : response received : error:notFound
+12/9/2019 5:10:55 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 17:10:55 : response received : error:notFound
+12/9/2019 5:39:03 PM:Logging is set to True
+12-09-2019 17:39:03 : response received : Ok
+12/9/2019 5:39:03 PM:LoadScene Main
+12-09-2019 17:39:03 : response received : Ok
+12/9/2019 5:39:03 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 17:39:03 : response received : {"name":"CharName","id":147850,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":148046,"parentId":149070,"transformId":147852}
+12/9/2019 5:39:03 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 17:39:03 : response received : {"name":"OpenLeaderboard","id":148850,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":148046,"parentId":148236,"transformId":148852}
+12/9/2019 5:39:04 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 17:39:04 : response received : {"name":"MissionButton","id":147730,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":148046,"parentId":148236,"transformId":147732}
+12/9/2019 5:39:04 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 17:39:04 : response received : {"name":"StartButton","id":148788,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":148046,"parentId":148236,"transformId":148790}
+12/9/2019 5:39:04 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 17:39:04 : response received : {"name":"SettingButton","id":148456,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":148046,"parentId":148236,"transformId":148458}
+12/9/2019 5:39:04 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 17:39:04 : response received : {"name":"StoreButton","id":148376,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":148046,"parentId":148236,"transformId":148378}
+12/9/2019 5:39:04 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 17:39:04 : response received : {"name":"ThemeZone","id":149144,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":148046,"parentId":148236,"transformId":149146}
+12/9/2019 5:39:04 PM:findObject for: //Game/PauseMenu/Resume;;true
+12-09-2019 17:39:04 : response received : error:notFound
+12/9/2019 5:39:04 PM:findObject for: //Game/PauseMenu/Resume;;true
+12-09-2019 17:39:04 : response received : error:notFound
+12/9/2019 5:39:05 PM:findObject for: //Game/PauseMenu/Resume;;true
+12-09-2019 17:39:05 : response received : error:notFound
+12/9/2019 5:39:05 PM:findObject for: //Game/PauseMenu/Resume;;true
+12-09-2019 17:39:05 : response received : error:notFound
+12/9/2019 5:41:44 PM:Logging is set to True
+12-09-2019 17:41:44 : response received : Ok
+12/9/2019 5:41:44 PM:LoadScene Main
+12-09-2019 17:41:44 : response received : Ok
+12/9/2019 5:41:44 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 17:41:44 : response received : {"name":"CharName","id":149860,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":150056,"parentId":151080,"transformId":149862}
+12/9/2019 5:41:44 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 17:41:44 : response received : {"name":"OpenLeaderboard","id":150860,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":150056,"parentId":150246,"transformId":150862}
+12/9/2019 5:41:44 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 17:41:44 : response received : {"name":"MissionButton","id":149740,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":150056,"parentId":150246,"transformId":149742}
+12/9/2019 5:41:44 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 17:41:44 : response received : {"name":"StartButton","id":150798,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":150056,"parentId":150246,"transformId":150800}
+12/9/2019 5:41:44 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 17:41:44 : response received : {"name":"SettingButton","id":150466,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":150056,"parentId":150246,"transformId":150468}
+12/9/2019 5:41:44 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 17:41:44 : response received : {"name":"StoreButton","id":150386,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":150056,"parentId":150246,"transformId":150388}
+12/9/2019 5:41:44 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 17:41:44 : response received : {"name":"ThemeZone","id":151154,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":150056,"parentId":150246,"transformId":151156}
+12/9/2019 5:41:44 PM:findObject for: //Game/DeathPopup/GameOver;;true
+12-09-2019 17:41:44 : response received : error:notFound
+12/9/2019 5:41:45 PM:findObject for: //Game/DeathPopup/GameOver;;true
+12-09-2019 17:41:45 : response received : error:notFound
+12/9/2019 5:41:45 PM:findObject for: //Game/DeathPopup/GameOver;;true
+12-09-2019 17:41:45 : response received : error:notFound
+12/9/2019 5:41:46 PM:findObject for: //Game/DeathPopup/GameOver;;true
+12-09-2019 17:41:46 : response received : error:notFound
+12/9/2019 5:44:20 PM:Logging is set to True
+12-09-2019 17:44:20 : response received : Ok
+12/9/2019 5:44:20 PM:LoadScene Main
+12-09-2019 17:44:20 : response received : Ok
+12/9/2019 5:44:21 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 17:44:21 : response received : {"name":"CharName","id":153184,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":153380,"parentId":154404,"transformId":153186}
+12/9/2019 5:44:21 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 17:44:21 : response received : {"name":"OpenLeaderboard","id":154184,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":153380,"parentId":153570,"transformId":154186}
+12/9/2019 5:44:21 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 17:44:21 : response received : {"name":"MissionButton","id":153064,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":153380,"parentId":153570,"transformId":153066}
+12/9/2019 5:44:21 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 17:44:21 : response received : {"name":"StartButton","id":154122,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":153380,"parentId":153570,"transformId":154124}
+12/9/2019 5:44:21 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 17:44:21 : response received : {"name":"SettingButton","id":153790,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":153380,"parentId":153570,"transformId":153792}
+12/9/2019 5:44:21 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 17:44:21 : response received : {"name":"StoreButton","id":153710,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":153380,"parentId":153570,"transformId":153712}
+12/9/2019 5:44:21 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 17:44:21 : response received : {"name":"ThemeZone","id":154478,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":153380,"parentId":153570,"transformId":154480}
+12/9/2019 5:44:21 PM:tapped object by name StartButton12/9/2019 5:44:21 PM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 17:44:21 : response received : {"name":"StartButton","id":154122,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":153380,"parentId":153570,"transformId":154124}
+12/9/2019 5:44:21 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 17:44:21 : response received : {"name":"pauseButton","id":153574,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":153380,"parentId":153672,"transformId":153576}
+12/9/2019 5:44:21 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 17:44:21 : response received : {"name":"PlayerPivot","id":154780,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":153380,"parentId":0,"transformId":154784}
+12/9/2019 5:44:21 PM:findObject for: //Game/PauseMenu/Resume;;true
+12-09-2019 17:44:21 : response received : error:notFound
+12/9/2019 5:44:22 PM:findObject for: //Game/PauseMenu/Resume;;true
+12-09-2019 17:44:22 : response received : error:notFound
+12/9/2019 5:44:23 PM:findObject for: //Game/PauseMenu/Resume;;true
+12-09-2019 17:44:23 : response received : error:notFound
+12/9/2019 5:44:23 PM:findObject for: //Game/PauseMenu/Resume;;true
+12-09-2019 17:44:23 : response received : error:notFound
+12/9/2019 5:46:01 PM:Logging is set to True
+12-09-2019 17:46:01 : response received : Ok
+12/9/2019 5:46:01 PM:LoadScene Main
+12-09-2019 17:46:01 : response received : Ok
+12/9/2019 5:46:01 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 17:46:01 : response received : {"name":"CharName","id":156520,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":156716,"parentId":157740,"transformId":156522}
+12/9/2019 5:46:01 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 17:46:01 : response received : {"name":"OpenLeaderboard","id":157520,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":156716,"parentId":156906,"transformId":157522}
+12/9/2019 5:46:01 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 17:46:01 : response received : {"name":"MissionButton","id":156400,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":156716,"parentId":156906,"transformId":156402}
+12/9/2019 5:46:01 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 17:46:01 : response received : {"name":"StartButton","id":157458,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":156716,"parentId":156906,"transformId":157460}
+12/9/2019 5:46:01 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 17:46:01 : response received : {"name":"SettingButton","id":157126,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":156716,"parentId":156906,"transformId":157128}
+12/9/2019 5:46:01 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 17:46:02 : response received : {"name":"StoreButton","id":157046,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":156716,"parentId":156906,"transformId":157048}
+12/9/2019 5:46:02 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 17:46:02 : response received : {"name":"ThemeZone","id":157814,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":156716,"parentId":156906,"transformId":157816}
+12/9/2019 5:46:02 PM:tapped object by name StartButton12/9/2019 5:46:02 PM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 17:46:02 : response received : {"name":"StartButton","id":157458,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":156716,"parentId":156906,"transformId":157460}
+12/9/2019 5:46:02 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 17:46:02 : response received : {"name":"pauseButton","id":156910,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":156716,"parentId":157008,"transformId":156912}
+12/9/2019 5:46:02 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 17:46:02 : response received : {"name":"PlayerPivot","id":158116,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":156716,"parentId":0,"transformId":158120}
+12/9/2019 5:46:02 PM:findObject for: //Game/PauseMenu/Resume;;true
+12-09-2019 17:46:02 : response received : error:notFound
+12/9/2019 5:46:03 PM:findObject for: //Game/PauseMenu/Resume;;true
+12-09-2019 17:46:03 : response received : error:notFound
+12/9/2019 5:46:03 PM:findObject for: //Game/PauseMenu/Resume;;true
+12-09-2019 17:46:03 : response received : error:notFound
+12/9/2019 5:46:04 PM:findObject for: //Game/PauseMenu/Resume;;true
+12-09-2019 17:46:04 : response received : error:notFound
+12/9/2019 6:51:46 PM:Logging is set to True
+12-09-2019 18:51:46 : response received : Ok
+12/9/2019 6:51:46 PM:LoadScene Main
+12-09-2019 18:51:46 : response received : Ok
+12/9/2019 6:51:46 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 18:51:46 : response received : {"name":"CharName","id":159844,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":160040,"parentId":161064,"transformId":159846}
+12/9/2019 6:51:46 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 18:51:46 : response received : {"name":"OpenLeaderboard","id":160844,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":160040,"parentId":160230,"transformId":160846}
+12/9/2019 6:51:46 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 18:51:46 : response received : {"name":"MissionButton","id":159724,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":160040,"parentId":160230,"transformId":159726}
+12/9/2019 6:51:46 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 18:51:46 : response received : {"name":"StartButton","id":160782,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":160040,"parentId":160230,"transformId":160784}
+12/9/2019 6:51:47 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 18:51:47 : response received : {"name":"SettingButton","id":160450,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":160040,"parentId":160230,"transformId":160452}
+12/9/2019 6:51:47 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 18:51:47 : response received : {"name":"StoreButton","id":160370,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":160040,"parentId":160230,"transformId":160372}
+12/9/2019 6:51:47 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 18:51:47 : response received : {"name":"ThemeZone","id":161138,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":160040,"parentId":160230,"transformId":161140}
+12/9/2019 6:51:47 PM:tapped object by name StartButton12/9/2019 6:51:47 PM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 18:51:47 : response received : {"name":"StartButton","id":160782,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":160040,"parentId":160230,"transformId":160784}
+12/9/2019 6:51:47 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 18:51:47 : response received : {"name":"pauseButton","id":160234,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":160040,"parentId":160332,"transformId":160236}
+12/9/2019 6:51:47 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:51:47 : response received : {"name":"PlayerPivot","id":161440,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":160040,"parentId":0,"transformId":161444}
+12/9/2019 6:51:47 PM:findObject for: //Game/PauseMenu/Resume;;true
+12-09-2019 18:51:47 : response received : error:notFound
+12/9/2019 6:51:47 PM:findObject for: //Game/PauseMenu/Resume;;true
+12-09-2019 18:51:47 : response received : error:notFound
+12/9/2019 6:51:48 PM:findObject for: //Game/PauseMenu/Resume;;true
+12-09-2019 18:51:48 : response received : error:notFound
+12/9/2019 6:51:49 PM:findObject for: //Game/PauseMenu/Resume;;true
+12-09-2019 18:51:49 : response received : error:notFound
+12/9/2019 6:52:34 PM:Logging is set to True
+12-09-2019 18:52:34 : response received : Ok
+12/9/2019 6:52:34 PM:LoadScene Main
+12-09-2019 18:52:34 : response received : Ok
+12/9/2019 6:52:34 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 18:52:34 : response received : {"name":"CharName","id":161854,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":162050,"parentId":163074,"transformId":161856}
+12/9/2019 6:52:34 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 18:52:34 : response received : {"name":"OpenLeaderboard","id":162854,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":162050,"parentId":162240,"transformId":162856}
+12/9/2019 6:52:34 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 18:52:34 : response received : {"name":"MissionButton","id":161734,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":162050,"parentId":162240,"transformId":161736}
+12/9/2019 6:52:34 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 18:52:34 : response received : {"name":"StartButton","id":162792,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":162050,"parentId":162240,"transformId":162794}
+12/9/2019 6:52:34 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 18:52:34 : response received : {"name":"SettingButton","id":162460,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":162050,"parentId":162240,"transformId":162462}
+12/9/2019 6:52:34 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 18:52:34 : response received : {"name":"StoreButton","id":162380,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":162050,"parentId":162240,"transformId":162382}
+12/9/2019 6:52:34 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 18:52:34 : response received : {"name":"ThemeZone","id":163148,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":162050,"parentId":162240,"transformId":163150}
+12/9/2019 6:52:34 PM:tapped object by name StartButton12/9/2019 6:52:34 PM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 18:52:34 : response received : {"name":"StartButton","id":162792,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":162050,"parentId":162240,"transformId":162794}
+12/9/2019 6:52:34 PM:findObject for: //Game/PauseMenu/Resume;;true
+12-09-2019 18:52:34 : response received : error:notFound
+12/9/2019 6:52:35 PM:findObject for: //Game/PauseMenu/Resume;;true
+12-09-2019 18:52:35 : response received : error:notFound
+12/9/2019 6:52:35 PM:findObject for: //Game/PauseMenu/Resume;;true
+12-09-2019 18:52:36 : response received : error:notFound
+12/9/2019 6:52:36 PM:findObject for: //Game/PauseMenu/Resume;;true
+12-09-2019 18:52:36 : response received : error:notFound
+12/9/2019 6:53:27 PM:Logging is set to True
+12-09-2019 18:53:27 : response received : Ok
+12/9/2019 6:53:27 PM:LoadScene Main
+12-09-2019 18:53:27 : response received : Ok
+12/9/2019 6:53:27 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 18:53:27 : response received : {"name":"CharName","id":163864,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":164060,"parentId":165084,"transformId":163866}
+12/9/2019 6:53:27 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 18:53:27 : response received : {"name":"OpenLeaderboard","id":164864,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":164060,"parentId":164250,"transformId":164866}
+12/9/2019 6:53:28 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 18:53:28 : response received : {"name":"MissionButton","id":163744,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":164060,"parentId":164250,"transformId":163746}
+12/9/2019 6:53:28 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 18:53:28 : response received : {"name":"StartButton","id":164802,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":164060,"parentId":164250,"transformId":164804}
+12/9/2019 6:53:28 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 18:53:28 : response received : {"name":"SettingButton","id":164470,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":164060,"parentId":164250,"transformId":164472}
+12/9/2019 6:53:28 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 18:53:28 : response received : {"name":"StoreButton","id":164390,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":164060,"parentId":164250,"transformId":164392}
+12/9/2019 6:53:28 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 18:53:28 : response received : {"name":"ThemeZone","id":165158,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":164060,"parentId":164250,"transformId":165160}
+12/9/2019 6:53:28 PM:tapped object by name StartButton12/9/2019 6:53:28 PM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 18:53:28 : response received : {"name":"StartButton","id":164802,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":164060,"parentId":164250,"transformId":164804}
+12/9/2019 6:53:28 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 18:53:28 : response received : {"name":"pauseButton","id":164254,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":164060,"parentId":164352,"transformId":164256}
+12/9/2019 6:53:28 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:53:28 : response received : {"name":"PlayerPivot","id":165460,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":164060,"parentId":0,"transformId":165464}
+12/9/2019 6:53:28 PM:findObject for: //Game/DeathPopup/ButtonLayout/Premium Button;;true
+12-09-2019 18:53:28 : response received : error:notFound
+12/9/2019 6:53:28 PM:findObject for: //Game/DeathPopup/ButtonLayout/Premium Button;;true
+12-09-2019 18:53:28 : response received : error:notFound
+12/9/2019 6:53:29 PM:findObject for: //Game/DeathPopup/ButtonLayout/Premium Button;;true
+12-09-2019 18:53:29 : response received : error:notFound
+12/9/2019 6:53:30 PM:findObject for: //Game/DeathPopup/ButtonLayout/Premium Button;;true
+12-09-2019 18:53:30 : response received : error:notFound
+12/9/2019 6:53:54 PM:Logging is set to True
+12-09-2019 18:53:54 : response received : Ok
+12/9/2019 6:53:54 PM:LoadScene Main
+12-09-2019 18:53:54 : response received : Ok
+12/9/2019 6:53:55 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 18:53:55 : response received : {"name":"CharName","id":167188,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":167384,"parentId":168408,"transformId":167190}
+12/9/2019 6:53:55 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 18:53:55 : response received : {"name":"OpenLeaderboard","id":168188,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":167384,"parentId":167574,"transformId":168190}
+12/9/2019 6:53:55 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 18:53:55 : response received : {"name":"MissionButton","id":167068,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":167384,"parentId":167574,"transformId":167070}
+12/9/2019 6:53:55 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 18:53:55 : response received : {"name":"StartButton","id":168126,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":167384,"parentId":167574,"transformId":168128}
+12/9/2019 6:53:55 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 18:53:55 : response received : {"name":"SettingButton","id":167794,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":167384,"parentId":167574,"transformId":167796}
+12/9/2019 6:53:55 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 18:53:55 : response received : {"name":"StoreButton","id":167714,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":167384,"parentId":167574,"transformId":167716}
+12/9/2019 6:53:55 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 18:53:55 : response received : {"name":"ThemeZone","id":168482,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":167384,"parentId":167574,"transformId":168484}
+12/9/2019 6:53:55 PM:tapped object by name StartButton12/9/2019 6:53:55 PM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 18:53:55 : response received : {"name":"StartButton","id":168126,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":167384,"parentId":167574,"transformId":168128}
+12/9/2019 6:53:55 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 18:53:55 : response received : {"name":"pauseButton","id":167578,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":167384,"parentId":167676,"transformId":167580}
+12/9/2019 6:53:55 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:53:55 : response received : {"name":"PlayerPivot","id":168784,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":167384,"parentId":0,"transformId":168788}
+12/9/2019 6:53:56 PM:findObject for: //Game/DeathPopup/ButtonLayout/Premium Button;;true
+12-09-2019 18:53:56 : response received : error:notFound
+12/9/2019 6:53:56 PM:findObject for: //Game/DeathPopup/ButtonLayout/Premium Button;;true
+12-09-2019 18:53:56 : response received : error:notFound
+12/9/2019 6:53:57 PM:findObject for: //Game/DeathPopup/ButtonLayout/Premium Button;;true
+12-09-2019 18:53:57 : response received : error:notFound
+12/9/2019 6:53:57 PM:findObject for: //Game/DeathPopup/ButtonLayout/Premium Button;;true
+12-09-2019 18:53:57 : response received : error:notFound
+12/9/2019 6:54:40 PM:Logging is set to True
+12-09-2019 18:54:41 : response received : Ok
+12/9/2019 6:54:41 PM:LoadScene Main
+12-09-2019 18:54:41 : response received : Ok
+12/9/2019 6:54:41 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 18:54:41 : response received : {"name":"CharName","id":170512,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":170708,"parentId":171732,"transformId":170514}
+12/9/2019 6:54:41 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 18:54:41 : response received : {"name":"OpenLeaderboard","id":171512,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":170708,"parentId":170898,"transformId":171514}
+12/9/2019 6:54:41 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 18:54:41 : response received : {"name":"MissionButton","id":170392,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":170708,"parentId":170898,"transformId":170394}
+12/9/2019 6:54:41 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 18:54:41 : response received : {"name":"StartButton","id":171450,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":170708,"parentId":170898,"transformId":171452}
+12/9/2019 6:54:41 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 18:54:41 : response received : {"name":"SettingButton","id":171118,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":170708,"parentId":170898,"transformId":171120}
+12/9/2019 6:54:41 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 18:54:41 : response received : {"name":"StoreButton","id":171038,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":170708,"parentId":170898,"transformId":171040}
+12/9/2019 6:54:41 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 18:54:41 : response received : {"name":"ThemeZone","id":171806,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":170708,"parentId":170898,"transformId":171808}
+12/9/2019 6:54:41 PM:tapped object by name StartButton12/9/2019 6:54:41 PM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 18:54:41 : response received : {"name":"StartButton","id":171450,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":170708,"parentId":170898,"transformId":171452}
+12/9/2019 6:54:42 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 18:54:42 : response received : {"name":"pauseButton","id":170902,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":170708,"parentId":171000,"transformId":170904}
+12/9/2019 6:54:42 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:54:42 : response received : {"name":"PlayerPivot","id":172108,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":170708,"parentId":0,"transformId":172112}
+12/9/2019 6:56:50 PM:Logging is set to True
+12-09-2019 18:56:50 : response received : Ok
+12/9/2019 6:56:50 PM:LoadScene Main
+12-09-2019 18:56:50 : response received : Ok
+12/9/2019 6:56:50 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 18:56:50 : response received : {"name":"CharName","id":172522,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":172718,"parentId":173742,"transformId":172524}
+12/9/2019 6:56:50 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 18:56:50 : response received : {"name":"OpenLeaderboard","id":173522,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":172718,"parentId":172908,"transformId":173524}
+12/9/2019 6:56:50 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 18:56:50 : response received : {"name":"MissionButton","id":172402,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":172718,"parentId":172908,"transformId":172404}
+12/9/2019 6:56:51 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 18:56:51 : response received : {"name":"StartButton","id":173460,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":172718,"parentId":172908,"transformId":173462}
+12/9/2019 6:56:51 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 18:56:51 : response received : {"name":"SettingButton","id":173128,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":172718,"parentId":172908,"transformId":173130}
+12/9/2019 6:56:51 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 18:56:51 : response received : {"name":"StoreButton","id":173048,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":172718,"parentId":172908,"transformId":173050}
+12/9/2019 6:56:51 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 18:56:51 : response received : {"name":"ThemeZone","id":173816,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":172718,"parentId":172908,"transformId":173818}
+12/9/2019 6:56:51 PM:tapped object by name StartButton12/9/2019 6:56:51 PM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 18:56:51 : response received : {"name":"StartButton","id":173460,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":172718,"parentId":172908,"transformId":173462}
+12/9/2019 6:56:51 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 18:56:51 : response received : {"name":"pauseButton","id":172912,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":172718,"parentId":173010,"transformId":172914}
+12/9/2019 6:56:51 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:56:51 : response received : {"name":"PlayerPivot","id":174118,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":172718,"parentId":0,"transformId":174122}
+12/9/2019 6:56:51 PM:LoadScene Main
+12-09-2019 18:56:51 : response received : Ok
+12/9/2019 6:56:51 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 18:56:51 : response received : {"name":"CharName","id":174532,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":174728,"parentId":175752,"transformId":174534}
+12/9/2019 6:56:51 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 18:56:51 : response received : {"name":"OpenLeaderboard","id":175532,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":174728,"parentId":174918,"transformId":175534}
+12/9/2019 6:56:51 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 18:56:51 : response received : {"name":"MissionButton","id":174412,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":174728,"parentId":174918,"transformId":174414}
+12/9/2019 6:56:51 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 18:56:51 : response received : {"name":"StartButton","id":175470,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":174728,"parentId":174918,"transformId":175472}
+12/9/2019 6:56:51 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 18:56:51 : response received : {"name":"SettingButton","id":175138,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":174728,"parentId":174918,"transformId":175140}
+12/9/2019 6:56:51 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 18:56:51 : response received : {"name":"StoreButton","id":175058,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":174728,"parentId":174918,"transformId":175060}
+12/9/2019 6:56:51 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 18:56:51 : response received : {"name":"ThemeZone","id":175826,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":174728,"parentId":174918,"transformId":175828}
+12/9/2019 6:58:37 PM:Logging is set to True
+12-09-2019 18:58:37 : response received : Ok
+12/9/2019 6:58:37 PM:LoadScene Main
+12-09-2019 18:58:37 : response received : Ok
+12/9/2019 6:58:37 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 18:58:37 : response received : {"name":"CharName","id":176542,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":176738,"parentId":177762,"transformId":176544}
+12/9/2019 6:58:37 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 18:58:37 : response received : {"name":"OpenLeaderboard","id":177542,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":176738,"parentId":176928,"transformId":177544}
+12/9/2019 6:58:37 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 18:58:37 : response received : {"name":"MissionButton","id":176422,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":176738,"parentId":176928,"transformId":176424}
+12/9/2019 6:58:37 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 18:58:37 : response received : {"name":"StartButton","id":177480,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":176738,"parentId":176928,"transformId":177482}
+12/9/2019 6:58:37 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 18:58:37 : response received : {"name":"SettingButton","id":177148,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":176738,"parentId":176928,"transformId":177150}
+12/9/2019 6:58:37 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 18:58:37 : response received : {"name":"StoreButton","id":177068,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":176738,"parentId":176928,"transformId":177070}
+12/9/2019 6:58:37 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 18:58:37 : response received : {"name":"ThemeZone","id":177836,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":176738,"parentId":176928,"transformId":177838}
+12/9/2019 6:58:38 PM:tapped object by name StartButton12/9/2019 6:58:38 PM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 18:58:38 : response received : {"name":"StartButton","id":177480,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":176738,"parentId":176928,"transformId":177482}
+12/9/2019 6:58:38 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 18:58:38 : response received : {"name":"pauseButton","id":176932,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":176738,"parentId":177030,"transformId":176934}
+12/9/2019 6:58:38 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:38 : response received : {"name":"PlayerPivot","id":178138,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":176738,"parentId":0,"transformId":178142}
+12/9/2019 6:58:38 PM:LoadScene Main
+12-09-2019 18:58:38 : response received : Ok
+12/9/2019 6:58:38 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 18:58:38 : response received : {"name":"CharName","id":178552,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":178748,"parentId":179772,"transformId":178554}
+12/9/2019 6:58:38 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 18:58:38 : response received : {"name":"OpenLeaderboard","id":179552,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":178748,"parentId":178938,"transformId":179554}
+12/9/2019 6:58:38 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 18:58:38 : response received : {"name":"MissionButton","id":178432,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":178748,"parentId":178938,"transformId":178434}
+12/9/2019 6:58:38 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 18:58:38 : response received : {"name":"StartButton","id":179490,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":178748,"parentId":178938,"transformId":179492}
+12/9/2019 6:58:38 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 18:58:38 : response received : {"name":"SettingButton","id":179158,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":178748,"parentId":178938,"transformId":179160}
+12/9/2019 6:58:38 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 18:58:38 : response received : {"name":"StoreButton","id":179078,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":178748,"parentId":178938,"transformId":179080}
+12/9/2019 6:58:38 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 18:58:38 : response received : {"name":"ThemeZone","id":179846,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":178748,"parentId":178938,"transformId":179848}
+12/9/2019 6:58:38 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:38 : response received : error:notFound
+12/9/2019 6:58:39 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:39 : response received : error:notFound
+12/9/2019 6:58:39 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:39 : response received : error:notFound
+12/9/2019 6:58:40 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:40 : response received : error:notFound
+12/9/2019 6:58:40 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:40 : response received : error:notFound
+12/9/2019 6:58:41 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:41 : response received : error:notFound
+12/9/2019 6:58:41 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:41 : response received : error:notFound
+12/9/2019 6:58:42 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:42 : response received : error:notFound
+12/9/2019 6:58:42 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:42 : response received : error:notFound
+12/9/2019 6:58:43 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:43 : response received : error:notFound
+12/9/2019 6:58:44 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:44 : response received : error:notFound
+12/9/2019 6:58:44 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:44 : response received : error:notFound
+12/9/2019 6:58:45 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:45 : response received : error:notFound
+12/9/2019 6:58:45 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:45 : response received : error:notFound
+12/9/2019 6:58:46 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:46 : response received : error:notFound
+12/9/2019 6:58:46 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:46 : response received : error:notFound
+12/9/2019 6:58:47 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:47 : response received : error:notFound
+12/9/2019 6:58:47 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:47 : response received : error:notFound
+12/9/2019 6:58:48 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:48 : response received : error:notFound
+12/9/2019 6:58:48 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:48 : response received : error:notFound
+12/9/2019 6:58:49 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:49 : response received : error:notFound
+12/9/2019 6:58:49 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:49 : response received : error:notFound
+12/9/2019 6:58:50 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:50 : response received : error:notFound
+12/9/2019 6:58:50 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:50 : response received : error:notFound
+12/9/2019 6:58:51 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:51 : response received : error:notFound
+12/9/2019 6:58:51 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:51 : response received : error:notFound
+12/9/2019 6:58:52 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:52 : response received : error:notFound
+12/9/2019 6:58:52 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:52 : response received : error:notFound
+12/9/2019 6:58:53 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:53 : response received : error:notFound
+12/9/2019 6:58:53 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:53 : response received : error:notFound
+12/9/2019 6:58:54 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:54 : response received : error:notFound
+12/9/2019 6:58:54 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:54 : response received : error:notFound
+12/9/2019 6:58:55 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:55 : response received : error:notFound
+12/9/2019 6:58:56 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:56 : response received : error:notFound
+12/9/2019 6:58:56 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:56 : response received : error:notFound
+12/9/2019 6:58:57 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:57 : response received : error:notFound
+12/9/2019 6:58:57 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:57 : response received : error:notFound
+12/9/2019 6:58:58 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:58 : response received : error:notFound
+12/9/2019 6:58:58 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:58 : response received : error:notFound
+12/9/2019 6:58:59 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 18:58:59 : response received : error:notFound
+12/9/2019 7:02:12 PM:Logging is set to True
+12-09-2019 19:02:12 : response received : Ok
+12/9/2019 7:02:12 PM:LoadScene Main
+12-09-2019 19:02:12 : response received : Ok
+12/9/2019 7:02:12 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 19:02:12 : response received : {"name":"CharName","id":181876,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":182072,"parentId":183096,"transformId":181878}
+12/9/2019 7:02:13 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 19:02:13 : response received : {"name":"OpenLeaderboard","id":182876,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":182072,"parentId":182262,"transformId":182878}
+12/9/2019 7:02:13 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 19:02:13 : response received : {"name":"MissionButton","id":181756,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":182072,"parentId":182262,"transformId":181758}
+12/9/2019 7:02:13 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 19:02:13 : response received : {"name":"StartButton","id":182814,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":182072,"parentId":182262,"transformId":182816}
+12/9/2019 7:02:13 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 19:02:13 : response received : {"name":"SettingButton","id":182482,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":182072,"parentId":182262,"transformId":182484}
+12/9/2019 7:02:13 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 19:02:13 : response received : {"name":"StoreButton","id":182402,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":182072,"parentId":182262,"transformId":182404}
+12/9/2019 7:02:13 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 19:02:13 : response received : {"name":"ThemeZone","id":183170,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":182072,"parentId":182262,"transformId":183172}
+12/9/2019 7:02:13 PM:tapped object by name StartButton12/9/2019 7:02:13 PM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 19:02:13 : response received : {"name":"StartButton","id":182814,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":182072,"parentId":182262,"transformId":182816}
+12/9/2019 7:02:13 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 19:02:13 : response received : {"name":"pauseButton","id":182266,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":182072,"parentId":182364,"transformId":182268}
+12/9/2019 7:02:13 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:02:13 : response received : {"name":"PlayerPivot","id":183472,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":182072,"parentId":0,"transformId":183476}
+12/9/2019 7:02:13 PM:LoadScene Main
+12-09-2019 19:02:13 : response received : Ok
+12/9/2019 7:02:13 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 19:02:13 : response received : {"name":"CharName","id":183886,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":184082,"parentId":185106,"transformId":183888}
+12/9/2019 7:02:13 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 19:02:13 : response received : {"name":"OpenLeaderboard","id":184886,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":184082,"parentId":184272,"transformId":184888}
+12/9/2019 7:02:14 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 19:02:14 : response received : {"name":"MissionButton","id":183766,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":184082,"parentId":184272,"transformId":183768}
+12/9/2019 7:02:14 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 19:02:14 : response received : {"name":"StartButton","id":184824,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":184082,"parentId":184272,"transformId":184826}
+12/9/2019 7:02:14 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 19:02:14 : response received : {"name":"SettingButton","id":184492,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":184082,"parentId":184272,"transformId":184494}
+12/9/2019 7:02:14 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 19:02:14 : response received : {"name":"StoreButton","id":184412,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":184082,"parentId":184272,"transformId":184414}
+12/9/2019 7:02:14 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 19:02:14 : response received : {"name":"ThemeZone","id":185180,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":184082,"parentId":184272,"transformId":185182}
+12/9/2019 7:02:14 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:02:14 : response received : error:notFound
+12/9/2019 7:02:14 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:02:14 : response received : error:notFound
+12/9/2019 7:02:15 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:02:15 : response received : error:notFound
+12/9/2019 7:02:15 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:02:15 : response received : error:notFound
+12/9/2019 7:02:16 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:02:16 : response received : error:notFound
+12/9/2019 7:02:16 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:02:16 : response received : error:notFound
+12/9/2019 7:02:17 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:02:17 : response received : error:notFound
+12/9/2019 7:02:17 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:02:17 : response received : error:notFound
+12/9/2019 7:02:18 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:02:18 : response received : error:notFound
+12/9/2019 7:02:19 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:02:19 : response received : error:notFound
+12/9/2019 7:02:19 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:02:19 : response received : error:notFound
+12/9/2019 7:02:20 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:02:20 : response received : error:notFound
+12/9/2019 7:02:20 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:02:20 : response received : error:notFound
+12/9/2019 7:03:10 PM:Logging is set to True
+12-09-2019 19:03:10 : response received : Ok
+12/9/2019 7:03:10 PM:LoadScene Main
+12-09-2019 19:03:10 : response received : Ok
+12/9/2019 7:03:11 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 19:03:11 : response received : {"name":"CharName","id":187210,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":187406,"parentId":188430,"transformId":187212}
+12/9/2019 7:03:11 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 19:03:11 : response received : {"name":"OpenLeaderboard","id":188210,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":187406,"parentId":187596,"transformId":188212}
+12/9/2019 7:03:11 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 19:03:11 : response received : {"name":"MissionButton","id":187090,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":187406,"parentId":187596,"transformId":187092}
+12/9/2019 7:03:11 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 19:03:11 : response received : {"name":"StartButton","id":188148,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":187406,"parentId":187596,"transformId":188150}
+12/9/2019 7:03:11 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 19:03:11 : response received : {"name":"SettingButton","id":187816,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":187406,"parentId":187596,"transformId":187818}
+12/9/2019 7:03:11 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 19:03:11 : response received : {"name":"StoreButton","id":187736,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":187406,"parentId":187596,"transformId":187738}
+12/9/2019 7:03:11 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 19:03:11 : response received : {"name":"ThemeZone","id":188504,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":187406,"parentId":187596,"transformId":188506}
+12/9/2019 7:03:11 PM:tapped object by name StartButton12/9/2019 7:03:11 PM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 19:03:11 : response received : {"name":"StartButton","id":188148,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":187406,"parentId":187596,"transformId":188150}
+12/9/2019 7:03:11 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 19:03:11 : response received : {"name":"pauseButton","id":187600,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":187406,"parentId":187698,"transformId":187602}
+12/9/2019 7:03:11 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:03:11 : response received : {"name":"PlayerPivot","id":188806,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":187406,"parentId":0,"transformId":188810}
+12/9/2019 7:03:11 PM:LoadScene Main
+12-09-2019 19:03:11 : response received : Ok
+12/9/2019 7:03:12 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 19:03:12 : response received : {"name":"CharName","id":189220,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":189416,"parentId":190440,"transformId":189222}
+12/9/2019 7:03:12 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 19:03:12 : response received : {"name":"OpenLeaderboard","id":190220,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":189416,"parentId":189606,"transformId":190222}
+12/9/2019 7:03:12 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 19:03:12 : response received : {"name":"MissionButton","id":189100,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":189416,"parentId":189606,"transformId":189102}
+12/9/2019 7:03:12 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 19:03:12 : response received : {"name":"StartButton","id":190158,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":189416,"parentId":189606,"transformId":190160}
+12/9/2019 7:03:12 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 19:03:12 : response received : {"name":"SettingButton","id":189826,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":189416,"parentId":189606,"transformId":189828}
+12/9/2019 7:03:12 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 19:03:12 : response received : {"name":"StoreButton","id":189746,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":189416,"parentId":189606,"transformId":189748}
+12/9/2019 7:03:12 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 19:03:12 : response received : {"name":"ThemeZone","id":190514,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":189416,"parentId":189606,"transformId":190516}
+12/9/2019 7:03:51 PM:Logging is set to True
+12-09-2019 19:03:51 : response received : Ok
+12/9/2019 7:03:52 PM:LoadScene Main
+12-09-2019 19:03:52 : response received : Ok
+12/9/2019 7:03:52 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 19:03:52 : response received : {"name":"CharName","id":191230,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":191426,"parentId":192450,"transformId":191232}
+12/9/2019 7:03:52 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 19:03:52 : response received : {"name":"OpenLeaderboard","id":192230,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":191426,"parentId":191616,"transformId":192232}
+12/9/2019 7:03:52 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 19:03:52 : response received : {"name":"MissionButton","id":191110,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":191426,"parentId":191616,"transformId":191112}
+12/9/2019 7:03:52 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 19:03:52 : response received : {"name":"StartButton","id":192168,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":191426,"parentId":191616,"transformId":192170}
+12/9/2019 7:03:52 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 19:03:52 : response received : {"name":"SettingButton","id":191836,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":191426,"parentId":191616,"transformId":191838}
+12/9/2019 7:03:52 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 19:03:52 : response received : {"name":"StoreButton","id":191756,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":191426,"parentId":191616,"transformId":191758}
+12/9/2019 7:03:52 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 19:03:52 : response received : {"name":"ThemeZone","id":192524,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":191426,"parentId":191616,"transformId":192526}
+12/9/2019 7:03:52 PM:tapped object by name StartButton12/9/2019 7:03:52 PM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 19:03:52 : response received : {"name":"StartButton","id":192168,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":191426,"parentId":191616,"transformId":192170}
+12/9/2019 7:03:52 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 19:03:52 : response received : {"name":"pauseButton","id":191620,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":191426,"parentId":191718,"transformId":191622}
+12/9/2019 7:03:52 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:03:52 : response received : {"name":"PlayerPivot","id":192826,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":191426,"parentId":0,"transformId":192830}
+12/9/2019 7:03:52 PM:LoadScene Main
+12-09-2019 19:03:52 : response received : Ok
+12/9/2019 7:03:53 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 19:03:53 : response received : {"name":"CharName","id":193240,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":193436,"parentId":194460,"transformId":193242}
+12/9/2019 7:03:53 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 19:03:53 : response received : {"name":"OpenLeaderboard","id":194240,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":193436,"parentId":193626,"transformId":194242}
+12/9/2019 7:03:53 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 19:03:53 : response received : {"name":"MissionButton","id":193120,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":193436,"parentId":193626,"transformId":193122}
+12/9/2019 7:03:53 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 19:03:53 : response received : {"name":"StartButton","id":194178,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":193436,"parentId":193626,"transformId":194180}
+12/9/2019 7:03:53 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 19:03:53 : response received : {"name":"SettingButton","id":193846,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":193436,"parentId":193626,"transformId":193848}
+12/9/2019 7:03:53 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 19:03:53 : response received : {"name":"StoreButton","id":193766,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":193436,"parentId":193626,"transformId":193768}
+12/9/2019 7:03:53 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 19:03:53 : response received : {"name":"ThemeZone","id":194534,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":193436,"parentId":193626,"transformId":194536}
+12/9/2019 7:03:53 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 19:03:53 : response received : error:notFound
+12/9/2019 7:03:54 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 19:03:54 : response received : error:notFound
+12/9/2019 7:03:54 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 19:03:54 : response received : error:notFound
+12/9/2019 7:03:55 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 19:03:55 : response received : error:notFound
+12/9/2019 7:06:09 PM:Logging is set to True
+12-09-2019 19:06:09 : response received : Ok
+12/9/2019 7:06:09 PM:LoadScene Main
+12-09-2019 19:06:09 : response received : Ok
+12/9/2019 7:06:10 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 19:06:10 : response received : {"name":"CharName","id":196564,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":196760,"parentId":197784,"transformId":196566}
+12/9/2019 7:06:10 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 19:06:10 : response received : {"name":"OpenLeaderboard","id":197564,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":196760,"parentId":196950,"transformId":197566}
+12/9/2019 7:06:10 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 19:06:10 : response received : {"name":"MissionButton","id":196444,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":196760,"parentId":196950,"transformId":196446}
+12/9/2019 7:06:10 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 19:06:10 : response received : {"name":"StartButton","id":197502,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":196760,"parentId":196950,"transformId":197504}
+12/9/2019 7:06:10 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 19:06:10 : response received : {"name":"SettingButton","id":197170,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":196760,"parentId":196950,"transformId":197172}
+12/9/2019 7:06:10 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 19:06:10 : response received : {"name":"StoreButton","id":197090,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":196760,"parentId":196950,"transformId":197092}
+12/9/2019 7:06:10 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 19:06:10 : response received : {"name":"ThemeZone","id":197858,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":196760,"parentId":196950,"transformId":197860}
+12/9/2019 7:06:10 PM:tapped object by name StartButton12/9/2019 7:06:10 PM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 19:06:10 : response received : {"name":"StartButton","id":197502,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":196760,"parentId":196950,"transformId":197504}
+12/9/2019 7:06:10 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 19:06:10 : response received : {"name":"pauseButton","id":196954,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":196760,"parentId":197052,"transformId":196956}
+12/9/2019 7:06:10 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:10 : response received : {"name":"PlayerPivot","id":198160,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":196760,"parentId":0,"transformId":198164}
+12/9/2019 7:06:10 PM:LoadScene Main
+12-09-2019 19:06:10 : response received : Ok
+12/9/2019 7:06:11 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 19:06:11 : response received : {"name":"CharName","id":198574,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":198770,"parentId":199794,"transformId":198576}
+12/9/2019 7:06:11 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 19:06:11 : response received : {"name":"OpenLeaderboard","id":199574,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":198770,"parentId":198960,"transformId":199576}
+12/9/2019 7:06:11 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 19:06:11 : response received : {"name":"MissionButton","id":198454,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":198770,"parentId":198960,"transformId":198456}
+12/9/2019 7:06:11 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 19:06:11 : response received : {"name":"StartButton","id":199512,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":198770,"parentId":198960,"transformId":199514}
+12/9/2019 7:06:11 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 19:06:11 : response received : {"name":"SettingButton","id":199180,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":198770,"parentId":198960,"transformId":199182}
+12/9/2019 7:06:11 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 19:06:11 : response received : {"name":"StoreButton","id":199100,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":198770,"parentId":198960,"transformId":199102}
+12/9/2019 7:06:11 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 19:06:11 : response received : {"name":"ThemeZone","id":199868,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":198770,"parentId":198960,"transformId":199870}
+12/9/2019 7:06:11 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:11 : response received : error:notFound
+12/9/2019 7:06:11 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:11 : response received : error:notFound
+12/9/2019 7:06:12 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:12 : response received : error:notFound
+12/9/2019 7:06:12 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:12 : response received : error:notFound
+12/9/2019 7:06:13 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:13 : response received : error:notFound
+12/9/2019 7:06:14 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:14 : response received : error:notFound
+12/9/2019 7:06:14 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:14 : response received : error:notFound
+12/9/2019 7:06:15 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:15 : response received : error:notFound
+12/9/2019 7:06:15 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:15 : response received : error:notFound
+12/9/2019 7:06:16 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:16 : response received : error:notFound
+12/9/2019 7:06:16 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:16 : response received : error:notFound
+12/9/2019 7:06:17 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:17 : response received : error:notFound
+12/9/2019 7:06:17 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:17 : response received : error:notFound
+12/9/2019 7:06:18 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:18 : response received : error:notFound
+12/9/2019 7:06:18 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:18 : response received : error:notFound
+12/9/2019 7:06:19 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:19 : response received : error:notFound
+12/9/2019 7:06:19 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:19 : response received : error:notFound
+12/9/2019 7:06:20 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:20 : response received : error:notFound
+12/9/2019 7:06:20 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:20 : response received : error:notFound
+12/9/2019 7:06:21 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:21 : response received : error:notFound
+12/9/2019 7:06:22 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:22 : response received : error:notFound
+12/9/2019 7:06:22 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:22 : response received : error:notFound
+12/9/2019 7:06:23 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:23 : response received : error:notFound
+12/9/2019 7:06:23 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:23 : response received : error:notFound
+12/9/2019 7:06:24 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:24 : response received : error:notFound
+12/9/2019 7:06:24 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:24 : response received : error:notFound
+12/9/2019 7:06:25 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:25 : response received : error:notFound
+12/9/2019 7:06:25 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:25 : response received : error:notFound
+12/9/2019 7:06:26 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:26 : response received : error:notFound
+12/9/2019 7:06:26 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:26 : response received : error:notFound
+12/9/2019 7:06:27 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:27 : response received : error:notFound
+12/9/2019 7:06:27 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:27 : response received : error:notFound
+12/9/2019 7:06:28 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:28 : response received : error:notFound
+12/9/2019 7:06:28 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:06:28 : response received : error:notFound
+12/9/2019 7:07:36 PM:Logging is set to True
+12-09-2019 19:07:36 : response received : Ok
+12/9/2019 7:07:36 PM:LoadScene Main
+12-09-2019 19:07:36 : response received : Ok
+12/9/2019 7:07:36 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 19:07:36 : response received : {"name":"CharName","id":201898,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":202094,"parentId":203118,"transformId":201900}
+12/9/2019 7:07:37 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 19:07:37 : response received : {"name":"OpenLeaderboard","id":202898,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":202094,"parentId":202284,"transformId":202900}
+12/9/2019 7:07:37 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 19:07:37 : response received : {"name":"MissionButton","id":201778,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":202094,"parentId":202284,"transformId":201780}
+12/9/2019 7:07:37 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 19:07:37 : response received : {"name":"StartButton","id":202836,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":202094,"parentId":202284,"transformId":202838}
+12/9/2019 7:07:37 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 19:07:37 : response received : {"name":"SettingButton","id":202504,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":202094,"parentId":202284,"transformId":202506}
+12/9/2019 7:07:37 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 19:07:37 : response received : {"name":"StoreButton","id":202424,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":202094,"parentId":202284,"transformId":202426}
+12/9/2019 7:07:37 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 19:07:37 : response received : {"name":"ThemeZone","id":203192,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":202094,"parentId":202284,"transformId":203194}
+12/9/2019 7:07:37 PM:tapped object by name StartButton12/9/2019 7:07:37 PM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 19:07:37 : response received : {"name":"StartButton","id":202836,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":202094,"parentId":202284,"transformId":202838}
+12/9/2019 7:07:37 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 19:07:37 : response received : {"name":"pauseButton","id":202288,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":202094,"parentId":202386,"transformId":202290}
+12/9/2019 7:07:37 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:07:37 : response received : {"name":"PlayerPivot","id":203494,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":202094,"parentId":0,"transformId":203498}
+12/9/2019 7:07:37 PM:LoadScene Main
+12-09-2019 19:07:37 : response received : Ok
+12/9/2019 7:07:37 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 19:07:37 : response received : {"name":"CharName","id":203908,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":204104,"parentId":205128,"transformId":203910}
+12/9/2019 7:07:37 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 19:07:37 : response received : {"name":"OpenLeaderboard","id":204908,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":204104,"parentId":204294,"transformId":204910}
+12/9/2019 7:07:37 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 19:07:37 : response received : {"name":"MissionButton","id":203788,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":204104,"parentId":204294,"transformId":203790}
+12/9/2019 7:07:38 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 19:07:38 : response received : {"name":"StartButton","id":204846,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":204104,"parentId":204294,"transformId":204848}
+12/9/2019 7:07:38 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 19:07:38 : response received : {"name":"SettingButton","id":204514,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":204104,"parentId":204294,"transformId":204516}
+12/9/2019 7:07:38 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 19:07:38 : response received : {"name":"StoreButton","id":204434,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":204104,"parentId":204294,"transformId":204436}
+12/9/2019 7:07:38 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 19:07:38 : response received : {"name":"ThemeZone","id":205202,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":204104,"parentId":204294,"transformId":205204}
+12/9/2019 7:07:38 PM:tapped object by name StartButton12/9/2019 7:07:38 PM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 19:07:38 : response received : {"name":"StartButton","id":204846,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":204104,"parentId":204294,"transformId":204848}
+12/9/2019 7:07:38 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:07:38 : response received : {"name":"PlayerPivot","id":205504,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":204104,"parentId":0,"transformId":205508}
+12/9/2019 7:07:38 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 19:07:38 : response received : {"name":"pauseButton","id":204298,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":204104,"parentId":204396,"transformId":204300}
+12/9/2019 7:07:38 PM:tapped object by name pauseButton12/9/2019 7:07:38 PM:GameOBject: pauseButton (UnityEngine.GameObject)
+12-09-2019 19:07:38 : response received : {"name":"pauseButton","id":204298,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":false,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":204104,"parentId":204396,"transformId":204300}
+12/9/2019 7:09:17 PM:Logging is set to True
+12-09-2019 19:09:17 : response received : Ok
+12/9/2019 7:09:17 PM:LoadScene Main
+12-09-2019 19:09:17 : response received : Ok
+12/9/2019 7:09:17 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 19:09:17 : response received : {"name":"CharName","id":205918,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":206114,"parentId":207138,"transformId":205920}
+12/9/2019 7:09:17 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 19:09:17 : response received : {"name":"OpenLeaderboard","id":206918,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":206114,"parentId":206304,"transformId":206920}
+12/9/2019 7:09:17 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 19:09:17 : response received : {"name":"MissionButton","id":205798,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":206114,"parentId":206304,"transformId":205800}
+12/9/2019 7:09:17 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 19:09:17 : response received : {"name":"StartButton","id":206856,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":206114,"parentId":206304,"transformId":206858}
+12/9/2019 7:09:17 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 19:09:17 : response received : {"name":"SettingButton","id":206524,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":206114,"parentId":206304,"transformId":206526}
+12/9/2019 7:09:17 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 19:09:17 : response received : {"name":"StoreButton","id":206444,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":206114,"parentId":206304,"transformId":206446}
+12/9/2019 7:09:17 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 19:09:17 : response received : {"name":"ThemeZone","id":207212,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":206114,"parentId":206304,"transformId":207214}
+12/9/2019 7:09:17 PM:tapped object by name StartButton12/9/2019 7:09:17 PM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 19:09:17 : response received : {"name":"StartButton","id":206856,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":206114,"parentId":206304,"transformId":206858}
+12/9/2019 7:09:17 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 19:09:17 : response received : {"name":"pauseButton","id":206308,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":206114,"parentId":206406,"transformId":206310}
+12/9/2019 7:09:17 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:09:17 : response received : {"name":"PlayerPivot","id":207514,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":206114,"parentId":0,"transformId":207518}
+12/9/2019 7:09:17 PM:LoadScene Main
+12-09-2019 19:09:17 : response received : Ok
+12/9/2019 7:09:18 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 19:09:18 : response received : {"name":"CharName","id":207928,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":208124,"parentId":209148,"transformId":207930}
+12/9/2019 7:09:18 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 19:09:18 : response received : {"name":"OpenLeaderboard","id":208928,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":208124,"parentId":208314,"transformId":208930}
+12/9/2019 7:09:18 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 19:09:18 : response received : {"name":"MissionButton","id":207808,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":208124,"parentId":208314,"transformId":207810}
+12/9/2019 7:09:18 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 19:09:18 : response received : {"name":"StartButton","id":208866,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":208124,"parentId":208314,"transformId":208868}
+12/9/2019 7:09:18 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 19:09:18 : response received : {"name":"SettingButton","id":208534,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":208124,"parentId":208314,"transformId":208536}
+12/9/2019 7:09:18 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 19:09:18 : response received : {"name":"StoreButton","id":208454,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":208124,"parentId":208314,"transformId":208456}
+12/9/2019 7:09:18 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 19:09:18 : response received : {"name":"ThemeZone","id":209222,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":208124,"parentId":208314,"transformId":209224}
+12/9/2019 7:09:18 PM:tapped object by name StartButton12/9/2019 7:09:18 PM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 19:09:18 : response received : {"name":"StartButton","id":208866,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":208124,"parentId":208314,"transformId":208868}
+12/9/2019 7:09:18 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:09:18 : response received : {"name":"PlayerPivot","id":209524,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":208124,"parentId":0,"transformId":209528}
+12/9/2019 7:09:18 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 19:09:18 : response received : {"name":"pauseButton","id":208318,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":208124,"parentId":208416,"transformId":208320}
+12/9/2019 7:09:18 PM:tapped object by name pauseButton12/9/2019 7:09:18 PM:GameOBject: pauseButton (UnityEngine.GameObject)
+12-09-2019 19:09:18 : response received : {"name":"pauseButton","id":208318,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":208124,"parentId":208416,"transformId":208320}
+12/9/2019 7:09:18 PM:findObject for: //Game/PauseMenu/Text;;true
+12-09-2019 19:09:18 : response received : error:notFound
+12/9/2019 7:09:19 PM:findObject for: //Game/PauseMenu/Text;;true
+12-09-2019 19:09:19 : response received : error:notFound
+12/9/2019 7:09:19 PM:findObject for: //Game/PauseMenu/Text;;true
+12-09-2019 19:09:20 : response received : error:notFound
+12/9/2019 7:09:20 PM:findObject for: //Game/PauseMenu/Text;;true
+12-09-2019 19:09:20 : response received : error:notFound
+12/9/2019 7:10:27 PM:Logging is set to True
+12-09-2019 19:10:27 : response received : Ok
+12/9/2019 7:10:27 PM:LoadScene Main
+12-09-2019 19:10:27 : response received : Ok
+12/9/2019 7:10:27 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 19:10:27 : response received : {"name":"CharName","id":209938,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":210134,"parentId":211158,"transformId":209940}
+12/9/2019 7:10:27 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 19:10:27 : response received : {"name":"OpenLeaderboard","id":210938,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":210134,"parentId":210324,"transformId":210940}
+12/9/2019 7:10:27 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 19:10:27 : response received : {"name":"MissionButton","id":209818,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":210134,"parentId":210324,"transformId":209820}
+12/9/2019 7:10:27 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 19:10:27 : response received : {"name":"StartButton","id":210876,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":210134,"parentId":210324,"transformId":210878}
+12/9/2019 7:10:27 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 19:10:27 : response received : {"name":"SettingButton","id":210544,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":210134,"parentId":210324,"transformId":210546}
+12/9/2019 7:10:27 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 19:10:27 : response received : {"name":"StoreButton","id":210464,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":210134,"parentId":210324,"transformId":210466}
+12/9/2019 7:10:27 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 19:10:27 : response received : {"name":"ThemeZone","id":211232,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":210134,"parentId":210324,"transformId":211234}
+12/9/2019 7:10:27 PM:tapped object by name StartButton12/9/2019 7:10:27 PM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 19:10:28 : response received : {"name":"StartButton","id":210876,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":210134,"parentId":210324,"transformId":210878}
+12/9/2019 7:10:28 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 19:10:28 : response received : {"name":"pauseButton","id":210328,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":210134,"parentId":210426,"transformId":210330}
+12/9/2019 7:10:28 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:10:28 : response received : {"name":"PlayerPivot","id":211534,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":210134,"parentId":0,"transformId":211538}
+12/9/2019 7:10:28 PM:LoadScene Main
+12-09-2019 19:10:28 : response received : Ok
+12/9/2019 7:10:28 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 19:10:28 : response received : {"name":"CharName","id":211948,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":212144,"parentId":213168,"transformId":211950}
+12/9/2019 7:10:28 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 19:10:28 : response received : {"name":"OpenLeaderboard","id":212948,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":212144,"parentId":212334,"transformId":212950}
+12/9/2019 7:10:28 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 19:10:28 : response received : {"name":"MissionButton","id":211828,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":212144,"parentId":212334,"transformId":211830}
+12/9/2019 7:10:28 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 19:10:28 : response received : {"name":"StartButton","id":212886,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":212144,"parentId":212334,"transformId":212888}
+12/9/2019 7:10:28 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 19:10:28 : response received : {"name":"SettingButton","id":212554,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":212144,"parentId":212334,"transformId":212556}
+12/9/2019 7:10:28 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 19:10:28 : response received : {"name":"StoreButton","id":212474,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":212144,"parentId":212334,"transformId":212476}
+12/9/2019 7:10:28 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 19:10:28 : response received : {"name":"ThemeZone","id":213242,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":212144,"parentId":212334,"transformId":213244}
+12/9/2019 7:10:28 PM:tapped object by name StartButton12/9/2019 7:10:28 PM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 19:10:28 : response received : {"name":"StartButton","id":212886,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":212144,"parentId":212334,"transformId":212888}
+12/9/2019 7:10:28 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:10:28 : response received : {"name":"PlayerPivot","id":213544,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":212144,"parentId":0,"transformId":213548}
+12/9/2019 7:10:28 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 19:10:28 : response received : {"name":"pauseButton","id":212338,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":212144,"parentId":212436,"transformId":212340}
+12/9/2019 7:10:28 PM:tapped object by name pauseButton12/9/2019 7:10:28 PM:GameOBject: pauseButton (UnityEngine.GameObject)
+12-09-2019 19:10:28 : response received : {"name":"pauseButton","id":212338,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":212144,"parentId":212436,"transformId":212340}
+12/9/2019 7:10:28 PM:findObject for: //Game/PauseMenu/Text;;true
+12-09-2019 19:10:29 : response received : error:notFound
+12/9/2019 7:10:29 PM:findObject for: //Game/PauseMenu/Text;;true
+12-09-2019 19:10:29 : response received : error:notFound
+12/9/2019 7:10:30 PM:findObject for: //Game/PauseMenu/Text;;true
+12-09-2019 19:10:30 : response received : error:notFound
+12/9/2019 7:10:30 PM:findObject for: //Game/PauseMenu/Text;;true
+12-09-2019 19:10:30 : response received : error:notFound
+12/9/2019 7:13:36 PM:Logging is set to True
+12-09-2019 19:13:36 : response received : Ok
+12/9/2019 7:13:36 PM:LoadScene Main
+12-09-2019 19:13:36 : response received : Ok
+12/9/2019 7:13:37 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 19:13:37 : response received : {"name":"CharName","id":216586,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":216782,"parentId":217806,"transformId":216588}
+12/9/2019 7:13:37 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 19:13:37 : response received : {"name":"OpenLeaderboard","id":217586,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":216782,"parentId":216972,"transformId":217588}
+12/9/2019 7:13:37 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 19:13:37 : response received : {"name":"MissionButton","id":216466,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":216782,"parentId":216972,"transformId":216468}
+12/9/2019 7:13:37 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 19:13:37 : response received : {"name":"StartButton","id":217524,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":216782,"parentId":216972,"transformId":217526}
+12/9/2019 7:13:37 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 19:13:37 : response received : {"name":"SettingButton","id":217192,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":216782,"parentId":216972,"transformId":217194}
+12/9/2019 7:13:37 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 19:13:37 : response received : {"name":"StoreButton","id":217112,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":216782,"parentId":216972,"transformId":217114}
+12/9/2019 7:13:37 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 19:13:37 : response received : {"name":"ThemeZone","id":217880,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":216782,"parentId":216972,"transformId":217882}
+12/9/2019 7:13:37 PM:tapped object by name StartButton12/9/2019 7:13:37 PM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 19:13:37 : response received : {"name":"StartButton","id":217524,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":216782,"parentId":216972,"transformId":217526}
+12/9/2019 7:34:27 PM:Logging is set to True
+12-09-2019 19:34:27 : response received : Ok
+12/9/2019 7:34:27 PM:LoadScene Main
+12-09-2019 19:34:27 : response received : Ok
+12/9/2019 7:34:28 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 19:34:28 : response received : {"name":"CharName","id":219910,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":220106,"parentId":221130,"transformId":219912}
+12/9/2019 7:34:28 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 19:34:28 : response received : {"name":"OpenLeaderboard","id":220910,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":220106,"parentId":220296,"transformId":220912}
+12/9/2019 7:34:28 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 19:34:28 : response received : {"name":"MissionButton","id":219790,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":220106,"parentId":220296,"transformId":219792}
+12/9/2019 7:34:28 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 19:34:28 : response received : {"name":"StartButton","id":220848,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":220106,"parentId":220296,"transformId":220850}
+12/9/2019 7:34:28 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 19:34:28 : response received : {"name":"SettingButton","id":220516,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":220106,"parentId":220296,"transformId":220518}
+12/9/2019 7:34:28 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 19:34:28 : response received : {"name":"StoreButton","id":220436,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":220106,"parentId":220296,"transformId":220438}
+12/9/2019 7:34:28 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 19:34:28 : response received : {"name":"ThemeZone","id":221204,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":220106,"parentId":220296,"transformId":221206}
+12/9/2019 7:34:28 PM:tapped object by name StartButton12/9/2019 7:34:28 PM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 19:34:29 : response received : {"name":"StartButton","id":220848,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":220106,"parentId":220296,"transformId":220850}
+12/9/2019 7:34:29 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:34:29 : response received : {"name":"PlayerPivot","id":221506,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":220106,"parentId":0,"transformId":221510}
+12/9/2019 7:34:29 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 19:34:29 : response received : {"name":"pauseButton","id":220300,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":220106,"parentId":220398,"transformId":220302}
+12/9/2019 7:34:29 PM:tapped object by name pauseButton12/9/2019 7:34:29 PM:GameOBject: pauseButton (UnityEngine.GameObject)
+12-09-2019 19:34:29 : response received : {"name":"pauseButton","id":220300,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":false,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":220106,"parentId":220398,"transformId":220302}
+12/9/2019 7:37:39 PM:findObject for: //Game/PauseMenu/Text;;true
+12-09-2019 19:37:39 : response received : {"name":"Text","id":219620,"x":540,"y":1834,"z":0,"mobileY":86,"type":"","enabled":true,"worldX":540.0009,"worldY":1834.5,"worldZ":0.0,"idCamera":220106,"parentId":221134,"transformId":219622}
+12/9/2019 7:37:40 PM:findObject for: //Game/PauseMenu/Exit;;true
+12-09-2019 19:37:40 : response received : {"name":"Exit","id":220778,"x":540,"y":881,"z":0,"mobileY":1039,"type":"","enabled":true,"worldX":540.0,"worldY":881.1,"worldZ":0.0,"idCamera":220106,"parentId":221134,"transformId":220780}
+12/9/2019 7:37:40 PM:findObject for: //Game/PauseMenu/Resume;;true
+12-09-2019 19:37:40 : response received : {"name":"Resume","id":220054,"x":540,"y":960,"z":0,"mobileY":960,"type":"","enabled":true,"worldX":540.0,"worldY":960.0,"worldZ":0.0,"idCamera":220106,"parentId":221134,"transformId":220056}
+12/9/2019 7:37:40 PM:tapped object by name Resume12/9/2019 7:37:40 PM:GameOBject: Resume (UnityEngine.GameObject)
+12-09-2019 19:37:40 : response received : {"name":"Resume","id":220054,"x":540,"y":960,"z":0,"mobileY":960,"type":"","enabled":true,"worldX":540.0,"worldY":960.0,"worldZ":0.0,"idCamera":220106,"parentId":221134,"transformId":220056}
+12/9/2019 7:39:53 PM:Logging is set to True
+12-09-2019 19:39:53 : response received : Ok
+12/9/2019 7:39:53 PM:LoadScene Main
+12-09-2019 19:39:53 : response received : Ok
+12/9/2019 7:39:53 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 19:39:53 : response received : {"name":"CharName","id":223234,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":223430,"parentId":224454,"transformId":223236}
+12/9/2019 7:39:53 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 19:39:53 : response received : {"name":"OpenLeaderboard","id":224234,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":223430,"parentId":223620,"transformId":224236}
+12/9/2019 7:39:53 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 19:39:53 : response received : {"name":"MissionButton","id":223114,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":223430,"parentId":223620,"transformId":223116}
+12/9/2019 7:39:53 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 19:39:53 : response received : {"name":"StartButton","id":224172,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":223430,"parentId":223620,"transformId":224174}
+12/9/2019 7:39:53 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 19:39:53 : response received : {"name":"SettingButton","id":223840,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":223430,"parentId":223620,"transformId":223842}
+12/9/2019 7:39:53 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 19:39:54 : response received : {"name":"StoreButton","id":223760,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":223430,"parentId":223620,"transformId":223762}
+12/9/2019 7:39:54 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 19:39:54 : response received : {"name":"ThemeZone","id":224528,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":223430,"parentId":223620,"transformId":224530}
+12/9/2019 7:39:54 PM:tapped object by name StartButton12/9/2019 7:39:54 PM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 19:39:54 : response received : {"name":"StartButton","id":224172,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":223430,"parentId":223620,"transformId":224174}
+12/9/2019 7:39:54 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 19:39:54 : response received : {"name":"pauseButton","id":223624,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":223430,"parentId":223722,"transformId":223626}
+12/9/2019 7:39:54 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:39:54 : response received : {"name":"PlayerPivot","id":224830,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":223430,"parentId":0,"transformId":224834}
+12/9/2019 7:39:54 PM:LoadScene Main
+12-09-2019 19:39:54 : response received : Ok
+12/9/2019 7:39:54 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 19:39:54 : response received : {"name":"CharName","id":225244,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":225440,"parentId":226464,"transformId":225246}
+12/9/2019 7:39:54 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 19:39:54 : response received : {"name":"OpenLeaderboard","id":226244,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":225440,"parentId":225630,"transformId":226246}
+12/9/2019 7:39:54 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 19:39:54 : response received : {"name":"MissionButton","id":225124,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":225440,"parentId":225630,"transformId":225126}
+12/9/2019 7:39:54 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 19:39:54 : response received : {"name":"StartButton","id":226182,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":225440,"parentId":225630,"transformId":226184}
+12/9/2019 7:40:20 PM:Logging is set to True
+12-09-2019 19:40:20 : response received : Ok
+12/9/2019 7:40:20 PM:LoadScene Main
+12-09-2019 19:40:20 : response received : Ok
+12/9/2019 7:40:20 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 19:40:20 : response received : {"name":"CharName","id":228568,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":228764,"parentId":229788,"transformId":228570}
+12/9/2019 7:40:20 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 19:40:20 : response received : {"name":"OpenLeaderboard","id":229568,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":228764,"parentId":228954,"transformId":229570}
+12/9/2019 7:40:20 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 19:40:21 : response received : {"name":"MissionButton","id":228448,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":228764,"parentId":228954,"transformId":228450}
+12/9/2019 7:40:21 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 19:40:21 : response received : {"name":"StartButton","id":229506,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":228764,"parentId":228954,"transformId":229508}
+12/9/2019 7:40:21 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 19:40:21 : response received : {"name":"SettingButton","id":229174,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":228764,"parentId":228954,"transformId":229176}
+12/9/2019 7:40:21 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 19:40:21 : response received : {"name":"StoreButton","id":229094,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":228764,"parentId":228954,"transformId":229096}
+12/9/2019 7:40:21 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 19:40:21 : response received : {"name":"ThemeZone","id":229862,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":228764,"parentId":228954,"transformId":229864}
+12/9/2019 7:40:21 PM:tapped object by name StartButton12/9/2019 7:40:21 PM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 19:40:21 : response received : {"name":"StartButton","id":229506,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":228764,"parentId":228954,"transformId":229508}
+12/9/2019 7:40:21 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 19:40:21 : response received : {"name":"pauseButton","id":228958,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":228764,"parentId":229056,"transformId":228960}
+12/9/2019 7:40:21 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:40:21 : response received : {"name":"PlayerPivot","id":230164,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":228764,"parentId":0,"transformId":230168}
+12/9/2019 7:40:21 PM:LoadScene Main
+12-09-2019 19:40:21 : response received : Ok
+12/9/2019 7:40:21 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 19:40:21 : response received : {"name":"CharName","id":230578,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":230774,"parentId":231798,"transformId":230580}
+12/9/2019 7:40:21 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 19:40:21 : response received : {"name":"OpenLeaderboard","id":231578,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":230774,"parentId":230964,"transformId":231580}
+12/9/2019 7:40:21 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 19:40:21 : response received : {"name":"MissionButton","id":230458,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":230774,"parentId":230964,"transformId":230460}
+12/9/2019 7:40:21 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 19:40:21 : response received : {"name":"StartButton","id":231516,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":230774,"parentId":230964,"transformId":231518}
+12/9/2019 7:40:22 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 19:40:22 : response received : {"name":"SettingButton","id":231184,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":230774,"parentId":230964,"transformId":231186}
+12/9/2019 7:40:22 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 19:40:22 : response received : {"name":"StoreButton","id":231104,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":230774,"parentId":230964,"transformId":231106}
+12/9/2019 7:40:22 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 19:40:22 : response received : {"name":"ThemeZone","id":231872,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":230774,"parentId":230964,"transformId":231874}
+12/9/2019 7:40:22 PM:tapped object by name StartButton12/9/2019 7:40:22 PM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 19:40:22 : response received : {"name":"StartButton","id":231516,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":230774,"parentId":230964,"transformId":231518}
+12/9/2019 7:40:22 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:40:22 : response received : {"name":"PlayerPivot","id":232174,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":230774,"parentId":0,"transformId":232178}
+12/9/2019 7:40:22 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 19:40:22 : response received : {"name":"pauseButton","id":230968,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":230774,"parentId":231066,"transformId":230970}
+12/9/2019 7:40:22 PM:tapped object by name pauseButton12/9/2019 7:40:22 PM:GameOBject: pauseButton (UnityEngine.GameObject)
+12-09-2019 19:40:22 : response received : {"name":"pauseButton","id":230968,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":false,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":230774,"parentId":231066,"transformId":230970}
+12/9/2019 7:40:22 PM:findObject for: //Game/PauseMenu/Text;;true
+12-09-2019 19:40:22 : response received : {"name":"Text","id":230288,"x":540,"y":1834,"z":0,"mobileY":86,"type":"","enabled":true,"worldX":540.0009,"worldY":1834.5,"worldZ":0.0,"idCamera":230774,"parentId":231802,"transformId":230290}
+12/9/2019 7:40:22 PM:findObject for: //Game/PauseMenu/Exit;;true
+12-09-2019 19:40:22 : response received : {"name":"Exit","id":231446,"x":540,"y":881,"z":0,"mobileY":1039,"type":"","enabled":true,"worldX":540.0,"worldY":881.1,"worldZ":0.0,"idCamera":230774,"parentId":231802,"transformId":231448}
+12/9/2019 7:40:22 PM:findObject for: //Game/PauseMenu/Resume;;true
+12-09-2019 19:40:22 : response received : {"name":"Resume","id":230722,"x":540,"y":960,"z":0,"mobileY":960,"type":"","enabled":true,"worldX":540.0,"worldY":960.0,"worldZ":0.0,"idCamera":230774,"parentId":231802,"transformId":230724}
+12/9/2019 7:40:22 PM:tapped object by name Resume12/9/2019 7:40:22 PM:GameOBject: Resume (UnityEngine.GameObject)
+12-09-2019 19:40:22 : response received : {"name":"Resume","id":230722,"x":540,"y":960,"z":0,"mobileY":960,"type":"","enabled":true,"worldX":540.0,"worldY":960.0,"worldZ":0.0,"idCamera":230774,"parentId":231802,"transformId":230724}
+12/9/2019 7:40:48 PM:Logging is set to True
+12-09-2019 19:40:48 : response received : Ok
+12/9/2019 7:40:48 PM:LoadScene Main
+12-09-2019 19:40:48 : response received : Ok
+12/9/2019 7:40:48 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 19:40:48 : response received : {"name":"CharName","id":233902,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":234098,"parentId":235122,"transformId":233904}
+12/9/2019 7:40:48 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 19:40:48 : response received : {"name":"OpenLeaderboard","id":234902,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":234098,"parentId":234288,"transformId":234904}
+12/9/2019 7:40:48 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 19:40:48 : response received : {"name":"MissionButton","id":233782,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":234098,"parentId":234288,"transformId":233784}
+12/9/2019 7:40:48 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 19:40:48 : response received : {"name":"StartButton","id":234840,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":234098,"parentId":234288,"transformId":234842}
+12/9/2019 7:40:48 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 19:40:48 : response received : {"name":"SettingButton","id":234508,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":234098,"parentId":234288,"transformId":234510}
+12/9/2019 7:40:49 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 19:40:49 : response received : {"name":"StoreButton","id":234428,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":234098,"parentId":234288,"transformId":234430}
+12/9/2019 7:40:49 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 19:40:49 : response received : {"name":"ThemeZone","id":235196,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":234098,"parentId":234288,"transformId":235198}
+12/9/2019 7:40:49 PM:tapped object by name StartButton12/9/2019 7:40:49 PM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 19:40:49 : response received : {"name":"StartButton","id":234840,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":234098,"parentId":234288,"transformId":234842}
+12/9/2019 7:40:49 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 19:40:49 : response received : {"name":"pauseButton","id":234292,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":234098,"parentId":234390,"transformId":234294}
+12/9/2019 7:40:49 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:40:49 : response received : {"name":"PlayerPivot","id":235498,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":234098,"parentId":0,"transformId":235502}
+12/9/2019 7:40:49 PM:LoadScene Main
+12-09-2019 19:40:49 : response received : Ok
+12/9/2019 7:40:49 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 19:40:49 : response received : {"name":"CharName","id":235912,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":236108,"parentId":237132,"transformId":235914}
+12/9/2019 7:40:49 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 19:40:49 : response received : {"name":"OpenLeaderboard","id":236912,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":236108,"parentId":236298,"transformId":236914}
+12/9/2019 7:40:49 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 19:40:49 : response received : {"name":"MissionButton","id":235792,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":236108,"parentId":236298,"transformId":235794}
+12/9/2019 7:40:49 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 19:40:49 : response received : {"name":"StartButton","id":236850,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":236108,"parentId":236298,"transformId":236852}
+12/9/2019 7:40:49 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 19:40:49 : response received : {"name":"SettingButton","id":236518,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":236108,"parentId":236298,"transformId":236520}
+12/9/2019 7:40:49 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 19:40:49 : response received : {"name":"StoreButton","id":236438,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":236108,"parentId":236298,"transformId":236440}
+12/9/2019 7:40:49 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 19:40:49 : response received : {"name":"ThemeZone","id":237206,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":236108,"parentId":236298,"transformId":237208}
+12/9/2019 7:40:49 PM:tapped object by name StartButton12/9/2019 7:40:49 PM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 19:40:50 : response received : {"name":"StartButton","id":236850,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":236108,"parentId":236298,"transformId":236852}
+12/9/2019 7:40:50 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:40:50 : response received : {"name":"PlayerPivot","id":237508,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":236108,"parentId":0,"transformId":237512}
+12/9/2019 7:40:50 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 19:40:50 : response received : {"name":"pauseButton","id":236302,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":236108,"parentId":236400,"transformId":236304}
+12/9/2019 7:40:50 PM:tapped object by name pauseButton12/9/2019 7:40:50 PM:GameOBject: pauseButton (UnityEngine.GameObject)
+12-09-2019 19:40:50 : response received : {"name":"pauseButton","id":236302,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":false,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":236108,"parentId":236400,"transformId":236304}
+12/9/2019 7:40:50 PM:findObject for: //Game/PauseMenu/Text;;true
+12-09-2019 19:40:50 : response received : {"name":"Text","id":235622,"x":540,"y":1834,"z":0,"mobileY":86,"type":"","enabled":true,"worldX":540.0009,"worldY":1834.5,"worldZ":0.0,"idCamera":236108,"parentId":237136,"transformId":235624}
+12/9/2019 7:40:50 PM:findObject for: //Game/PauseMenu/Exit;;true
+12-09-2019 19:40:50 : response received : {"name":"Exit","id":236780,"x":540,"y":881,"z":0,"mobileY":1039,"type":"","enabled":true,"worldX":540.0,"worldY":881.1,"worldZ":0.0,"idCamera":236108,"parentId":237136,"transformId":236782}
+12/9/2019 7:40:50 PM:findObject for: //Game/PauseMenu/Resume;;true
+12-09-2019 19:40:50 : response received : {"name":"Resume","id":236056,"x":540,"y":960,"z":0,"mobileY":960,"type":"","enabled":true,"worldX":540.0,"worldY":960.0,"worldZ":0.0,"idCamera":236108,"parentId":237136,"transformId":236058}
+12/9/2019 7:40:50 PM:tapped object by name Resume12/9/2019 7:40:50 PM:GameOBject: Resume (UnityEngine.GameObject)
+12-09-2019 19:40:50 : response received : {"name":"Resume","id":236056,"x":540,"y":960,"z":0,"mobileY":960,"type":"","enabled":true,"worldX":540.0,"worldY":960.0,"worldZ":0.0,"idCamera":236108,"parentId":237136,"transformId":236058}
+12/9/2019 7:41:25 PM:Logging is set to True
+12-09-2019 19:41:25 : response received : Ok
+12/9/2019 7:41:25 PM:LoadScene Main
+12-09-2019 19:41:25 : response received : Ok
+12/9/2019 7:41:26 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 19:41:26 : response received : {"name":"CharName","id":237922,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":238118,"parentId":239142,"transformId":237924}
+12/9/2019 7:41:26 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 19:41:26 : response received : {"name":"OpenLeaderboard","id":238922,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":238118,"parentId":238308,"transformId":238924}
+12/9/2019 7:41:26 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 19:41:26 : response received : {"name":"MissionButton","id":237802,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":238118,"parentId":238308,"transformId":237804}
+12/9/2019 7:41:26 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 19:41:26 : response received : {"name":"StartButton","id":238860,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":238118,"parentId":238308,"transformId":238862}
+12/9/2019 7:41:26 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 19:41:26 : response received : {"name":"SettingButton","id":238528,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":238118,"parentId":238308,"transformId":238530}
+12/9/2019 7:41:26 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 19:41:26 : response received : {"name":"StoreButton","id":238448,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":238118,"parentId":238308,"transformId":238450}
+12/9/2019 7:41:26 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 19:41:26 : response received : {"name":"ThemeZone","id":239216,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":238118,"parentId":238308,"transformId":239218}
+12/9/2019 7:41:26 PM:tapped object by name StartButton12/9/2019 7:41:26 PM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 19:41:26 : response received : {"name":"StartButton","id":238860,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":238118,"parentId":238308,"transformId":238862}
+12/9/2019 7:41:26 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 19:41:26 : response received : {"name":"pauseButton","id":238312,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":238118,"parentId":238410,"transformId":238314}
+12/9/2019 7:41:26 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:41:26 : response received : {"name":"PlayerPivot","id":239518,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":238118,"parentId":0,"transformId":239522}
+12/9/2019 7:41:26 PM:LoadScene Main
+12-09-2019 19:41:26 : response received : Ok
+12/9/2019 7:41:27 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 19:41:27 : response received : {"name":"CharName","id":239932,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":240128,"parentId":241152,"transformId":239934}
+12/9/2019 7:41:27 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 19:41:27 : response received : {"name":"OpenLeaderboard","id":240932,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":240128,"parentId":240318,"transformId":240934}
+12/9/2019 7:41:27 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 19:41:27 : response received : {"name":"MissionButton","id":239812,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":240128,"parentId":240318,"transformId":239814}
+12/9/2019 7:41:27 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 19:41:27 : response received : {"name":"StartButton","id":240870,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":240128,"parentId":240318,"transformId":240872}
+12/9/2019 7:41:27 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 19:41:27 : response received : {"name":"SettingButton","id":240538,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":240128,"parentId":240318,"transformId":240540}
+12/9/2019 7:41:27 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 19:41:27 : response received : {"name":"StoreButton","id":240458,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":240128,"parentId":240318,"transformId":240460}
+12/9/2019 7:41:27 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 19:41:27 : response received : {"name":"ThemeZone","id":241226,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":240128,"parentId":240318,"transformId":241228}
+12/9/2019 7:41:27 PM:tapped object by name StartButton12/9/2019 7:41:27 PM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 19:41:27 : response received : {"name":"StartButton","id":240870,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":240128,"parentId":240318,"transformId":240872}
+12/9/2019 7:41:27 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:41:27 : response received : {"name":"PlayerPivot","id":241528,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":240128,"parentId":0,"transformId":241532}
+12/9/2019 7:41:27 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 19:41:27 : response received : {"name":"pauseButton","id":240322,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":240128,"parentId":240420,"transformId":240324}
+12/9/2019 7:41:27 PM:tapped object by name pauseButton12/9/2019 7:41:27 PM:GameOBject: pauseButton (UnityEngine.GameObject)
+12-09-2019 19:41:27 : response received : {"name":"pauseButton","id":240322,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":240128,"parentId":240420,"transformId":240324}
+12/9/2019 7:41:27 PM:findObject for: //Game/PauseMenu/Text;;true
+12-09-2019 19:41:27 : response received : error:notFound
+12/9/2019 7:41:28 PM:findObject for: //Game/PauseMenu/Text;;true
+12-09-2019 19:41:28 : response received : error:notFound
+12/9/2019 7:41:28 PM:findObject for: //Game/PauseMenu/Text;;true
+12-09-2019 19:41:28 : response received : error:notFound
+12/9/2019 7:41:29 PM:findObject for: //Game/PauseMenu/Text;;true
+12-09-2019 19:41:29 : response received : error:notFound
+12/9/2019 7:43:30 PM:Logging is set to True
+12-09-2019 19:43:30 : response received : Ok
+12/9/2019 7:43:30 PM:LoadScene Main
+12-09-2019 19:43:30 : response received : Ok
+12/9/2019 7:43:31 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 19:43:31 : response received : {"name":"CharName","id":241942,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":242138,"parentId":243162,"transformId":241944}
+12/9/2019 7:43:31 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 19:43:31 : response received : {"name":"OpenLeaderboard","id":242942,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":242138,"parentId":242328,"transformId":242944}
+12/9/2019 7:43:31 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 19:43:31 : response received : {"name":"MissionButton","id":241822,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":242138,"parentId":242328,"transformId":241824}
+12/9/2019 7:43:31 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 19:43:31 : response received : {"name":"StartButton","id":242880,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":242138,"parentId":242328,"transformId":242882}
+12/9/2019 7:43:31 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 19:43:31 : response received : {"name":"SettingButton","id":242548,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":242138,"parentId":242328,"transformId":242550}
+12/9/2019 7:43:31 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 19:43:31 : response received : {"name":"StoreButton","id":242468,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":242138,"parentId":242328,"transformId":242470}
+12/9/2019 7:43:31 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 19:43:31 : response received : {"name":"ThemeZone","id":243236,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":242138,"parentId":242328,"transformId":243238}
+12/9/2019 7:43:31 PM:tapped object by name StartButton12/9/2019 7:43:31 PM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 19:43:31 : response received : {"name":"StartButton","id":242880,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":242138,"parentId":242328,"transformId":242882}
+12/9/2019 7:43:31 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 19:43:31 : response received : {"name":"pauseButton","id":242332,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":242138,"parentId":242430,"transformId":242334}
+12/9/2019 7:43:32 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:43:32 : response received : {"name":"PlayerPivot","id":243538,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":242138,"parentId":0,"transformId":243542}
+12/9/2019 7:43:32 PM:LoadScene Main
+12-09-2019 19:43:32 : response received : Ok
+12/9/2019 7:43:32 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 19:43:32 : response received : {"name":"CharName","id":243952,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":244148,"parentId":245172,"transformId":243954}
+12/9/2019 7:43:32 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 19:43:32 : response received : {"name":"OpenLeaderboard","id":244952,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":244148,"parentId":244338,"transformId":244954}
+12/9/2019 7:43:32 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 19:43:32 : response received : {"name":"MissionButton","id":243832,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":244148,"parentId":244338,"transformId":243834}
+12/9/2019 7:43:32 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 19:43:32 : response received : {"name":"StartButton","id":244890,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":244148,"parentId":244338,"transformId":244892}
+12/9/2019 7:43:32 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 19:43:32 : response received : {"name":"SettingButton","id":244558,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":244148,"parentId":244338,"transformId":244560}
+12/9/2019 7:43:32 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 19:43:32 : response received : {"name":"StoreButton","id":244478,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":244148,"parentId":244338,"transformId":244480}
+12/9/2019 7:43:32 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 19:43:32 : response received : {"name":"ThemeZone","id":245246,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":244148,"parentId":244338,"transformId":245248}
+12/9/2019 7:43:32 PM:tapped object by name StartButton12/9/2019 7:43:32 PM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 19:43:32 : response received : {"name":"StartButton","id":244890,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":244148,"parentId":244338,"transformId":244892}
+12/9/2019 7:43:32 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:43:32 : response received : {"name":"PlayerPivot","id":245548,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":244148,"parentId":0,"transformId":245552}
+12/9/2019 7:43:32 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 19:43:32 : response received : {"name":"pauseButton","id":244342,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":244148,"parentId":244440,"transformId":244344}
+12/9/2019 7:43:32 PM:tapped object by name pauseButton12/9/2019 7:43:32 PM:GameOBject: pauseButton (UnityEngine.GameObject)
+12-09-2019 19:43:32 : response received : {"name":"pauseButton","id":244342,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":244148,"parentId":244440,"transformId":244344}
+12/9/2019 7:45:09 PM:findObject for: //Game/PauseMenu/Text;;true
+12-09-2019 19:45:09 : response received : error:notFound
+12/9/2019 7:45:09 PM:findObject for: //Game/PauseMenu/Text;;true
+12-09-2019 19:45:09 : response received : error:notFound
+12/9/2019 7:45:10 PM:findObject for: //Game/PauseMenu/Text;;true
+12-09-2019 19:45:10 : response received : error:notFound
+12/9/2019 7:45:10 PM:findObject for: //Game/PauseMenu/Text;;true
+12-09-2019 19:45:10 : response received : error:notFound
+12/9/2019 7:45:56 PM:Logging is set to True
+12-09-2019 19:45:56 : response received : Ok
+12/9/2019 7:45:56 PM:LoadScene Main
+12-09-2019 19:45:56 : response received : Ok
+12/9/2019 7:45:57 PM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-09-2019 19:45:57 : response received : {"name":"CharName","id":245962,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":246158,"parentId":247182,"transformId":245964}
+12/9/2019 7:45:57 PM:findActiveObjectByName for: OpenLeaderboard
+12-09-2019 19:45:57 : response received : {"name":"OpenLeaderboard","id":246962,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":246158,"parentId":246348,"transformId":246964}
+12/9/2019 7:45:57 PM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-09-2019 19:45:57 : response received : {"name":"MissionButton","id":245842,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":246158,"parentId":246348,"transformId":245844}
+12/9/2019 7:45:57 PM:findObject for: //UICamera/Loadout/StartButton;;true
+12-09-2019 19:45:57 : response received : {"name":"StartButton","id":246900,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":246158,"parentId":246348,"transformId":246902}
+12/9/2019 7:45:57 PM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-09-2019 19:45:57 : response received : {"name":"SettingButton","id":246568,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":246158,"parentId":246348,"transformId":246570}
+12/9/2019 7:45:57 PM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-09-2019 19:45:57 : response received : {"name":"StoreButton","id":246488,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":246158,"parentId":246348,"transformId":246490}
+12/9/2019 7:45:57 PM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-09-2019 19:45:57 : response received : {"name":"ThemeZone","id":247256,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":246158,"parentId":246348,"transformId":247258}
+12/9/2019 7:45:57 PM:tapped object by name StartButton12/9/2019 7:45:57 PM:GameOBject: StartButton (UnityEngine.GameObject)
+12-09-2019 19:45:57 : response received : {"name":"StartButton","id":246900,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":246158,"parentId":246348,"transformId":246902}
+12/9/2019 7:45:57 PM:findActiveObjectByName for: PlayerPivot
+12-09-2019 19:45:57 : response received : {"name":"PlayerPivot","id":247558,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":246158,"parentId":0,"transformId":247562}
+12/9/2019 7:45:57 PM:findObject for: //Game/WholeUI/pauseButton;;true
+12-09-2019 19:45:57 : response received : {"name":"pauseButton","id":246352,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":246158,"parentId":246450,"transformId":246354}
+12/9/2019 7:45:57 PM:tapped object by name pauseButton12/9/2019 7:45:57 PM:GameOBject: pauseButton (UnityEngine.GameObject)
+12-09-2019 19:45:57 : response received : {"name":"pauseButton","id":246352,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":246158,"parentId":246450,"transformId":246354}
+12/9/2019 7:45:57 PM:findObject for: //Game/PauseMenu/Text;;true
+12-09-2019 19:45:57 : response received : error:notFound
+12/9/2019 7:45:58 PM:findObject for: //Game/PauseMenu/Text;;true
+12-09-2019 19:45:58 : response received : error:notFound
+12/9/2019 7:45:58 PM:findObject for: //Game/PauseMenu/Text;;true
+12-09-2019 19:45:59 : response received : error:notFound
+12/9/2019 7:45:59 PM:findObject for: //Game/PauseMenu/Text;;true
+12-09-2019 19:45:59 : response received : error:notFound
+12/10/2019 9:56:11 AM:Logging is set to True
+12-10-2019 09:56:11 : response received : Ok
+12/10/2019 9:56:11 AM:LoadScene Main
+12-10-2019 09:56:11 : response received : Ok
+12/10/2019 9:56:11 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-10-2019 09:56:11 : response received : {"name":"CharName","id":252610,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":252806,"parentId":253830,"transformId":252612}
+12/10/2019 9:56:11 AM:findActiveObjectByName for: OpenLeaderboard
+12-10-2019 09:56:11 : response received : {"name":"OpenLeaderboard","id":253610,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":252806,"parentId":252996,"transformId":253612}
+12/10/2019 9:56:11 AM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-10-2019 09:56:11 : response received : {"name":"MissionButton","id":252490,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":252806,"parentId":252996,"transformId":252492}
+12/10/2019 9:56:11 AM:findObject for: //UICamera/Loadout/StartButton;;true
+12-10-2019 09:56:12 : response received : {"name":"StartButton","id":253548,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":252806,"parentId":252996,"transformId":253550}
+12/10/2019 9:56:12 AM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-10-2019 09:56:12 : response received : {"name":"SettingButton","id":253216,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":252806,"parentId":252996,"transformId":253218}
+12/10/2019 9:56:12 AM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-10-2019 09:56:12 : response received : {"name":"StoreButton","id":253136,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":252806,"parentId":252996,"transformId":253138}
+12/10/2019 9:56:12 AM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-10-2019 09:56:12 : response received : {"name":"ThemeZone","id":253904,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":252806,"parentId":252996,"transformId":253906}
+12/10/2019 9:56:12 AM:tapped object by name StartButton12/10/2019 9:56:12 AM:GameOBject: StartButton (UnityEngine.GameObject)
+12-10-2019 09:56:12 : response received : {"name":"StartButton","id":253548,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":252806,"parentId":252996,"transformId":253550}
+12/10/2019 9:56:12 AM:findActiveObjectByName for: PlayerPivot
+12-10-2019 09:56:12 : response received : {"name":"PlayerPivot","id":254206,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":252806,"parentId":0,"transformId":254210}
+12/10/2019 9:56:12 AM:findObject for: //Game/WholeUI/pauseButton;;true
+12-10-2019 09:56:12 : response received : {"name":"pauseButton","id":253000,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":252806,"parentId":253098,"transformId":253002}
+12/10/2019 9:56:12 AM:tapped object by name pauseButton12/10/2019 9:56:12 AM:GameOBject: pauseButton (UnityEngine.GameObject)
+12-10-2019 09:56:12 : response received : {"name":"pauseButton","id":253000,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":false,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":252806,"parentId":253098,"transformId":253002}
+12/10/2019 9:56:12 AM:findObject for: //Game/PauseMenu/Text;;true
+12-10-2019 09:56:12 : response received : {"name":"Text","id":252320,"x":540,"y":1834,"z":0,"mobileY":86,"type":"","enabled":true,"worldX":540.0009,"worldY":1834.5,"worldZ":0.0,"idCamera":252806,"parentId":253834,"transformId":252322}
+12/10/2019 9:56:12 AM:findObject for: //Game/PauseMenu/Exit;;true
+12-10-2019 09:56:12 : response received : {"name":"Exit","id":253478,"x":540,"y":881,"z":0,"mobileY":1039,"type":"","enabled":true,"worldX":540.0,"worldY":881.1,"worldZ":0.0,"idCamera":252806,"parentId":253834,"transformId":253480}
+12/10/2019 9:56:12 AM:findObject for: //Game/PauseMenu/Resume;;true
+12-10-2019 09:56:12 : response received : {"name":"Resume","id":252754,"x":540,"y":960,"z":0,"mobileY":960,"type":"","enabled":true,"worldX":540.0,"worldY":960.0,"worldZ":0.0,"idCamera":252806,"parentId":253834,"transformId":252756}
+12/10/2019 9:56:12 AM:tapped object by name Resume12/10/2019 9:56:12 AM:GameOBject: Resume (UnityEngine.GameObject)
+12-10-2019 09:56:12 : response received : {"name":"Resume","id":252754,"x":540,"y":960,"z":0,"mobileY":960,"type":"","enabled":true,"worldX":540.0,"worldY":960.0,"worldZ":0.0,"idCamera":252806,"parentId":253834,"transformId":252756}
+12/10/2019 9:56:41 AM:Logging is set to True
+12-10-2019 09:56:41 : response received : Ok
+12/10/2019 9:56:41 AM:LoadScene Main
+12-10-2019 09:56:41 : response received : Ok
+12/10/2019 9:56:42 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-10-2019 09:56:42 : response received : {"name":"CharName","id":254620,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":254816,"parentId":255840,"transformId":254622}
+12/10/2019 9:56:42 AM:findActiveObjectByName for: OpenLeaderboard
+12-10-2019 09:56:42 : response received : {"name":"OpenLeaderboard","id":255620,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":254816,"parentId":255006,"transformId":255622}
+12/10/2019 9:56:42 AM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-10-2019 09:56:42 : response received : {"name":"MissionButton","id":254500,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":254816,"parentId":255006,"transformId":254502}
+12/10/2019 9:56:42 AM:findObject for: //UICamera/Loadout/StartButton;;true
+12-10-2019 09:56:42 : response received : {"name":"StartButton","id":255558,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":254816,"parentId":255006,"transformId":255560}
+12/10/2019 9:56:42 AM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-10-2019 09:56:42 : response received : {"name":"SettingButton","id":255226,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":254816,"parentId":255006,"transformId":255228}
+12/10/2019 9:56:42 AM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-10-2019 09:56:42 : response received : {"name":"StoreButton","id":255146,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":254816,"parentId":255006,"transformId":255148}
+12/10/2019 9:56:42 AM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-10-2019 09:56:42 : response received : {"name":"ThemeZone","id":255914,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":254816,"parentId":255006,"transformId":255916}
+12/10/2019 9:56:42 AM:tapped object by name StartButton12/10/2019 9:56:42 AM:GameOBject: StartButton (UnityEngine.GameObject)
+12-10-2019 09:56:42 : response received : {"name":"StartButton","id":255558,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":254816,"parentId":255006,"transformId":255560}
+12/10/2019 9:56:42 AM:findActiveObjectByName for: PlayerPivot
+12-10-2019 09:56:42 : response received : {"name":"PlayerPivot","id":256216,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":254816,"parentId":0,"transformId":256220}
+12/10/2019 9:56:42 AM:findObject for: //Game/WholeUI/pauseButton;;true
+12-10-2019 09:56:42 : response received : {"name":"pauseButton","id":255010,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":254816,"parentId":255108,"transformId":255012}
+12/10/2019 9:56:42 AM:tapped object by name pauseButton12/10/2019 9:56:42 AM:GameOBject: pauseButton (UnityEngine.GameObject)
+12-10-2019 09:56:42 : response received : {"name":"pauseButton","id":255010,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":false,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":254816,"parentId":255108,"transformId":255012}
+12/10/2019 9:56:42 AM:findObject for: //Game/PauseMenu/Text;;true
+12-10-2019 09:56:42 : response received : {"name":"Text","id":254330,"x":540,"y":1834,"z":0,"mobileY":86,"type":"","enabled":true,"worldX":540.0009,"worldY":1834.5,"worldZ":0.0,"idCamera":254816,"parentId":255844,"transformId":254332}
+12/10/2019 9:56:42 AM:findObject for: //Game/PauseMenu/Exit;;true
+12-10-2019 09:56:42 : response received : {"name":"Exit","id":255488,"x":540,"y":881,"z":0,"mobileY":1039,"type":"","enabled":true,"worldX":540.0,"worldY":881.1,"worldZ":0.0,"idCamera":254816,"parentId":255844,"transformId":255490}
+12/10/2019 9:56:42 AM:findObject for: //Game/PauseMenu/Resume;;true
+12-10-2019 09:56:42 : response received : {"name":"Resume","id":254764,"x":540,"y":960,"z":0,"mobileY":960,"type":"","enabled":true,"worldX":540.0,"worldY":960.0,"worldZ":0.0,"idCamera":254816,"parentId":255844,"transformId":254766}
+12/10/2019 9:56:42 AM:tapped object by name Resume12/10/2019 9:56:42 AM:GameOBject: Resume (UnityEngine.GameObject)
+12-10-2019 09:56:42 : response received : {"name":"Resume","id":254764,"x":540,"y":960,"z":0,"mobileY":960,"type":"","enabled":true,"worldX":540.0,"worldY":960.0,"worldZ":0.0,"idCamera":254816,"parentId":255844,"transformId":254766}
+12/10/2019 9:56:58 AM:Logging is set to True
+12-10-2019 09:56:58 : response received : Ok
+12/10/2019 9:56:58 AM:LoadScene Main
+12-10-2019 09:56:58 : response received : Ok
+12/10/2019 9:56:59 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-10-2019 09:56:59 : response received : {"name":"CharName","id":256630,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":256826,"parentId":257850,"transformId":256632}
+12/10/2019 9:56:59 AM:findActiveObjectByName for: OpenLeaderboard
+12-10-2019 09:56:59 : response received : {"name":"OpenLeaderboard","id":257630,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":256826,"parentId":257016,"transformId":257632}
+12/10/2019 9:56:59 AM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-10-2019 09:56:59 : response received : {"name":"MissionButton","id":256510,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":256826,"parentId":257016,"transformId":256512}
+12/10/2019 9:56:59 AM:findObject for: //UICamera/Loadout/StartButton;;true
+12-10-2019 09:56:59 : response received : {"name":"StartButton","id":257568,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":256826,"parentId":257016,"transformId":257570}
+12/10/2019 9:56:59 AM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-10-2019 09:56:59 : response received : {"name":"SettingButton","id":257236,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":256826,"parentId":257016,"transformId":257238}
+12/10/2019 9:56:59 AM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-10-2019 09:56:59 : response received : {"name":"StoreButton","id":257156,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":256826,"parentId":257016,"transformId":257158}
+12/10/2019 9:56:59 AM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-10-2019 09:56:59 : response received : {"name":"ThemeZone","id":257924,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":256826,"parentId":257016,"transformId":257926}
+12/10/2019 9:56:59 AM:tapped object by name StartButton12/10/2019 9:56:59 AM:GameOBject: StartButton (UnityEngine.GameObject)
+12-10-2019 09:56:59 : response received : {"name":"StartButton","id":257568,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":256826,"parentId":257016,"transformId":257570}
+12/10/2019 9:56:59 AM:findObject for: //Game/WholeUI/pauseButton;;true
+12-10-2019 09:56:59 : response received : {"name":"pauseButton","id":257020,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":256826,"parentId":257118,"transformId":257022}
+12/10/2019 9:56:59 AM:findActiveObjectByName for: PlayerPivot
+12-10-2019 09:56:59 : response received : {"name":"PlayerPivot","id":258226,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":256826,"parentId":0,"transformId":258230}
+12/10/2019 9:56:59 AM:LoadScene Main
+12-10-2019 09:56:59 : response received : Ok
+12/10/2019 9:56:59 AM:findObject for: //UICamera/Loadout/CharZone/CharName;;true
+12-10-2019 09:56:59 : response received : {"name":"CharName","id":258640,"x":543,"y":1774,"z":0,"mobileY":146,"type":"","enabled":true,"worldX":543.0,"worldY":1774.5,"worldZ":0.0,"idCamera":258836,"parentId":259860,"transformId":258642}
+12/10/2019 9:57:00 AM:findActiveObjectByName for: OpenLeaderboard
+12-10-2019 09:57:00 : response received : {"name":"OpenLeaderboard","id":259640,"x":165,"y":168,"z":0,"mobileY":1752,"type":"","enabled":true,"worldX":165.0,"worldY":168.449951,"worldZ":0.0,"idCamera":258836,"parentId":259026,"transformId":259642}
+12/10/2019 9:57:00 AM:findObject for: //UICamera/Loadout/MissionButton;;true
+12-10-2019 09:57:00 : response received : {"name":"MissionButton","id":258520,"x":660,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":660.0,"worldY":172.5,"worldZ":0.0,"idCamera":258836,"parentId":259026,"transformId":258522}
+12/10/2019 9:57:00 AM:findObject for: //UICamera/Loadout/StartButton;;true
+12-10-2019 09:57:00 : response received : {"name":"StartButton","id":259578,"x":542,"y":411,"z":0,"mobileY":1509,"type":"","enabled":true,"worldX":541.5,"worldY":411.0,"worldZ":0.0,"idCamera":258836,"parentId":259026,"transformId":259580}
+12/10/2019 9:57:00 AM:findObject for: //UICamera/Loadout/SettingButton;;true
+12-10-2019 09:57:00 : response received : {"name":"SettingButton","id":259246,"x":930,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":930.0,"worldY":172.5,"worldZ":0.0,"idCamera":258836,"parentId":259026,"transformId":259248}
+12/10/2019 9:57:00 AM:findObject for: //UICamera/Loadout/StoreButton;;true
+12-10-2019 09:57:00 : response received : {"name":"StoreButton","id":259166,"x":420,"y":172,"z":0,"mobileY":1748,"type":"","enabled":true,"worldX":420.0,"worldY":172.5,"worldZ":0.0,"idCamera":258836,"parentId":259026,"transformId":259168}
+12/10/2019 9:57:00 AM:findObject for: //UICamera/Loadout/ThemeZone;;true
+12-10-2019 09:57:00 : response received : {"name":"ThemeZone","id":259934,"x":542,"y":686,"z":0,"mobileY":1234,"type":"","enabled":true,"worldX":541.5,"worldY":685.5,"worldZ":0.0,"idCamera":258836,"parentId":259026,"transformId":259936}
+12/10/2019 9:57:00 AM:tapped object by name StartButton12/10/2019 9:57:00 AM:GameOBject: StartButton (UnityEngine.GameObject)
+12-10-2019 09:57:00 : response received : {"name":"StartButton","id":259578,"x":-12938,"y":-5558,"z":-67,"mobileY":7478,"type":"","enabled":true,"worldX":541.0,"worldY":274.0,"worldZ":0.0,"idCamera":258836,"parentId":259026,"transformId":259580}
+12/10/2019 9:57:00 AM:findActiveObjectByName for: PlayerPivot
+12-10-2019 09:57:00 : response received : {"name":"PlayerPivot","id":260236,"x":540,"y":230,"z":6,"mobileY":1690,"type":"","enabled":true,"worldX":0.0,"worldY":0.0,"worldZ":2.0,"idCamera":258836,"parentId":0,"transformId":260240}
+12/10/2019 9:57:00 AM:findObject for: //Game/WholeUI/pauseButton;;true
+12-10-2019 09:57:00 : response received : {"name":"pauseButton","id":259030,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":true,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":258836,"parentId":259128,"transformId":259032}
+12/10/2019 9:57:00 AM:tapped object by name pauseButton12/10/2019 9:57:00 AM:GameOBject: pauseButton (UnityEngine.GameObject)
+12-10-2019 09:57:00 : response received : {"name":"pauseButton","id":259030,"x":15,"y":1905,"z":0,"mobileY":15,"type":"","enabled":false,"worldX":15.0,"worldY":1905.0,"worldZ":0.0,"idCamera":258836,"parentId":259128,"transformId":259032}
+12/10/2019 9:57:00 AM:findObject for: //Game/PauseMenu/Text;;true
+12-10-2019 09:57:00 : response received : {"name":"Text","id":258350,"x":540,"y":1834,"z":0,"mobileY":86,"type":"","enabled":true,"worldX":540.0009,"worldY":1834.5,"worldZ":0.0,"idCamera":258836,"parentId":259864,"transformId":258352}
+12/10/2019 9:57:00 AM:findObject for: //Game/PauseMenu/Exit;;true
+12-10-2019 09:57:00 : response received : {"name":"Exit","id":259508,"x":540,"y":881,"z":0,"mobileY":1039,"type":"","enabled":true,"worldX":540.0,"worldY":881.1,"worldZ":0.0,"idCamera":258836,"parentId":259864,"transformId":259510}
+12/10/2019 9:57:00 AM:findObject for: //Game/PauseMenu/Resume;;true
+12-10-2019 09:57:00 : response received : {"name":"Resume","id":258784,"x":540,"y":960,"z":0,"mobileY":960,"type":"","enabled":true,"worldX":540.0,"worldY":960.0,"worldZ":0.0,"idCamera":258836,"parentId":259864,"transformId":258786}
+12/10/2019 9:57:00 AM:tapped object by name Resume12/10/2019 9:57:00 AM:GameOBject: Resume (UnityEngine.GameObject)
+12-10-2019 09:57:00 : response received : {"name":"Resume","id":258784,"x":540,"y":960,"z":0,"mobileY":960,"type":"","enabled":true,"worldX":540.0,"worldY":960.0,"worldZ":0.0,"idCamera":258836,"parentId":259864,"transformId":258786}

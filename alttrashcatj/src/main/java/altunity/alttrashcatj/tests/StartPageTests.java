@@ -21,7 +21,6 @@ public class StartPageTests {
     @BeforeClass
     public static void setUp() throws IOException {
         driver = new AltUnityDriver("127.0.0.1", 13000,";","&",true);
-
     }
 
     @Before

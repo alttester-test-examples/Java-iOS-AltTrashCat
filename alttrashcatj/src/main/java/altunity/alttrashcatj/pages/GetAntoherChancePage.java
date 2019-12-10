@@ -5,26 +5,32 @@ import ro.altom.altunitytester.AltUnityObject;
 import ro.altom.altunitytester.Commands.FindObject.AltFindObjectsParameters;
 import ro.altom.altunitytester.Commands.FindObject.AltWaitForObjectsParameters;
 
-public class GetAntoherChance extends BasePage{
+public class GetAntoherChancePage extends BasePage{
 
     public AltUnityObject gameOverButton;
     public AltUnityObject premiumButton;
     public AltUnityObject availableCurrency;
 
-    public GetAntoherChance(AltUnityDriver driver) {
+    public GetAntoherChancePage(AltUnityDriver driver) {
         super(driver);
+    }
 
+    public void getGameOver(){
         AltFindObjectsParameters par=new AltFindObjectsParameters.Builder(AltUnityDriver.By.PATH, "//Game/DeathPopup/GameOver").build();
         AltWaitForObjectsParameters params = new AltWaitForObjectsParameters.Builder(par).withTimeout(2).build();
-        this.gameOverButton = driver.waitForObject(params);
+        this.gameOverButton = getDriver().waitForObject(params);
+    }
 
-        par=new AltFindObjectsParameters.Builder(AltUnityDriver.By.PATH, "//Game/DeathPopup/ButtonLayout/Premium Button").build();
-        params = new AltWaitForObjectsParameters.Builder(par).withTimeout(2).build();
-        this.premiumButton = driver.waitForObject(params);
+    public void getPremiumButton(){
+        AltFindObjectsParameters par=new AltFindObjectsParameters.Builder(AltUnityDriver.By.PATH, "//Game/DeathPopup/ButtonLayout/Premium Button").build();
+        AltWaitForObjectsParameters params = new AltWaitForObjectsParameters.Builder(par).withTimeout(2).build();
+        this.premiumButton = getDriver().waitForObject(params);
+    }
 
-        par=new AltFindObjectsParameters.Builder(AltUnityDriver.By.PATH, "//Game/DeathPopup/PremiumDisplay/PremiumOwnCount").build();
-        params = new AltWaitForObjectsParameters.Builder(par).withTimeout(2).build();
-        this.availableCurrency = driver.waitForObject(params);
+    public void getAvailableCurrency(){
+        AltFindObjectsParameters par=new AltFindObjectsParameters.Builder(AltUnityDriver.By.PATH, "//Game/DeathPopup/PremiumDisplay/PremiumOwnCount").build();
+        AltWaitForObjectsParameters params = new AltWaitForObjectsParameters.Builder(par).withTimeout(2).build();
+        this.availableCurrency = getDriver().waitForObject(params);
     }
 
     public boolean isDisplayed(){

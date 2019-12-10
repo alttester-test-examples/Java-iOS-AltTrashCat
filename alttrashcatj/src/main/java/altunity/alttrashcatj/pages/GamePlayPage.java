@@ -10,21 +10,26 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class GamePlay extends BasePage {
+public class GamePlayPage extends BasePage {
 
     public AltUnityObject pauseButton;
     public AltUnityObject character;
 
-    public GamePlay(AltUnityDriver driver) {
+    public GamePlayPage(AltUnityDriver driver) {
         super(driver);
 
+    }
+
+    public void setPauseButton(){
         AltFindObjectsParameters par=new AltFindObjectsParameters.Builder(AltUnityDriver.By.PATH, "//Game/WholeUI/pauseButton").build();
         AltWaitForObjectsParameters params = new AltWaitForObjectsParameters.Builder(par).withTimeout(2).build();
-        this.pauseButton = driver.waitForObject(params);
+        pauseButton = getDriver().waitForObject(params);
+    }
 
-        par = new AltFindObjectsParameters.Builder(AltUnityDriver.By.NAME, "PlayerPivot").build();
-        params = new AltWaitForObjectsParameters.Builder(par).build();
-        this.character = driver.waitForObject(params);
+    public void setCharacter(){
+        AltFindObjectsParameters par = new AltFindObjectsParameters.Builder(AltUnityDriver.By.NAME, "PlayerPivot").build();
+        AltWaitForObjectsParameters params = new AltWaitForObjectsParameters.Builder(par).build();
+        this.character = getDriver().waitForObject(params);
     }
 
     public boolean isDisplayed(){
