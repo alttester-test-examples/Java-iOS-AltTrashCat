@@ -54,8 +54,8 @@ public class GamePlayPage extends BasePage {
 
         for(int i=0; i< nrOfObstacles; i++){
 
-            AltFindObjectsParameters params = new AltFindObjectsParameters.Builder(AltUnityDriver.By.NAME, "[contains(@name, Obstacle)]").build();
-            List<AltUnityObject> allObstacles = Arrays.asList(getDriver().findObjects(params));
+            AltFindObjectsParameters params = new AltFindObjectsParameters.Builder(AltUnityDriver.By.NAME, "Obstacle").build();
+            List<AltUnityObject> allObstacles = new ArrayList<>(Arrays.asList(getDriver().findObjectsWhichContains(params)));
             allObstacles.sort((x,y) -> {
                 String xs = String.valueOf(x.worldZ);
                 String ys = String.valueOf(y.worldZ);
@@ -68,6 +68,7 @@ public class GamePlayPage extends BasePage {
                     tobeRemoved.add(obs);
             }
             allObstacles.removeAll(tobeRemoved);
+
 
             AltUnityObject obstacle = allObstacles.get(0);
             System.out.println(("Obstacle: "+ obstacle.name+", z:"+obstacle.worldZ+", x:"+obstacle.worldX));
@@ -111,7 +112,7 @@ public class GamePlayPage extends BasePage {
             }
 
             while(character1.worldZ - 3 < obstacle.worldZ && character1.worldX < 99){
-                params = new AltFindObjectsParameters.Builder(AltUnityDriver.By.ID, "id("+obstacle.id+")").build();
+                params = new AltFindObjectsParameters.Builder(AltUnityDriver.By.ID, ""+obstacle.id).build();
                 obstacle = getDriver().findObject(params);
                 params = new AltFindObjectsParameters.Builder(AltUnityDriver.By.NAME, "PlayerPivot").build();
                 character1 = getDriver().findObject(params);

@@ -62,15 +62,57 @@ public class GamePlayTests {
         gamePlayPage.setCharacter();
         gamePlayPage.setPauseButton();
         gamePlayPage.pressPause();
-
-
         pauseOverlayPage.getTitle();
         pauseOverlayPage.getMainMenuButton();
         pauseOverlayPage.getResumeButton();
-
         assertTrue(pauseOverlayPage.isDisplayed());
-
         pauseOverlayPage.pressResume();
         assertTrue(gamePlayPage.isDisplayed());
+    }
+
+    @Test
+    public void testGameCanBePausedAndStopped(){
+        mainMenuPage.pressRun();
+        gamePlayPage.setCharacter();
+        gamePlayPage.setPauseButton();
+        gamePlayPage.pressPause();
+        pauseOverlayPage.getTitle();
+        pauseOverlayPage.getMainMenuButton();
+        pauseOverlayPage.getResumeButton();
+        pauseOverlayPage.pressMainMenu();
+        assertTrue(mainMenuPage.isDisplayed());
+    }
+
+    @Test
+    public void testAviodingObstacles() throws Exception {
+        mainMenuPage.pressRun();
+        gamePlayPage.setCharacter();
+        gamePlayPage.setPauseButton();
+        gamePlayPage.avoidObstacles(10);
+        assertTrue(gamePlayPage.getCurrentLife()>0);
+    }
+
+    @Test
+    public void testPlayerDiesWhenObstacleNotAvoided() throws Exception {
+
+        mainMenuPage.pressRun();
+        gamePlayPage.setCharacter();
+        gamePlayPage.setPauseButton();
+
+        float timeout = 20;
+        while(timeout>0){
+            try {
+                getAntoherChancePage.getGameOver();
+                getAntoherChancePage.getAvailableCurrency();
+                getAntoherChancePage.getPremiumButton();
+                getAntoherChancePage.isDisplayed();
+                break;
+            }catch(Exception e){
+                timeout -= 1;
+            }
+        }
+
+        assertTrue(getAntoherChancePage.isDisplayed());
+
     }
 }
