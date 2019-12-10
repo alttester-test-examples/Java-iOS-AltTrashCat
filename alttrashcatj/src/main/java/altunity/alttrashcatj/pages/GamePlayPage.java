@@ -90,7 +90,7 @@ public class GamePlayPage extends BasePage {
             else {
                 if (obstacle.worldZ == allObstacles.get(1).worldZ) {
                     if (obstacle.worldX == character1.worldX) {
-                        if (allObstacles.get(1).worldX == -1.5f) {
+                        if (allObstacles.get(1).worldX == -1.5) {
                             getDriver().pressKey("RightArrow", 1, 0);
                             movedRight = true;
                         } else {
@@ -99,7 +99,7 @@ public class GamePlayPage extends BasePage {
                         }
                     } else {
                         if (allObstacles.get(1).worldX == character1.worldX) {
-                            if (obstacle.worldX == -1.5f) {
+                            if (obstacle.worldX == -1.5) {
                                 getDriver().pressKey("RightArrow", 1, 0);
                                 movedRight = true;
                             } else {
@@ -107,6 +107,12 @@ public class GamePlayPage extends BasePage {
                                 movedRight = true;
                             }
                         }
+                    }
+                }
+                else{
+                    if(obstacle.worldX == character1.worldX){
+                        getDriver().pressKey("RightArrow", 1,0);
+                        movedRight = true;
                     }
                 }
             }

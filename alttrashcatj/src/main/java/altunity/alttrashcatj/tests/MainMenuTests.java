@@ -42,6 +42,7 @@ public class MainMenuTests {
 
     @Test
     public void TestMainPageLoadedCorrectly(){
+
         assertTrue(mainMenuPage.isDisplayed());
     }
 
