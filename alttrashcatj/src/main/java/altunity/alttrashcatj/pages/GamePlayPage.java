@@ -4,7 +4,6 @@ import ro.altom.altunitytester.AltUnityDriver;
 import ro.altom.altunitytester.AltUnityObject;
 import ro.altom.altunitytester.Commands.FindObject.AltFindObjectsParameters;
 import ro.altom.altunitytester.Commands.FindObject.AltWaitForObjectsParameters;
-import ro.altom.altunitytester.Commands.OldFindObject.AltWaitForElementParameters;
 
 import java.util.ArrayList;
 import java.util.Arrays;

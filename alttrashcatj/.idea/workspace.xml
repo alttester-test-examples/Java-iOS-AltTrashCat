@@ -5,6 +5,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AltUnityTesterLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AltUnityTesterLog.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/pages/GamePlayPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/pages/GamePlayPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/tests/Disposable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/altunity/alttrashcatj/pages/GamePlayPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/altunity/alttrashcatj/pages/GamePlayPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/altunity/alttrashcatj/tests/Disposable.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +44,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="JUnit.GamePlayTests.testAviodingObstacles">
+  <component name="RunManager" selected="JUnit.StartPageTests">
     <configuration name="GamePlayTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="alttrashcatj" />
       <extension name="coverage">
@@ -105,7 +108,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainMenuTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StartPageTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="alttrashcatj" />
       <extension name="coverage">
         <pattern>
@@ -114,7 +117,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="altunity.alttrashcatj.tests" />
-      <option name="MAIN_CLASS_NAME" value="altunity.alttrashcatj.tests.MainMenuTests" />
+      <option name="MAIN_CLASS_NAME" value="altunity.alttrashcatj.tests.StartPageTests" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -122,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StartPageTests" />
         <item itemvalue="JUnit.GamePlayTests.testAviodingObstacles" />
         <item itemvalue="JUnit.GamePlayTests.testPlayerDiesWhenObstacleNotAvoided" />
         <item itemvalue="JUnit.GamePlayTests" />
         <item itemvalue="JUnit.GamePlayTests.testGameCanBePausedAndResumed" />
-        <item itemvalue="JUnit.MainMenuTests" />
       </list>
     </recent_temporary>
   </component>
@@ -172,26 +175,26 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state width="434" height="466" key="DebuggerActiveHint/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1575983929333" />
-    <state width="1237" height="297" key="GridCell.Tab.0.bottom" timestamp="1575984308643">
+    <state width="1237" height="253" key="GridCell.Tab.0.bottom" timestamp="1575984570349">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state width="1877" height="335" key="GridCell.Tab.0.bottom/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1575979950193" />
-    <state width="1237" height="297" key="GridCell.Tab.0.bottom/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1575984308643" />
-    <state width="1237" height="297" key="GridCell.Tab.0.center" timestamp="1575984308637">
+    <state width="1237" height="253" key="GridCell.Tab.0.bottom/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1575984570349" />
+    <state width="1237" height="253" key="GridCell.Tab.0.center" timestamp="1575984570349">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state width="1877" height="335" key="GridCell.Tab.0.center/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1575979950193" />
-    <state width="1237" height="297" key="GridCell.Tab.0.center/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1575984308637" />
-    <state width="1237" height="297" key="GridCell.Tab.0.left" timestamp="1575984308629">
+    <state width="1237" height="253" key="GridCell.Tab.0.center/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1575984570349" />
+    <state width="1237" height="253" key="GridCell.Tab.0.left" timestamp="1575984570349">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state width="1877" height="335" key="GridCell.Tab.0.left/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1575979950193" />
-    <state width="1237" height="297" key="GridCell.Tab.0.left/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1575984308629" />
-    <state width="1237" height="297" key="GridCell.Tab.0.right" timestamp="1575984308641">
+    <state width="1237" height="253" key="GridCell.Tab.0.left/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1575984570349" />
+    <state width="1237" height="253" key="GridCell.Tab.0.right" timestamp="1575984570349">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state width="1877" height="335" key="GridCell.Tab.0.right/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1575979950193" />
-    <state width="1237" height="297" key="GridCell.Tab.0.right/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1575984308641" />
+    <state width="1237" height="253" key="GridCell.Tab.0.right/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1575984570349" />
     <state width="1237" height="153" key="GridCell.Tab.1.bottom" timestamp="1575984160861">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
