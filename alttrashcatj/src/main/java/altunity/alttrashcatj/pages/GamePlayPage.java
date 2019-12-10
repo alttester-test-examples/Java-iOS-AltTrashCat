@@ -51,59 +51,60 @@ public class GamePlayPage extends BasePage {
         AltUnityObject character1 = character;
         boolean movedLeft = false;
         boolean movedRight = false;
-
         for(int i=0; i< nrOfObstacles; i++){
 
             AltFindObjectsParameters params = new AltFindObjectsParameters.Builder(AltUnityDriver.By.NAME, "Obstacle").build();
             List<AltUnityObject> allObstacles = new ArrayList<>(Arrays.asList(getDriver().findObjectsWhichContains(params)));
             allObstacles.sort((x,y) -> {
-                String xs = String.valueOf(x.worldZ);
-                String ys = String.valueOf(y.worldZ);
-                return xs.compareTo(ys);
+                if(x.worldZ==y.worldY)
+                    return 0;
+                if (x.worldZ>y.worldZ){
+                    return 1;
+                }
+                return -1;
             });
 
-            List<AltUnityObject> tobeRemoved = new ArrayList<>();
+            List<AltUnityObject> toBeRemoved = new ArrayList<>();
             for(AltUnityObject obs: allObstacles){
                 if(obs.worldZ < character1.worldZ)
-                    tobeRemoved.add(obs);
+                    toBeRemoved.add(obs);
             }
-            allObstacles.removeAll(tobeRemoved);
-
+            allObstacles.removeAll(toBeRemoved);
 
             AltUnityObject obstacle = allObstacles.get(0);
             System.out.println(("Obstacle: "+ obstacle.name+", z:"+obstacle.worldZ+", x:"+obstacle.worldX));
             System.out.println("Next: "+ allObstacles.get(1).name+", z:"+allObstacles.get(1).worldZ+", x:"+allObstacles.get(1).worldX);
 
-            while(obstacle.worldZ - character1.worldZ < 5) {
-                params = new AltFindObjectsParameters.Builder(AltUnityDriver.By.ID, "id(" + obstacle.id + ")").build();
+            while(obstacle.worldZ - character1.worldZ > 5) {
+                params = new AltFindObjectsParameters.Builder(AltUnityDriver.By.ID, ""+ obstacle.id).build();
                 obstacle = getDriver().findObject(params);
                 params = new AltFindObjectsParameters.Builder(AltUnityDriver.By.NAME, "PlayerPivot").build();
                 character1 = getDriver().findObject(params);
             }
 
             if(obstacle.name.contains("ObstacleHighBarrier")){
-                getDriver().pressKey("down",1,0);
+                getDriver().pressKey("DownArrow",1,0);
             }
             else if (obstacle.name.contains("ObstacleLowBarrier") || obstacle.name.contains("Rat")){
-                getDriver().pressKey("up",1,0);
+                getDriver().pressKey("UpArrow",1,0);
             }
             else {
                 if (obstacle.worldZ == allObstacles.get(1).worldZ) {
                     if (obstacle.worldX == character1.worldX) {
                         if (allObstacles.get(1).worldX == -1.5f) {
-                            getDriver().pressKey("right", 1, 0);
+                            getDriver().pressKey("RightArrow", 1, 0);
                             movedRight = true;
                         } else {
-                            getDriver().pressKey("left", 1, 0);
+                            getDriver().pressKey("LeftArrow", 1, 0);
                             movedLeft = true;
                         }
                     } else {
                         if (allObstacles.get(1).worldX == character1.worldX) {
                             if (obstacle.worldX == -1.5f) {
-                                getDriver().pressKey("right", 1, 0);
+                                getDriver().pressKey("RightArrow", 1, 0);
                                 movedRight = true;
                             } else {
-                                getDriver().pressKey("left", 1, 0);
+                                getDriver().pressKey("LeftArrow", 1, 0);
                                 movedRight = true;
                             }
                         }
@@ -119,12 +120,12 @@ public class GamePlayPage extends BasePage {
             }
 
             if(movedRight){
-                getDriver().pressKey("left", 1, 0);
+                getDriver().pressKey("LeftArrow", 1, 0);
                 movedRight = false;
             }
 
             if(movedLeft){
-                getDriver().pressKey("right", 1, 0);
+                getDriver().pressKey("RightArrow", 1, 0);
                 movedLeft = false;
             }
         }
