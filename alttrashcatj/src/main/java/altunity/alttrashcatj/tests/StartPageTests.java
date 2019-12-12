@@ -48,6 +48,10 @@ public class StartPageTests {
     @Test
     public void testStartButtonLoadMainMenu(){
 
+        startPage.getUnityURLButton();
+        startPage.getLogoImage();
+        startPage.getStartText();
+        startPage.getStartButton();
         startPage.pressStart();
 
         mainMenuPage.setCharacterName();
