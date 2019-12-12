@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef29af3a-f99e-4a77-9341-33f0c1ac4e77" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AltUnityTesterLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AltUnityTesterLog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/tests/StartPageTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/tests/StartPageTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/altunity/alttrashcatj/App.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UYehdaWufKTjTI5Uvcw3fwFD8X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="JUnit.StartPageTests">
+    <configuration name="GamePlayTests.testAvoidingObstacles" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="alttrashcatj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="altunity.alttrashcatj.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="altunity.alttrashcatj.tests" />
+      <option name="MAIN_CLASS_NAME" value="altunity.alttrashcatj.tests.GamePlayTests" />
+      <option name="METHOD_NAME" value="testAvoidingObstacles" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GamePlayTests.testGameCanBePausedAndStopped" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="alttrashcatj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="altunity.alttrashcatj.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="altunity.alttrashcatj.tests" />
+      <option name="MAIN_CLASS_NAME" value="altunity.alttrashcatj.tests.GamePlayTests" />
+      <option name="METHOD_NAME" value="testGameCanBePausedAndStopped" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GamePlayTests.testGamePlayDisplayedCorrectly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="alttrashcatj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="altunity.alttrashcatj.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="altunity.alttrashcatj.tests" />
+      <option name="MAIN_CLASS_NAME" value="altunity.alttrashcatj.tests.GamePlayTests" />
+      <option name="METHOD_NAME" value="testGamePlayDisplayedCorrectly" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartPageTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="alttrashcatj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="altunity.alttrashcatj.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="altunity.alttrashcatj.tests" />
+      <option name="MAIN_CLASS_NAME" value="altunity.alttrashcatj.tests.StartPageTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartPageTests.testStartButtonLoadMainMenu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="alttrashcatj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="altunity.alttrashcatj.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="altunity.alttrashcatj.tests" />
+      <option name="MAIN_CLASS_NAME" value="altunity.alttrashcatj.tests.StartPageTests" />
+      <option name="METHOD_NAME" value="testStartButtonLoadMainMenu" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StartPageTests" />
+        <item itemvalue="JUnit.StartPageTests.testStartButtonLoadMainMenu" />
+        <item itemvalue="JUnit.GamePlayTests.testGameCanBePausedAndStopped" />
+        <item itemvalue="JUnit.GamePlayTests.testAvoidingObstacles" />
+        <item itemvalue="JUnit.GamePlayTests.testGamePlayDisplayedCorrectly" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef29af3a-f99e-4a77-9341-33f0c1ac4e77" name="Default Changelist" comment="" />
+      <created>1575538075452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575538075452</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1575635972575">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1575635972575" />
+    <state x="438" y="204" width="404" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1575901899263">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="438" y="204" width="404" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1575901899263" />
+    <state x="373" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1575903109883">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="373" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1575903109883" />
+    <state width="434" height="466" key="DebuggerActiveHint" timestamp="1575983929333">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="434" height="466" key="DebuggerActiveHint/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1575983929333" />
+    <state width="1237" height="274" key="GridCell.Tab.0.bottom" timestamp="1576146038295">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1877" height="335" key="GridCell.Tab.0.bottom/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1575979950193" />
+    <state width="1237" height="274" key="GridCell.Tab.0.bottom/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1576146038295" />
+    <state width="1237" height="274" key="GridCell.Tab.0.center" timestamp="1576146038293">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1877" height="335" key="GridCell.Tab.0.center/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1575979950193" />
+    <state width="1237" height="274" key="GridCell.Tab.0.center/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1576146038293" />
+    <state width="1237" height="274" key="GridCell.Tab.0.left" timestamp="1576146038293">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1877" height="335" key="GridCell.Tab.0.left/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1575979950193" />
+    <state width="1237" height="274" key="GridCell.Tab.0.left/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1576146038293" />
+    <state width="1237" height="274" key="GridCell.Tab.0.right" timestamp="1576146038294">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1877" height="335" key="GridCell.Tab.0.right/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1575979950193" />
+    <state width="1237" height="274" key="GridCell.Tab.0.right/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1576146038294" />
+    <state width="1237" height="153" key="GridCell.Tab.1.bottom" timestamp="1575984160861">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1877" height="335" key="GridCell.Tab.1.bottom/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1575979953925" />
+    <state width="1237" height="153" key="GridCell.Tab.1.bottom/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1575984160861" />
+    <state width="1237" height="153" key="GridCell.Tab.1.center" timestamp="1575984160861">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1877" height="335" key="GridCell.Tab.1.center/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1575979953925" />
+    <state width="1237" height="153" key="GridCell.Tab.1.center/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1575984160861" />
+    <state width="1237" height="153" key="GridCell.Tab.1.left" timestamp="1575984160861">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1877" height="335" key="GridCell.Tab.1.left/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1575979953924" />
+    <state width="1237" height="153" key="GridCell.Tab.1.left/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1575984160861" />
+    <state width="1237" height="153" key="GridCell.Tab.1.right" timestamp="1575984160861">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1877" height="335" key="GridCell.Tab.1.right/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1575979953925" />
+    <state width="1237" height="153" key="GridCell.Tab.1.right/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1575984160861" />
+    <state x="0" y="0" width="609" height="689" key="find.popup" timestamp="1575538314594">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="0" y="0" width="609" height="689" key="find.popup/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1575538314594" />
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1575538472989">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1575538472989" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="allObstacles.get(0)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
