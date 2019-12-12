@@ -51,16 +51,16 @@ public class GamePlayTests {
     @Test
     public void testGamePlayDisplayedCorrectly(){
         mainMenuPage.pressRun();
-        gamePlayPage.setPauseButton();
-        gamePlayPage.setCharacter();
+        gamePlayPage.getPauseButton();
+        gamePlayPage.getCharacter();
         assertTrue(gamePlayPage.isDisplayed());
     }
 
     @Test
     public void testGameCanBePausedAndResumed(){
         mainMenuPage.pressRun();
-        gamePlayPage.setCharacter();
-        gamePlayPage.setPauseButton();
+        gamePlayPage.getCharacter();
+        gamePlayPage.getPauseButton();
         gamePlayPage.pressPause();
         pauseOverlayPage.getTitle();
         pauseOverlayPage.getMainMenuButton();
@@ -73,8 +73,8 @@ public class GamePlayTests {
     @Test
     public void testGameCanBePausedAndStopped(){
         mainMenuPage.pressRun();
-        gamePlayPage.setCharacter();
-        gamePlayPage.setPauseButton();
+        gamePlayPage.getCharacter();
+        gamePlayPage.getPauseButton();
         gamePlayPage.pressPause();
         pauseOverlayPage.getTitle();
         pauseOverlayPage.getMainMenuButton();
@@ -84,20 +84,20 @@ public class GamePlayTests {
     }
 
     @Test
-    public void testAviodingObstacles() throws Exception {
+    public void testAvoidingObstacles() throws Exception {
         mainMenuPage.pressRun();
-        gamePlayPage.setCharacter();
-        gamePlayPage.setPauseButton();
+        gamePlayPage.getCharacter();
+        gamePlayPage.getPauseButton();
         gamePlayPage.avoidObstacles(10);
         assertTrue(gamePlayPage.getCurrentLife()>0);
     }
 
     @Test
-    public void testPlayerDiesWhenObstacleNotAvoided() throws Exception {
+    public void testPlayerDiesWhenObstacleNotAvoided() {
 
         mainMenuPage.pressRun();
-        gamePlayPage.setCharacter();
-        gamePlayPage.setPauseButton();
+        gamePlayPage.getCharacter();
+        gamePlayPage.getPauseButton();
 
         float timeout = 20;
         while(timeout>0){

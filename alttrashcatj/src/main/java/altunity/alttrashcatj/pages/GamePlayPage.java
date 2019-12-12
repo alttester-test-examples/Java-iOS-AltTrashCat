@@ -19,13 +19,13 @@ public class GamePlayPage extends BasePage {
 
     }
 
-    public void setPauseButton(){
+    public void getPauseButton(){
         AltFindObjectsParameters par=new AltFindObjectsParameters.Builder(AltUnityDriver.By.PATH, "//Game/WholeUI/pauseButton").build();
         AltWaitForObjectsParameters params = new AltWaitForObjectsParameters.Builder(par).withTimeout(2).build();
         pauseButton = getDriver().waitForObject(params);
     }
 
-    public void setCharacter(){
+    public void getCharacter(){
         AltFindObjectsParameters par = new AltFindObjectsParameters.Builder(AltUnityDriver.By.NAME, "PlayerPivot").build();
         AltWaitForObjectsParameters params = new AltWaitForObjectsParameters.Builder(par).build();
         this.character = getDriver().waitForObject(params);
@@ -46,7 +46,7 @@ public class GamePlayPage extends BasePage {
         return Integer.parseInt(character.callComponentMethod("CharacterInputController", "get_currentLife",""));
     }
 
-    public void avoidObstacles(int nrOfObstacles){
+    public void avoidObstacles(int nrOfObstacles) throws Exception {
         AltUnityObject character1 = character;
         boolean movedLeft = false;
         boolean movedRight = false;
@@ -82,36 +82,36 @@ public class GamePlayPage extends BasePage {
             }
 
             if(obstacle.name.contains("ObstacleHighBarrier")){
-                getDriver().pressKey("DownArrow",1,0);
+                getDriver().pressKey("DownArrow",0,0);
             }
             else if (obstacle.name.contains("ObstacleLowBarrier") || obstacle.name.contains("Rat")){
-                getDriver().pressKey("UpArrow",1,0);
+                getDriver().pressKey("UpArrow",0,0);
             }
             else {
                 if (obstacle.worldZ == allObstacles.get(1).worldZ) {
                     if (obstacle.worldX == character1.worldX) {
-                        if (allObstacles.get(1).worldX == -1.5) {
-                            getDriver().pressKey("RightArrow", 1, 0);
+                        if (allObstacles.get(1).worldX == -1.5f) {
+                            character1.callComponentMethod("CharacterInputController","ChangeLane", "1");
                             movedRight = true;
                         } else {
-                            getDriver().pressKey("LeftArrow", 1, 0);
+                            character1.callComponentMethod("CharacterInputController","ChangeLane", "-1");
                             movedLeft = true;
                         }
                     } else {
                         if (allObstacles.get(1).worldX == character1.worldX) {
-                            if (obstacle.worldX == -1.5) {
-                                getDriver().pressKey("RightArrow", 1, 0);
+                            if (obstacle.worldX == -1.5f) {
+                                character1.callComponentMethod("CharacterInputController","ChangeLane", "1");
                                 movedRight = true;
                             } else {
-                                getDriver().pressKey("LeftArrow", 1, 0);
-                                movedRight = true;
+                                character1.callComponentMethod("CharacterInputController","ChangeLane", "-1");
+                                movedLeft = true;
                             }
                         }
                     }
                 }
                 else{
                     if(obstacle.worldX == character1.worldX){
-                        getDriver().pressKey("RightArrow", 1,0);
+                        character1.callComponentMethod("CharacterInputController","ChangeLane", "1");
                         movedRight = true;
                     }
                 }
@@ -125,12 +125,12 @@ public class GamePlayPage extends BasePage {
             }
 
             if(movedRight){
-                getDriver().pressKey("LeftArrow", 1, 0);
+                character1.callComponentMethod("CharacterInputController","ChangeLane", "-1");
                 movedRight = false;
             }
 
             if(movedLeft){
-                getDriver().pressKey("RightArrow", 1, 0);
+                character1.callComponentMethod("CharacterInputController","ChangeLane", "1");
                 movedLeft = false;
             }
         }

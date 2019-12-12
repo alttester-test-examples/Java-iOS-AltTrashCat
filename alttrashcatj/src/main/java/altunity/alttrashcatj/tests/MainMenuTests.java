@@ -1,6 +1,7 @@
 package altunity.alttrashcatj.tests;
 
 import altunity.alttrashcatj.pages.MainMenuPage;
+import altunity.alttrashcatj.pages.StartPage;
 import org.junit.*;
 import ro.altom.altunitytester.AltUnityDriver;
 
@@ -11,25 +12,17 @@ import static org.junit.Assert.assertTrue;
 public class MainMenuTests {
 
     private static AltUnityDriver driver;
+    private static StartPage startPage;
     private static MainMenuPage mainMenuPage;
 
     @BeforeClass
     public static void setUp() throws IOException {
-        driver = new AltUnityDriver("127.0.0.1", 13000);
-        mainMenuPage = new MainMenuPage(driver);
-
-        mainMenuPage.setCharacterName();
-        mainMenuPage.setLeaderBoardButton();
-        mainMenuPage.setMissionButton();
-        mainMenuPage.setRunButton();
-        mainMenuPage.setSettingsButton();
-        mainMenuPage.setStoreButton();
-        mainMenuPage.setThemeName();
+        driver = new AltUnityDriver("127.0.0.1", 13000,";","&",true);
     }
 
     @Before
-    public void loadLevel() throws Exception {
-
+    public void loadLevel(){
+        mainMenuPage = new MainMenuPage(driver);
         mainMenuPage.loadScene();
     }
 
@@ -43,6 +36,13 @@ public class MainMenuTests {
     @Test
     public void TestMainPageLoadedCorrectly(){
 
+        mainMenuPage.setCharacterName();
+        mainMenuPage.setLeaderBoardButton();
+        mainMenuPage.setMissionButton();
+        mainMenuPage.setRunButton();
+        mainMenuPage.setSettingsButton();
+        mainMenuPage.setStoreButton();
+        mainMenuPage.setThemeName();
         assertTrue(mainMenuPage.isDisplayed());
     }
 

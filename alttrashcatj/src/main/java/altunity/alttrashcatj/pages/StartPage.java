@@ -14,22 +14,6 @@ public class StartPage extends BasePage{
 
     public StartPage(AltUnityDriver driver) {
         super(driver);
-
-        AltFindObjectsParameters par=new AltFindObjectsParameters.Builder(AltUnityDriver.By.NAME, "StartButton").build();
-        AltWaitForObjectsParameters params = new AltWaitForObjectsParameters.Builder(par).withTimeout(2).build();
-        this.startButton = driver.waitForObject(params);
-
-        par=new AltFindObjectsParameters.Builder(AltUnityDriver.By.NAME, "StartText").build();
-        params = new AltWaitForObjectsParameters.Builder(par).withTimeout(2).build();
-        this.startText = driver.waitForObject(params);
-
-        par=new AltFindObjectsParameters.Builder(AltUnityDriver.By.NAME, "LogoImage").build();
-        params = new AltWaitForObjectsParameters.Builder(par).withTimeout(2).build();
-        this.logoImage = driver.waitForObject(params);
-
-        par=new AltFindObjectsParameters.Builder(AltUnityDriver.By.NAME, "UnityURLButton").build();
-        params = new AltWaitForObjectsParameters.Builder(par).withTimeout(2).build();
-        this.unityUrlButton = driver.waitForObject(params);
     }
 
     public boolean isDisplayed(){
@@ -49,5 +33,29 @@ public class StartPage extends BasePage{
 
     public String getStartingButtonText(){
         return startButton.getText();
+    }
+
+    public void getStartButton(){
+        AltFindObjectsParameters par=new AltFindObjectsParameters.Builder(AltUnityDriver.By.NAME, "StartButton").build();
+        AltWaitForObjectsParameters params = new AltWaitForObjectsParameters.Builder(par).withTimeout(2).build();
+        this.startButton = getDriver().waitForObject(params);
+    }
+
+    public void getStartText(){
+        AltFindObjectsParameters par=new AltFindObjectsParameters.Builder(AltUnityDriver.By.NAME, "StartText").build();
+        AltWaitForObjectsParameters params = new AltWaitForObjectsParameters.Builder(par).withTimeout(2).build();
+        this.startText = getDriver().waitForObject(params);
+    }
+
+    public void getLogoImage(){
+        AltFindObjectsParameters par=new AltFindObjectsParameters.Builder(AltUnityDriver.By.NAME, "LogoImage").build();
+        AltWaitForObjectsParameters params = new AltWaitForObjectsParameters.Builder(par).withTimeout(2).build();
+        this.logoImage = getDriver().waitForObject(params);
+    }
+
+    public void getUnityURLButton(){
+        AltFindObjectsParameters par=new AltFindObjectsParameters.Builder(AltUnityDriver.By.NAME, "UnityURLButton").build();
+        AltWaitForObjectsParameters params = new AltWaitForObjectsParameters.Builder(par).withTimeout(2).build();
+        this.unityUrlButton = getDriver().waitForObject(params);
     }
 }

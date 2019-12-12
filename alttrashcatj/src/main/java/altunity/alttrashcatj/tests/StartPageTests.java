@@ -38,6 +38,10 @@ public class StartPageTests {
 
     @Test
     public void testStartPageLoadedCorrectly(){
+        startPage.getUnityURLButton();
+        startPage.getLogoImage();
+        startPage.getStartText();
+        startPage.getStartButton();
         assertTrue(startPage.isDisplayed());
     }
 
