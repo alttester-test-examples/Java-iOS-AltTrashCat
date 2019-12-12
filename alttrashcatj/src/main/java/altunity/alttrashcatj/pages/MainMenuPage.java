@@ -75,4 +75,6 @@ public class MainMenuPage extends BasePage{
     public void pressRun(){
         runButton.tap();
     }
+
+    public void pressStore(){ storeButton.tap();}
 }

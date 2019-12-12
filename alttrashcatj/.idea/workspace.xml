@@ -4,9 +4,7 @@
     <list default="true" id="ef29af3a-f99e-4a77-9341-33f0c1ac4e77" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AltUnityTesterLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AltUnityTesterLog.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/tests/StartPageTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/tests/StartPageTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/altunity/alttrashcatj/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/pages/MainMenuPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/pages/MainMenuPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -43,7 +41,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="JUnit.StartPageTests">
+  <component name="RunManager" selected="JUnit.ShopTests.ShopPageLoadedCorrectly">
     <configuration name="GamePlayTests.testAvoidingObstacles" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="alttrashcatj" />
       <extension name="coverage">
@@ -76,7 +74,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GamePlayTests.testGamePlayDisplayedCorrectly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ShopTests.ShopPageLoadedCorrectly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="alttrashcatj" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +83,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="altunity.alttrashcatj.tests" />
-      <option name="MAIN_CLASS_NAME" value="altunity.alttrashcatj.tests.GamePlayTests" />
-      <option name="METHOD_NAME" value="testGamePlayDisplayedCorrectly" />
+      <option name="MAIN_CLASS_NAME" value="altunity.alttrashcatj.tests.ShopTests" />
+      <option name="METHOD_NAME" value="ShopPageLoadedCorrectly" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -125,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ShopTests.ShopPageLoadedCorrectly" />
         <item itemvalue="JUnit.StartPageTests" />
         <item itemvalue="JUnit.StartPageTests.testStartButtonLoadMainMenu" />
         <item itemvalue="JUnit.GamePlayTests.testGameCanBePausedAndStopped" />
         <item itemvalue="JUnit.GamePlayTests.testAvoidingObstacles" />
-        <item itemvalue="JUnit.GamePlayTests.testGamePlayDisplayedCorrectly" />
       </list>
     </recent_temporary>
   </component>
@@ -159,10 +157,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1575635972575">
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1576151056635">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1575635972575" />
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1576151056635" />
     <state x="438" y="204" width="404" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1575901899263">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
@@ -175,26 +173,26 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state width="434" height="466" key="DebuggerActiveHint/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1575983929333" />
-    <state width="1237" height="274" key="GridCell.Tab.0.bottom" timestamp="1576146038295">
+    <state width="1237" height="222" key="GridCell.Tab.0.bottom" timestamp="1576154001976">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state width="1877" height="335" key="GridCell.Tab.0.bottom/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1575979950193" />
-    <state width="1237" height="274" key="GridCell.Tab.0.bottom/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1576146038295" />
-    <state width="1237" height="274" key="GridCell.Tab.0.center" timestamp="1576146038293">
+    <state width="1237" height="222" key="GridCell.Tab.0.bottom/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1576154001976" />
+    <state width="1237" height="222" key="GridCell.Tab.0.center" timestamp="1576154001976">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state width="1877" height="335" key="GridCell.Tab.0.center/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1575979950193" />
-    <state width="1237" height="274" key="GridCell.Tab.0.center/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1576146038293" />
-    <state width="1237" height="274" key="GridCell.Tab.0.left" timestamp="1576146038293">
+    <state width="1237" height="222" key="GridCell.Tab.0.center/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1576154001976" />
+    <state width="1237" height="222" key="GridCell.Tab.0.left" timestamp="1576154001975">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state width="1877" height="335" key="GridCell.Tab.0.left/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1575979950193" />
-    <state width="1237" height="274" key="GridCell.Tab.0.left/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1576146038293" />
-    <state width="1237" height="274" key="GridCell.Tab.0.right" timestamp="1576146038294">
+    <state width="1237" height="222" key="GridCell.Tab.0.left/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1576154001975" />
+    <state width="1237" height="222" key="GridCell.Tab.0.right" timestamp="1576154001976">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state width="1877" height="335" key="GridCell.Tab.0.right/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1575979950193" />
-    <state width="1237" height="274" key="GridCell.Tab.0.right/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1576146038294" />
+    <state width="1237" height="222" key="GridCell.Tab.0.right/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1576154001976" />
     <state width="1237" height="153" key="GridCell.Tab.1.bottom" timestamp="1575984160861">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
