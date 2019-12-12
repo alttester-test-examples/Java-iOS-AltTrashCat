@@ -29,8 +29,7 @@ public class ShopTests {
     public void loadLevel(){
         mainMenuPage = new MainMenuPage(driver);
         shopPage = new ShopPage(driver);
-        startPage = new StartPage(driver);
-        //mainMenuPage.loadScene();
+
     }
 
     @AfterClass
@@ -41,9 +40,6 @@ public class ShopTests {
 
     @Test
     public void ShopPageLoadedCorrectly(){
-        startPage.getStartButton();
-        startPage.pressStart();
-
         mainMenuPage.setStoreButton();
         mainMenuPage.pressStore();
 
@@ -57,6 +53,48 @@ public class ShopTests {
         shopPage.getCoinSection();
 
         assertTrue(shopPage.isDisplayedCorrectly());
+        shopPage.pressClose();
+    }
+
+    @Test
+    public void testShopPageCanBeClosed(){
+        mainMenuPage.setStoreButton();
+        mainMenuPage.setThemeName();
+        mainMenuPage.setSettingsButton();
+        mainMenuPage.setRunButton();
+        mainMenuPage.setMissionButton();
+        mainMenuPage.setLeaderBoardButton();
+        mainMenuPage.setCharacterName();
+
+        mainMenuPage.pressStore();
+
+        shopPage.getCloseButton();
+        shopPage.pressClose();
+        assertTrue(mainMenuPage.isDisplayed());
+    }
+
+    @Test
+    public void testBuySomething(){
+        mainMenuPage.setStoreButton();
+        mainMenuPage.pressStore();
+
+        shopPage.getStoreTitle();
+        shopPage.getAccessoriesButton();
+        shopPage.getCharactersButton();
+        shopPage.getItemsButton();
+        shopPage.getCloseButton();
+        shopPage.getThemesButton();
+        shopPage.getPremiumSection();
+        shopPage.getCoinSection();
+
+        shopPage.storeTitle.tap();
+        int indexOfElement = 0;
+        Integer beforeBuy = shopPage.getShopItemCount(indexOfElement);
+        shopPage.clickBuyButton(0);
+        Integer afterBuy = shopPage.getShopItemCount(indexOfElement);
+        assertTrue(beforeBuy + 1 == afterBuy);
+
+        shopPage.pressClose();
     }
 
 }
