@@ -11,6 +11,7 @@ import ro.altom.altunitytester.AltUnityDriver;
 
 import java.io.IOException;
 
+import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
 public class ShopTests {
@@ -29,7 +30,6 @@ public class ShopTests {
     public void loadLevel(){
         mainMenuPage = new MainMenuPage(driver);
         shopPage = new ShopPage(driver);
-
     }
 
     @AfterClass
@@ -49,7 +49,7 @@ public class ShopTests {
         shopPage.getItemsButton();
         shopPage.getCloseButton();
         shopPage.getThemesButton();
-        shopPage.getPremiumSection();
+        shopPage.getPremiumButton();
         shopPage.getCoinSection();
 
         assertTrue(shopPage.isDisplayedCorrectly());
@@ -84,7 +84,7 @@ public class ShopTests {
         shopPage.getItemsButton();
         shopPage.getCloseButton();
         shopPage.getThemesButton();
-        shopPage.getPremiumSection();
+        shopPage.getPremiumButton();
         shopPage.getCoinSection();
 
         shopPage.storeTitle.tap();
@@ -97,4 +97,43 @@ public class ShopTests {
         shopPage.pressClose();
     }
 
+    @Test
+    public void testPremiumPopUpOpen(){
+        mainMenuPage.setStoreButton();
+        mainMenuPage.pressStore();
+
+        shopPage.getStoreTitle();
+        shopPage.getAccessoriesButton();
+        shopPage.getCharactersButton();
+        shopPage.getItemsButton();
+        shopPage.getCloseButton();
+        shopPage.getThemesButton();
+        shopPage.getPremiumButton();
+        shopPage.getCoinSection();
+
+        shopPage.pressPremiumPopUp();
+        shopPage.getPopup();
+        shopPage.getClosePopupButton();
+
+        assertTrue(shopPage.checkPopupOpen());
+        shopPage.pressClosePremiumPopup();
+        shopPage.pressClose();
+    }
+
+    @Test
+    public void testClosePopup(){
+        mainMenuPage.setStoreButton();
+        mainMenuPage.pressStore();
+
+        shopPage.getPremiumButton();
+        shopPage.pressPremiumPopUp();
+        shopPage.getPopup();
+        shopPage.getClosePopupButton();
+
+        shopPage.pressClosePremiumPopup();
+        assertFalse(shopPage.checkPopupOpen());
+
+        shopPage.getCloseButton();
+        shopPage.pressClose();
+    }
 }
