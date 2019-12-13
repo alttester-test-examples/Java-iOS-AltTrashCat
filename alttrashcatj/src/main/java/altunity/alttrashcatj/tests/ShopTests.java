@@ -121,7 +121,7 @@ public class ShopTests {
     }
 
     @Test
-    public void testClosePopup(){
+    public void testPremiumPopUpClosed(){
         mainMenuPage.setStoreButton();
         mainMenuPage.pressStore();
 
