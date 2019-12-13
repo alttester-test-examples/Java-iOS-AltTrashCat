@@ -19,7 +19,27 @@ public class ShopTests {
     private static AltUnityDriver driver;
     private static MainMenuPage mainMenuPage;
     private static ShopPage shopPage;
-    private static StartPage startPage;
+
+    private static void getAllObjectsShopPage(){
+        shopPage.getStoreTitle();
+        shopPage.getAccessoriesButton();
+        shopPage.getCharactersButton();
+        shopPage.getItemsButton();
+        shopPage.getCloseButton();
+        shopPage.getThemesButton();
+        shopPage.getPremiumButton();
+        shopPage.getCoinSection();
+    }
+
+    private static void getAllObjectsMainMenuPage(){
+        mainMenuPage.setStoreButton();
+        mainMenuPage.setThemeName();
+        mainMenuPage.setSettingsButton();
+        mainMenuPage.setRunButton();
+        mainMenuPage.setMissionButton();
+        mainMenuPage.setLeaderBoardButton();
+        mainMenuPage.setCharacterName();
+    }
 
     @BeforeClass
     public static void setUp() throws IOException {
@@ -30,6 +50,7 @@ public class ShopTests {
     public void loadLevel(){
         mainMenuPage = new MainMenuPage(driver);
         shopPage = new ShopPage(driver);
+        shopPage.loadScene();
     }
 
     @AfterClass
@@ -40,53 +61,23 @@ public class ShopTests {
 
     @Test
     public void ShopPageLoadedCorrectly(){
-        mainMenuPage.setStoreButton();
-        mainMenuPage.pressStore();
-
-        shopPage.getStoreTitle();
-        shopPage.getAccessoriesButton();
-        shopPage.getCharactersButton();
-        shopPage.getItemsButton();
-        shopPage.getCloseButton();
-        shopPage.getThemesButton();
-        shopPage.getPremiumButton();
-        shopPage.getCoinSection();
-
+        getAllObjectsShopPage();
         assertTrue(shopPage.isDisplayedCorrectly());
         shopPage.pressClose();
     }
 
     @Test
     public void testShopPageCanBeClosed(){
-        mainMenuPage.setStoreButton();
-        mainMenuPage.setThemeName();
-        mainMenuPage.setSettingsButton();
-        mainMenuPage.setRunButton();
-        mainMenuPage.setMissionButton();
-        mainMenuPage.setLeaderBoardButton();
-        mainMenuPage.setCharacterName();
-
-        mainMenuPage.pressStore();
-
-        shopPage.getCloseButton();
+        getAllObjectsShopPage();
         shopPage.pressClose();
+        mainMenuPage.loadScene();
+        getAllObjectsMainMenuPage();
         assertTrue(mainMenuPage.isDisplayed());
     }
 
     @Test
     public void testBuySomething(){
-        mainMenuPage.setStoreButton();
-        mainMenuPage.pressStore();
-
-        shopPage.getStoreTitle();
-        shopPage.getAccessoriesButton();
-        shopPage.getCharactersButton();
-        shopPage.getItemsButton();
-        shopPage.getCloseButton();
-        shopPage.getThemesButton();
-        shopPage.getPremiumButton();
-        shopPage.getCoinSection();
-
+        getAllObjectsShopPage();
         shopPage.storeTitle.tap();
         int indexOfElement = 0;
         Integer beforeBuy = shopPage.getShopItemCount(indexOfElement);
@@ -94,46 +85,23 @@ public class ShopTests {
         Integer afterBuy = shopPage.getShopItemCount(indexOfElement);
         assertTrue(beforeBuy + 1 == afterBuy);
 
-        shopPage.pressClose();
     }
 
     @Test
     public void testPremiumPopUpOpen(){
-        mainMenuPage.setStoreButton();
-        mainMenuPage.pressStore();
-
-        shopPage.getStoreTitle();
-        shopPage.getAccessoriesButton();
-        shopPage.getCharactersButton();
-        shopPage.getItemsButton();
-        shopPage.getCloseButton();
-        shopPage.getThemesButton();
         shopPage.getPremiumButton();
-        shopPage.getCoinSection();
-
         shopPage.pressPremiumPopUp();
         shopPage.getPopup();
-        shopPage.getClosePopupButton();
-
         assertTrue(shopPage.checkPopupOpen());
-        shopPage.pressClosePremiumPopup();
-        shopPage.pressClose();
     }
 
     @Test
     public void testPremiumPopUpClosed(){
-        mainMenuPage.setStoreButton();
-        mainMenuPage.pressStore();
-
         shopPage.getPremiumButton();
         shopPage.pressPremiumPopUp();
         shopPage.getPopup();
         shopPage.getClosePopupButton();
-
         shopPage.pressClosePremiumPopup();
         assertFalse(shopPage.checkPopupOpen());
-
-        shopPage.getCloseButton();
-        shopPage.pressClose();
     }
 }

@@ -27,6 +27,10 @@ public class ShopPage extends BasePage {
         super(driver);
     }
 
+    public void loadScene(){
+        getDriver().loadScene("Shop");
+    }
+
     public void getStoreTitle() {
         AltFindObjectsParameters par=new AltFindObjectsParameters.Builder(AltUnityDriver.By.PATH, "//Background/StoreTitle").build();
         AltWaitForObjectsParameters params = new AltWaitForObjectsParameters.Builder(par).withTimeout(2).build();
