@@ -72,7 +72,7 @@ public class GamePlayPage extends BasePage {
             AltUnityObject obstacle = allObstacles.get(0);
             System.out.println(("Obstacle: "+ obstacle.name+", z:"+obstacle.worldZ+", x:"+obstacle.worldX));
 
-            while(obstacle.worldZ - character1.worldZ > 5) {
+            while(obstacle.worldZ - character1.worldZ > 5 && getCurrentLife() > 0) {
                 params = new AltFindObjectsParameters.Builder(AltUnityDriver.By.ID, ""+ obstacle.id).build();
                 obstacle = getDriver().findObject(params);
                 params = new AltFindObjectsParameters.Builder(AltUnityDriver.By.NAME, "PlayerPivot").build();
@@ -115,7 +115,7 @@ public class GamePlayPage extends BasePage {
                 }
             }
 
-            while(character1.worldZ - 3 < obstacle.worldZ && character1.worldX < 99){
+            while(character1.worldZ  < obstacle.worldZ && character1.worldX < 99 && getCurrentLife() > 0){
                 params = new AltFindObjectsParameters.Builder(AltUnityDriver.By.ID, ""+obstacle.id).build();
                 obstacle = getDriver().findObject(params);
                 params = new AltFindObjectsParameters.Builder(AltUnityDriver.By.NAME, "PlayerPivot").build();
