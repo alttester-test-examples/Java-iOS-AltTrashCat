@@ -4,8 +4,15 @@
     <list default="true" id="ef29af3a-f99e-4a77-9341-33f0c1ac4e77" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AltUnityTesterLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AltUnityTesterLog.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/pages/ShopPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/pages/ShopPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/pages/GamePlayPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/pages/GamePlayPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/tests/GamePlayTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/tests/GamePlayTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/tests/MainMenuTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/tests/MainMenuTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/tests/ShopTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/tests/ShopTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/tests/StartPageTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/tests/StartPageTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/altunity/alttrashcatj/tests/GamePlayTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/altunity/alttrashcatj/tests/GamePlayTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/altunity/alttrashcatj/tests/MainMenuTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/altunity/alttrashcatj/tests/MainMenuTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/altunity/alttrashcatj/tests/ShopTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/altunity/alttrashcatj/tests/ShopTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/altunity/alttrashcatj/tests/StartPageTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/altunity/alttrashcatj/tests/StartPageTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +49,53 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="JUnit.ShopTests.testShopPageCanBeClosed">
+  <component name="RunManager" selected="JUnit.GamePlayTests.testAvoidingObstacles">
+    <configuration name="GamePlayTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="alttrashcatj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="altunity.alttrashcatj.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="altunity.alttrashcatj.tests" />
+      <option name="MAIN_CLASS_NAME" value="altunity.alttrashcatj.tests.GamePlayTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GamePlayTests.testAvoidingObstacles" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="alttrashcatj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="altunity.alttrashcatj.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="altunity.alttrashcatj.tests" />
+      <option name="MAIN_CLASS_NAME" value="altunity.alttrashcatj.tests.GamePlayTests" />
+      <option name="METHOD_NAME" value="testAvoidingObstacles" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainMenuTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="alttrashcatj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="altunity.alttrashcatj.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="altunity.alttrashcatj.tests" />
+      <option name="MAIN_CLASS_NAME" value="altunity.alttrashcatj.tests.MainMenuTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ShopTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="alttrashcatj" />
       <extension name="coverage">
@@ -58,7 +111,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShopTests.ShopPageLoadedCorrectly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ShopTests.testBuySomething" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="alttrashcatj" />
       <extension name="coverage">
         <pattern>
@@ -68,55 +121,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="altunity.alttrashcatj.tests" />
       <option name="MAIN_CLASS_NAME" value="altunity.alttrashcatj.tests.ShopTests" />
-      <option name="METHOD_NAME" value="ShopPageLoadedCorrectly" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ShopTests.testPremiumPopUpClosed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="alttrashcatj" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="altunity.alttrashcatj.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="altunity.alttrashcatj.tests" />
-      <option name="MAIN_CLASS_NAME" value="altunity.alttrashcatj.tests.ShopTests" />
-      <option name="METHOD_NAME" value="testPremiumPopUpClosed" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ShopTests.testPremiumPopUpOpen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="alttrashcatj" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="altunity.alttrashcatj.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="altunity.alttrashcatj.tests" />
-      <option name="MAIN_CLASS_NAME" value="altunity.alttrashcatj.tests.ShopTests" />
-      <option name="METHOD_NAME" value="testPremiumPopUpOpen" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ShopTests.testShopPageCanBeClosed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="alttrashcatj" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="altunity.alttrashcatj.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="altunity.alttrashcatj.tests" />
-      <option name="MAIN_CLASS_NAME" value="altunity.alttrashcatj.tests.ShopTests" />
-      <option name="METHOD_NAME" value="testShopPageCanBeClosed" />
+      <option name="METHOD_NAME" value="testBuySomething" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -124,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ShopTests.testShopPageCanBeClosed" />
-        <item itemvalue="JUnit.ShopTests.ShopPageLoadedCorrectly" />
+        <item itemvalue="JUnit.GamePlayTests.testAvoidingObstacles" />
+        <item itemvalue="JUnit.GamePlayTests" />
+        <item itemvalue="JUnit.MainMenuTests" />
+        <item itemvalue="JUnit.ShopTests.testBuySomething" />
         <item itemvalue="JUnit.ShopTests" />
-        <item itemvalue="JUnit.ShopTests.testPremiumPopUpClosed" />
-        <item itemvalue="JUnit.ShopTests.testPremiumPopUpOpen" />
       </list>
     </recent_temporary>
   </component>
@@ -174,26 +179,26 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state width="434" height="466" key="DebuggerActiveHint/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1575983929333" />
-    <state width="1237" height="246" key="GridCell.Tab.0.bottom" timestamp="1576228886991">
-      <screen x="0" y="0" width="1280" height="689" />
+    <state width="1877" height="228" key="GridCell.Tab.0.bottom" timestamp="1578650179234">
+      <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="335" key="GridCell.Tab.0.bottom/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1575979950193" />
-    <state width="1237" height="246" key="GridCell.Tab.0.bottom/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1576228886991" />
-    <state width="1237" height="246" key="GridCell.Tab.0.center" timestamp="1576228886991">
-      <screen x="0" y="0" width="1280" height="689" />
+    <state width="1877" height="228" key="GridCell.Tab.0.bottom/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578650179234" />
+    <state width="1237" height="228" key="GridCell.Tab.0.bottom/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1578644718426" />
+    <state width="1877" height="228" key="GridCell.Tab.0.center" timestamp="1578650179218">
+      <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="335" key="GridCell.Tab.0.center/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1575979950193" />
-    <state width="1237" height="246" key="GridCell.Tab.0.center/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1576228886991" />
-    <state width="1237" height="246" key="GridCell.Tab.0.left" timestamp="1576228886991">
-      <screen x="0" y="0" width="1280" height="689" />
+    <state width="1877" height="228" key="GridCell.Tab.0.center/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578650179218" />
+    <state width="1237" height="228" key="GridCell.Tab.0.center/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1578644718426" />
+    <state width="1877" height="228" key="GridCell.Tab.0.left" timestamp="1578650179218">
+      <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="335" key="GridCell.Tab.0.left/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1575979950193" />
-    <state width="1237" height="246" key="GridCell.Tab.0.left/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1576228886991" />
-    <state width="1237" height="246" key="GridCell.Tab.0.right" timestamp="1576228886991">
-      <screen x="0" y="0" width="1280" height="689" />
+    <state width="1877" height="228" key="GridCell.Tab.0.left/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578650179218" />
+    <state width="1237" height="228" key="GridCell.Tab.0.left/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1578644718426" />
+    <state width="1877" height="228" key="GridCell.Tab.0.right" timestamp="1578650179234">
+      <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="335" key="GridCell.Tab.0.right/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1575979950193" />
-    <state width="1237" height="246" key="GridCell.Tab.0.right/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1576228886991" />
+    <state width="1877" height="228" key="GridCell.Tab.0.right/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578650179234" />
+    <state width="1237" height="228" key="GridCell.Tab.0.right/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1578644718426" />
     <state width="1237" height="153" key="GridCell.Tab.1.bottom" timestamp="1575984160861">
       <screen x="0" y="0" width="1280" height="689" />
     </state>

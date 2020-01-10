@@ -21,7 +21,7 @@ public class GamePlayTests {
 
     @BeforeClass
     public static void setUp() throws IOException {
-        driver = new AltUnityDriver("127.0.0.1", 13000,";","&",true);
+        driver = new AltUnityDriver("192.168.11.209", 13000,";","&",true);
     }
 
     @Before
@@ -93,7 +93,7 @@ public class GamePlayTests {
     }
 
     @Test
-    public void testPlayerDiesWhenObstacleNotAvoided() {
+    public void testPlayerDiesWhenObstacleNotAvoided() throws Exception {
 
         mainMenuPage.pressRun();
         gamePlayPage.getCharacter();
