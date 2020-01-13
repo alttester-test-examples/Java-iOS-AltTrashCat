@@ -5,6 +5,14 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AltUnityTesterLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AltUnityTesterLog.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/pages/GamePlayPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/pages/GamePlayPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/tests/GamePlayTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/tests/GamePlayTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/tests/MainMenuTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/tests/MainMenuTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/tests/ShopTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/tests/ShopTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/tests/StartPageTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/tests/StartPageTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/altunity/alttrashcatj/tests/GamePlayTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/altunity/alttrashcatj/tests/GamePlayTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/altunity/alttrashcatj/tests/MainMenuTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/altunity/alttrashcatj/tests/MainMenuTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/altunity/alttrashcatj/tests/ShopTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/altunity/alttrashcatj/tests/ShopTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/altunity/alttrashcatj/tests/StartPageTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/altunity/alttrashcatj/tests/StartPageTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,25 +179,25 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state width="434" height="466" key="DebuggerActiveHint/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1575983929333" />
-    <state width="1877" height="228" key="GridCell.Tab.0.bottom" timestamp="1578651191651">
+    <state width="1877" height="228" key="GridCell.Tab.0.bottom" timestamp="1578650179234">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="228" key="GridCell.Tab.0.bottom/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578651191651" />
+    <state width="1877" height="228" key="GridCell.Tab.0.bottom/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578650179234" />
     <state width="1237" height="228" key="GridCell.Tab.0.bottom/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1578644718426" />
-    <state width="1877" height="228" key="GridCell.Tab.0.center" timestamp="1578651191651">
+    <state width="1877" height="228" key="GridCell.Tab.0.center" timestamp="1578650179218">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="228" key="GridCell.Tab.0.center/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578651191651" />
+    <state width="1877" height="228" key="GridCell.Tab.0.center/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578650179218" />
     <state width="1237" height="228" key="GridCell.Tab.0.center/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1578644718426" />
-    <state width="1877" height="228" key="GridCell.Tab.0.left" timestamp="1578651191651">
+    <state width="1877" height="228" key="GridCell.Tab.0.left" timestamp="1578650179218">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="228" key="GridCell.Tab.0.left/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578651191651" />
+    <state width="1877" height="228" key="GridCell.Tab.0.left/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578650179218" />
     <state width="1237" height="228" key="GridCell.Tab.0.left/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1578644718426" />
-    <state width="1877" height="228" key="GridCell.Tab.0.right" timestamp="1578651191651">
+    <state width="1877" height="228" key="GridCell.Tab.0.right" timestamp="1578650179234">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="228" key="GridCell.Tab.0.right/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578651191651" />
+    <state width="1877" height="228" key="GridCell.Tab.0.right/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578650179234" />
     <state width="1237" height="228" key="GridCell.Tab.0.right/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1578644718426" />
     <state width="1237" height="153" key="GridCell.Tab.1.bottom" timestamp="1575984160861">
       <screen x="0" y="0" width="1280" height="689" />
