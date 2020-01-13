@@ -4,7 +4,6 @@
     <list default="true" id="ef29af3a-f99e-4a77-9341-33f0c1ac4e77" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AltUnityTesterLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AltUnityTesterLog.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/pages/GamePlayPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/pages/GamePlayPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="JUnit.GamePlayTests.testAvoidingObstacles">
+  <component name="RunManager" selected="JUnit.GamePlayTests">
     <configuration name="GamePlayTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="alttrashcatj" />
       <extension name="coverage">
@@ -121,8 +120,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.GamePlayTests.testAvoidingObstacles" />
         <item itemvalue="JUnit.GamePlayTests" />
+        <item itemvalue="JUnit.GamePlayTests.testAvoidingObstacles" />
         <item itemvalue="JUnit.MainMenuTests" />
         <item itemvalue="JUnit.ShopTests.testBuySomething" />
         <item itemvalue="JUnit.ShopTests" />
@@ -171,26 +170,26 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state width="434" height="466" key="DebuggerActiveHint/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1575983929333" />
-    <state width="1877" height="228" key="GridCell.Tab.0.bottom" timestamp="1578651191651">
-      <screen x="-1920" y="0" width="1920" height="1050" />
+    <state width="1237" height="205" key="GridCell.Tab.0.bottom" timestamp="1578661294145">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state width="1877" height="228" key="GridCell.Tab.0.bottom/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578651191651" />
-    <state width="1237" height="228" key="GridCell.Tab.0.bottom/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1578644718426" />
-    <state width="1877" height="228" key="GridCell.Tab.0.center" timestamp="1578651191651">
-      <screen x="-1920" y="0" width="1920" height="1050" />
+    <state width="1237" height="205" key="GridCell.Tab.0.bottom/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1578661294145" />
+    <state width="1237" height="205" key="GridCell.Tab.0.center" timestamp="1578661294145">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state width="1877" height="228" key="GridCell.Tab.0.center/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578651191651" />
-    <state width="1237" height="228" key="GridCell.Tab.0.center/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1578644718426" />
-    <state width="1877" height="228" key="GridCell.Tab.0.left" timestamp="1578651191651">
-      <screen x="-1920" y="0" width="1920" height="1050" />
+    <state width="1237" height="205" key="GridCell.Tab.0.center/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1578661294145" />
+    <state width="1237" height="205" key="GridCell.Tab.0.left" timestamp="1578661294145">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state width="1877" height="228" key="GridCell.Tab.0.left/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578651191651" />
-    <state width="1237" height="228" key="GridCell.Tab.0.left/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1578644718426" />
-    <state width="1877" height="228" key="GridCell.Tab.0.right" timestamp="1578651191651">
-      <screen x="-1920" y="0" width="1920" height="1050" />
+    <state width="1237" height="205" key="GridCell.Tab.0.left/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1578661294145" />
+    <state width="1237" height="205" key="GridCell.Tab.0.right" timestamp="1578661294145">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state width="1877" height="228" key="GridCell.Tab.0.right/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578651191651" />
-    <state width="1237" height="228" key="GridCell.Tab.0.right/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1578644718426" />
+    <state width="1237" height="205" key="GridCell.Tab.0.right/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1578661294145" />
     <state width="1237" height="153" key="GridCell.Tab.1.bottom" timestamp="1575984160861">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
