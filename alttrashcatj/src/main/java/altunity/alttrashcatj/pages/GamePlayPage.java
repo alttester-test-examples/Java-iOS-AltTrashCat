@@ -16,7 +16,6 @@ public class GamePlayPage extends BasePage {
 
     public GamePlayPage(AltUnityDriver driver) {
         super(driver);
-
     }
 
     public void getPauseButton(){
@@ -72,7 +71,6 @@ public class GamePlayPage extends BasePage {
 
             AltUnityObject obstacle = allObstacles.get(0);
             System.out.println(("Obstacle: "+ obstacle.name+", z:"+obstacle.worldZ+", x:"+obstacle.worldX));
-            System.out.println("Next: "+ allObstacles.get(1).name+", z:"+allObstacles.get(1).worldZ+", x:"+allObstacles.get(1).worldX);
 
             while(obstacle.worldZ - character1.worldZ > 5) {
                 params = new AltFindObjectsParameters.Builder(AltUnityDriver.By.ID, ""+ obstacle.id).build();
@@ -82,10 +80,10 @@ public class GamePlayPage extends BasePage {
             }
 
             if(obstacle.name.contains("ObstacleHighBarrier")){
-                getDriver().pressKey("DownArrow",0,0);
+                character.callComponentMethod("CharacterInputController","Slide","");
             }
             else if (obstacle.name.contains("ObstacleLowBarrier") || obstacle.name.contains("Rat")){
-                getDriver().pressKey("UpArrow",0,0);
+                character1.callComponentMethod("CharacterInputController","Jump","");
             }
             else {
                 if (obstacle.worldZ == allObstacles.get(1).worldZ) {

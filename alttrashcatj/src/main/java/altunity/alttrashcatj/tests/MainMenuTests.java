@@ -1,5 +1,6 @@
 package altunity.alttrashcatj.tests;
 
+import altunity.alttrashcatj.configreader.PropFileReader;
 import altunity.alttrashcatj.pages.MainMenuPage;
 import altunity.alttrashcatj.pages.StartPage;
 import org.junit.*;
@@ -17,7 +18,8 @@ public class MainMenuTests {
 
     @BeforeClass
     public static void setUp() throws IOException {
-        driver = new AltUnityDriver("127.0.0.1", 13000,";","&",true);
+        PropFileReader properties = new PropFileReader();
+        driver = new AltUnityDriver(properties.getDeviceIP(), 13000,";","&",true);
     }
 
     @Before

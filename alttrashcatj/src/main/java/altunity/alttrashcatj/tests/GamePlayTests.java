@@ -1,5 +1,6 @@
 package altunity.alttrashcatj.tests;
 
+import altunity.alttrashcatj.configreader.PropFileReader;
 import altunity.alttrashcatj.pages.*;
 import org.junit.AfterClass;
 import org.junit.Before;
@@ -21,7 +22,8 @@ public class GamePlayTests {
 
     @BeforeClass
     public static void setUp() throws IOException {
-        driver = new AltUnityDriver("127.0.0.1", 13000,";","&",true);
+        PropFileReader properties = new PropFileReader();
+        driver = new AltUnityDriver(properties.getDeviceIP(), 13000,";","&",true);
     }
 
     @Before
@@ -93,7 +95,7 @@ public class GamePlayTests {
     }
 
     @Test
-    public void testPlayerDiesWhenObstacleNotAvoided() {
+    public void testPlayerDiesWhenObstacleNotAvoided() throws Exception {
 
         mainMenuPage.pressRun();
         gamePlayPage.getCharacter();
