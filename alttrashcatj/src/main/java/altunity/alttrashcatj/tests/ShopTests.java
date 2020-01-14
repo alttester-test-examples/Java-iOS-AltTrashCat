@@ -1,5 +1,6 @@
 package altunity.alttrashcatj.tests;
 
+import altunity.alttrashcatj.configreader.PropFileReader;
 import altunity.alttrashcatj.pages.MainMenuPage;
 import altunity.alttrashcatj.pages.ShopPage;
 import altunity.alttrashcatj.pages.StartPage;
@@ -43,7 +44,8 @@ public class ShopTests {
 
     @BeforeClass
     public static void setUp() throws IOException {
-        driver = new AltUnityDriver("192.168.11.209", 13000,";","&",true);
+        PropFileReader properties = new PropFileReader();
+        driver = new AltUnityDriver(properties.getDeviceIP(), 13000,";","&",true);
     }
 
     @Before
