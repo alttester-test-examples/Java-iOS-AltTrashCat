@@ -1,0 +1,21 @@
+# Created at 2020-01-22T10:22:15.605
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:397)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+
+
+# Created at 2020-01-22T10:22:24.229
+Unexpected IOException: 7,1,altunity.alttrashcatj.GamePlayTests,testPlayerDiesWhenObstacleNotAvoided(altunity.alttrashcatj.GamePlayTests),null,java.net.SocketTimeoutException: Read timed out,null,java.net.SocketTimeoutException: Read timed out,GamePlayTests.loadLevel:33 \00BB Connection java.net.SocketTimeoutException: Read ...,ro.altom.altunitytester.altUnityTesterExceptions.ConnectionException: java.net.SocketTimeoutException: Read timed out\000A\0009at altunity.alttrashcatj.GamePlayTests.loadLevel(GamePlayTests.java:33)\000ACaused by: java.net.SocketTimeoutException: Read timed out\000A\0009at altunity.alttrashcatj.GamePlayTests.loadLevel(GamePlayTests.java:33)\000A
+
+
+# Created at 2020-01-22T10:22:24.229
+Unexpected IOException: 5,1,altunity.alttrashcatj.GamePlayTests,testGameCanBePausedAndResumed(altunity.alttrashcatj.GamePlayTests),null,null,null
+
+
+# Created at 2020-01-22T10:22:24.229
+Unexpected IOException with stream: 2020-01-22 10:22:24 INFO  AltBaseCommand:68    -   Sending rpc message [loadScene;Main;&]
+
+

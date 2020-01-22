@@ -1,0 +1,34 @@
+-------------------------------------------------------------------------------
+Test set: altunity.alttrashcatj.ShopTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 5, Skipped: 0, Time elapsed: 177.108 s <<< FAILURE! - in altunity.alttrashcatj.ShopTest
+testShopPageCanBeClosed(altunity.alttrashcatj.ShopTest)  Time elapsed: 0.015 s  <<< ERROR!
+ro.altom.altunitytester.altUnityTesterExceptions.ConnectionException: java.net.SocketTimeoutException: Read timed out
+	at altunity.alttrashcatj.ShopTest.loadLevel(ShopTest.java:55)
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at altunity.alttrashcatj.ShopTest.loadLevel(ShopTest.java:55)
+
+testBuySomething(altunity.alttrashcatj.ShopTest)  Time elapsed: 23.056 s  <<< ERROR!
+ro.altom.altunitytester.altUnityTesterExceptions.ConnectionException: java.net.SocketTimeoutException: Read timed out
+	at altunity.alttrashcatj.ShopTest.loadLevel(ShopTest.java:55)
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at altunity.alttrashcatj.ShopTest.loadLevel(ShopTest.java:55)
+
+ShopPageLoadedCorrectly(altunity.alttrashcatj.ShopTest)  Time elapsed: 154.005 s  <<< ERROR!
+ro.altom.altunitytester.altUnityTesterExceptions.ConnectionException: java.net.SocketTimeoutException: Read timed out
+	at altunity.alttrashcatj.ShopTest.loadLevel(ShopTest.java:55)
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at altunity.alttrashcatj.ShopTest.loadLevel(ShopTest.java:55)
+
+testPremiumPopUpClosed(altunity.alttrashcatj.ShopTest)  Time elapsed: 0 s  <<< ERROR!
+ro.altom.altunitytester.altUnityTesterExceptions.ConnectionException: java.net.SocketTimeoutException: Read timed out
+	at altunity.alttrashcatj.ShopTest.loadLevel(ShopTest.java:55)
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at altunity.alttrashcatj.ShopTest.loadLevel(ShopTest.java:55)
+
+testPremiumPopUpOpen(altunity.alttrashcatj.ShopTest)  Time elapsed: 0 s  <<< ERROR!
+ro.altom.altunitytester.altUnityTesterExceptions.ConnectionException: java.net.SocketTimeoutException: Read timed out
+	at altunity.alttrashcatj.ShopTest.loadLevel(ShopTest.java:55)
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at altunity.alttrashcatj.ShopTest.loadLevel(ShopTest.java:55)
+

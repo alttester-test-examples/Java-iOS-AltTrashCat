@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: altunity.alttrashcatj.GamePlayTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 2.693 s <<< FAILURE! - in altunity.alttrashcatj.GamePlayTests
+altunity.alttrashcatj.GamePlayTests  Time elapsed: 2.693 s  <<< ERROR!
+ro.altom.altunitytester.altUnityTesterExceptions.ConnectionException: Could not create connection to 192.168.11.209:13000
+	at altunity.alttrashcatj.GamePlayTests.setUp(GamePlayTests.java:26)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at altunity.alttrashcatj.GamePlayTests.setUp(GamePlayTests.java:26)
+
+altunity.alttrashcatj.GamePlayTests  Time elapsed: 2.693 s  <<< ERROR!
+java.lang.NullPointerException
+	at altunity.alttrashcatj.GamePlayTests.tearDown(GamePlayTests.java:49)
+
