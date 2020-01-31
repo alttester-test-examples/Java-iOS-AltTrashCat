@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: AltUnityTesterEditorSettings
   m_EditorClassIdentifier: 
   appendToName: 0
-  OutputPathName: sampleGame/sampleGame.exe
+  OutputPathName: sampleGame
   AdbPath: /usr/local/bin/adb
   IProxyPath: /usr/local/bin/iproxy
   XcrunPath: /usr/bin/xcrun
@@ -22,7 +22,8 @@ MonoBehaviour:
   BuildNumber: 0
   MyTests:
   - _selected: 0
-    _testName: /Users/altunitytester/AltTrashCat Unity iOS/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+    _testName: /Users/altunitytester/repo/alttrashcat-tests---java/AltTrashCat Unity
+      iOS/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
     _status: 0
     _isSuite: 1
     _parentName: 

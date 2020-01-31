@@ -1,34 +1,14 @@
 -------------------------------------------------------------------------------
 Test set: altunity.alttrashcatj.GamePlayTest
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 5, Skipped: 0, Time elapsed: 219.92 s <<< FAILURE! - in altunity.alttrashcatj.GamePlayTest
-testGamePlayDisplayedCorrectly(altunity.alttrashcatj.GamePlayTest)  Time elapsed: 30.037 s  <<< ERROR!
-ro.altom.altunitytester.altUnityTesterExceptions.ConnectionException: java.net.SocketTimeoutException: Read timed out
-	at altunity.alttrashcatj.GamePlayTest.loadLevel(GamePlayTest.java:33)
-Caused by: java.net.SocketTimeoutException: Read timed out
-	at altunity.alttrashcatj.GamePlayTest.loadLevel(GamePlayTest.java:33)
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in altunity.alttrashcatj.GamePlayTest
+altunity.alttrashcatj.GamePlayTest  Time elapsed: 0.001 s  <<< ERROR!
+ro.altom.altunitytester.altUnityTesterExceptions.ConnectionException: Could not create connection to 127.0.0.1:13000
+	at altunity.alttrashcatj.GamePlayTest.setUp(GamePlayTest.java:26)
+Caused by: java.net.ConnectException: Connection refused (Connection refused)
+	at altunity.alttrashcatj.GamePlayTest.setUp(GamePlayTest.java:26)
 
-testPlayerDiesWhenObstacleNotAvoided(altunity.alttrashcatj.GamePlayTest)  Time elapsed: 30.085 s  <<< ERROR!
-ro.altom.altunitytester.altUnityTesterExceptions.ConnectionException: java.net.SocketTimeoutException: Read timed out
-	at altunity.alttrashcatj.GamePlayTest.loadLevel(GamePlayTest.java:33)
-Caused by: java.net.SocketTimeoutException: Read timed out
-	at altunity.alttrashcatj.GamePlayTest.loadLevel(GamePlayTest.java:33)
-
-testGameCanBePausedAndResumed(altunity.alttrashcatj.GamePlayTest)  Time elapsed: 30.108 s  <<< ERROR!
-ro.altom.altunitytester.altUnityTesterExceptions.ConnectionException: java.net.SocketTimeoutException: Read timed out
-	at altunity.alttrashcatj.GamePlayTest.loadLevel(GamePlayTest.java:33)
-Caused by: java.net.SocketTimeoutException: Read timed out
-	at altunity.alttrashcatj.GamePlayTest.loadLevel(GamePlayTest.java:33)
-
-testAvoidingObstacles(altunity.alttrashcatj.GamePlayTest)  Time elapsed: 30.126 s  <<< ERROR!
-ro.altom.altunitytester.altUnityTesterExceptions.ConnectionException: java.net.SocketTimeoutException: Read timed out
-	at altunity.alttrashcatj.GamePlayTest.loadLevel(GamePlayTest.java:33)
-Caused by: java.net.SocketTimeoutException: Read timed out
-	at altunity.alttrashcatj.GamePlayTest.loadLevel(GamePlayTest.java:33)
-
-testGameCanBePausedAndStopped(altunity.alttrashcatj.GamePlayTest)  Time elapsed: 30.075 s  <<< ERROR!
-ro.altom.altunitytester.altUnityTesterExceptions.ConnectionException: java.net.SocketTimeoutException: Read timed out
-	at altunity.alttrashcatj.GamePlayTest.loadLevel(GamePlayTest.java:33)
-Caused by: java.net.SocketTimeoutException: Read timed out
-	at altunity.alttrashcatj.GamePlayTest.loadLevel(GamePlayTest.java:33)
+altunity.alttrashcatj.GamePlayTest  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+	at altunity.alttrashcatj.GamePlayTest.tearDown(GamePlayTest.java:49)
 
