@@ -1,10 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: altunity.alttrashcatj.MainMenuTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.031 s <<< FAILURE! - in altunity.alttrashcatj.MainMenuTest
-TestMainPageLoadedCorrectly(altunity.alttrashcatj.MainMenuTest)  Time elapsed: 0 s  <<< ERROR!
-ro.altom.altunitytester.altUnityTesterExceptions.ConnectionException: java.net.SocketTimeoutException: Read timed out
-	at altunity.alttrashcatj.MainMenuTest.loadLevel(MainMenuTest.java:28)
-Caused by: java.net.SocketTimeoutException: Read timed out
-	at altunity.alttrashcatj.MainMenuTest.loadLevel(MainMenuTest.java:28)
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.082 s - in altunity.alttrashcatj.MainMenuTest
