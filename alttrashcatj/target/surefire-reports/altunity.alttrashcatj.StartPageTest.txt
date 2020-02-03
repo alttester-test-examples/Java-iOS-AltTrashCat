@@ -1,14 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: altunity.alttrashcatj.StartPageTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.004 s <<< FAILURE! - in altunity.alttrashcatj.StartPageTest
-altunity.alttrashcatj.StartPageTest  Time elapsed: 0.004 s  <<< ERROR!
-ro.altom.altunitytester.altUnityTesterExceptions.ConnectionException: Could not create connection to 127.0.0.1:13000
-	at altunity.alttrashcatj.StartPageTest.setUp(StartPageTest.java:25)
-Caused by: java.net.ConnectException: Connection refused (Connection refused)
-	at altunity.alttrashcatj.StartPageTest.setUp(StartPageTest.java:25)
-
-altunity.alttrashcatj.StartPageTest  Time elapsed: 0.004 s  <<< ERROR!
-java.lang.NullPointerException
-	at altunity.alttrashcatj.StartPageTest.tearDown(StartPageTest.java:37)
-
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.624 s - in altunity.alttrashcatj.StartPageTest

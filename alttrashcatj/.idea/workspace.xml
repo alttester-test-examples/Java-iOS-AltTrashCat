@@ -58,7 +58,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -68,7 +68,7 @@
       <recent name="altunity.alttrashcatj" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.GamePlayTest.testGamePlayDisplayedCorrectly">
+  <component name="RunManager" selected="JUnit.MainMenuTest">
     <configuration name="GamePlayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="alttrashcatj" />
       <extension name="coverage">
@@ -149,11 +149,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MainMenuTest" />
         <item itemvalue="JUnit.GamePlayTest.testGamePlayDisplayedCorrectly" />
         <item itemvalue="JUnit.ShopTest.testShopPageCanBeClosed" />
         <item itemvalue="JUnit.GamePlayTest.testAvoidingObstacles" />
-        <item itemvalue="JUnit.MainMenuTests" />
-        <item itemvalue="JUnit.GamePlayTests" />
       </list>
     </recent_temporary>
   </component>
@@ -183,6 +182,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="240" y="43" key="#Project_Structure" timestamp="1580718555720">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="240" y="43" key="#Project_Structure/0.23.1280.709@0.23.1280.709" timestamp="1580718555720" />
     <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1576151056635">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
@@ -213,34 +216,34 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1579680121789" />
-    <state width="1237" height="195" key="GridCell.Tab.0.bottom" timestamp="1579682517684">
-      <screen x="0" y="0" width="1280" height="689" />
+    <state width="1238" height="175" key="GridCell.Tab.0.bottom" timestamp="1580719995433">
+      <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1877" height="228" key="GridCell.Tab.0.bottom/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578650179234" />
     <state width="1237" height="228" key="GridCell.Tab.0.bottom/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1578644718426" />
     <state width="1237" height="195" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1579682517684" />
-    <state width="1238" height="175" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1579006893176" />
-    <state width="1237" height="195" key="GridCell.Tab.0.center" timestamp="1579682517684">
-      <screen x="0" y="0" width="1280" height="689" />
+    <state width="1238" height="175" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1580719995433" />
+    <state width="1238" height="175" key="GridCell.Tab.0.center" timestamp="1580719995432">
+      <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1877" height="228" key="GridCell.Tab.0.center/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578650179218" />
     <state width="1237" height="228" key="GridCell.Tab.0.center/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1578644718426" />
     <state width="1237" height="195" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1579682517684" />
-    <state width="1238" height="175" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1579006893174" />
-    <state width="1237" height="195" key="GridCell.Tab.0.left" timestamp="1579682517684">
-      <screen x="0" y="0" width="1280" height="689" />
+    <state width="1238" height="175" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1580719995432" />
+    <state width="1238" height="175" key="GridCell.Tab.0.left" timestamp="1580719995430">
+      <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1877" height="228" key="GridCell.Tab.0.left/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578650179218" />
     <state width="1237" height="228" key="GridCell.Tab.0.left/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1578644718426" />
     <state width="1237" height="195" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1579682517684" />
-    <state width="1238" height="175" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1579006893174" />
-    <state width="1237" height="195" key="GridCell.Tab.0.right" timestamp="1579682517684">
-      <screen x="0" y="0" width="1280" height="689" />
+    <state width="1238" height="175" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1580719995430" />
+    <state width="1238" height="175" key="GridCell.Tab.0.right" timestamp="1580719995432">
+      <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1877" height="228" key="GridCell.Tab.0.right/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578650179234" />
     <state width="1237" height="228" key="GridCell.Tab.0.right/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1578644718426" />
     <state width="1237" height="195" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1579682517684" />
-    <state width="1238" height="175" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1579006893175" />
+    <state width="1238" height="175" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1580719995432" />
     <state width="1237" height="153" key="GridCell.Tab.1.bottom" timestamp="1575984160861">
       <screen x="0" y="0" width="1280" height="689" />
     </state>

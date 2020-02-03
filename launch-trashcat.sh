@@ -2,6 +2,7 @@
 
 cd "./AltTrashCat Unity iOS/sampleGame/"
 instruments -s devices
+echo "---> Format: Device_Name (OS_version) [UDID]"
 echo "---> Enter your device's UDID:"
 read DEVICE_UDID
 echo "---> Installing a clean build of Endless Runner:"
