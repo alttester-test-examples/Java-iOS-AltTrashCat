@@ -16,3 +16,4 @@ echo "---> Starting mvn test:"
 mvn test
 echo "---> Killing existing xcode processes:"
 killall xcodebuild || true
+killall iproxy
