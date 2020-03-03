@@ -1490,10 +1490,10 @@ MonoBehaviour:
     _buildIndex: 0
   - _toBeBuilt: 1
     _path: Assets/Scenes/Main.unity
-    _buildIndex: 1
+    _buildIndex: 0
   - _toBeBuilt: 1
     _path: Assets/Scenes/Shop.unity
-    _buildIndex: 2
+    _buildIndex: 0
   platform: 1
   standaloneTarget: 5
   ranInEditor: 0

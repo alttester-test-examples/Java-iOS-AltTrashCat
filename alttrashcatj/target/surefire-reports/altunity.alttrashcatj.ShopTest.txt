@@ -1,8 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: altunity.alttrashcatj.ShopTest
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 6.442 s <<< FAILURE! - in altunity.alttrashcatj.ShopTest
-testBuySomething(altunity.alttrashcatj.ShopTest)  Time elapsed: 0.773 s  <<< FAILURE!
-java.lang.AssertionError
-	at altunity.alttrashcatj.ShopTest.testBuySomething(ShopTest.java:88)
-
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.301 s - in altunity.alttrashcatj.ShopTest

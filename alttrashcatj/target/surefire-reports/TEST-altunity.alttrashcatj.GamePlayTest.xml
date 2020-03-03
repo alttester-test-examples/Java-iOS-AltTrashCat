@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="altunity.alttrashcatj.GamePlayTest" time="44.042" tests="5" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="altunity.alttrashcatj.GamePlayTest" time="45.594" tests="5" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="13"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-13.0.1\bin"/>
-    <property name="sun.java.command" value="C:\Users\IONUTB~1\AppData\Local\Temp\surefire12858369711895186353\surefirebooter12328024331372813047.jar C:\Users\Ionut Benyi\AppData\Local\Temp\surefire12858369711895186353 2020-03-03T08-58-34_543-jvmRun1 surefire6736559559036934231tmp surefire_016748328591190166974tmp"/>
+    <property name="sun.java.command" value="C:\Users\IONUTB~1\AppData\Local\Temp\surefire13458167340232416672\surefirebooter8847892048680975720.jar C:\Users\Ionut Benyi\AppData\Local\Temp\surefire13458167340232416672 2020-03-03T10-36-21_266-jvmRun1 surefire12197623009357984254tmp surefire_014636647521772549103tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="D:\AltUnity\alttrashcat-tests---java\alttrashcatj\target\test-classes;D:\AltUnity\alttrashcat-tests---java\alttrashcatj\target\classes;C:\Users\Ionut Benyi\.m2\repository\ro\altom\altunitytester\1.5.3\altunitytester-1.5.3.jar;C:\Users\Ionut Benyi\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\Ionut Benyi\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Ionut Benyi\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\IONUTB~1\AppData\Local\Temp\surefire12858369711895186353\surefirebooter12328024331372813047.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\IONUTB~1\AppData\Local\Temp\surefire13458167340232416672\surefirebooter8847892048680975720.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="13.0.1+9"/>
@@ -55,9 +55,9 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="57.0"/>
   </properties>
-  <testcase name="testGamePlayDisplayedCorrectly" classname="altunity.alttrashcatj.GamePlayTest" time="1.403"/>
-  <testcase name="testPlayerDiesWhenObstacleNotAvoided" classname="altunity.alttrashcatj.GamePlayTest" time="17.291"/>
-  <testcase name="testGameCanBePausedAndResumed" classname="altunity.alttrashcatj.GamePlayTest" time="1.234"/>
-  <testcase name="testAvoidingObstacles" classname="altunity.alttrashcatj.GamePlayTest" time="21.305"/>
-  <testcase name="testGameCanBePausedAndStopped" classname="altunity.alttrashcatj.GamePlayTest" time="1.074"/>
+  <testcase name="testGamePlayDisplayedCorrectly" classname="altunity.alttrashcatj.GamePlayTest" time="1.088"/>
+  <testcase name="testPlayerDiesWhenObstacleNotAvoided" classname="altunity.alttrashcatj.GamePlayTest" time="21.045"/>
+  <testcase name="testGameCanBePausedAndResumed" classname="altunity.alttrashcatj.GamePlayTest" time="1.12"/>
+  <testcase name="testAvoidingObstacles" classname="altunity.alttrashcatj.GamePlayTest" time="19.563"/>
+  <testcase name="testGameCanBePausedAndStopped" classname="altunity.alttrashcatj.GamePlayTest" time="1.041"/>
 </testsuite>
