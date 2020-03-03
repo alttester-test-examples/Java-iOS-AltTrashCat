@@ -2,27 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef29af3a-f99e-4a77-9341-33f0c1ac4e77" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ro_altom_altunitytester_1_5_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_26.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AltUnityTesterLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AltUnityTesterLog.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alttrashcatj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/alttrashcatj.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/altunitytester-java-client-1.5.2-SNAPSHOT-jar-with-dependencies.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/tests/GamePlayTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/altunity/alttrashcatj/GamePlayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/tests/MainMenuTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/altunity/alttrashcatj/MainMenuTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/tests/ShopTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/altunity/alttrashcatj/ShopTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/altunity/alttrashcatj/tests/StartPageTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/altunity/alttrashcatj/StartPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/altunity/alttrashcatj/tests/GamePlayTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/altunity/alttrashcatj/tests/MainMenuTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/altunity/alttrashcatj/tests/ShopTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/altunity/alttrashcatj/tests/StartPageTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-altunity.alttrashcatj.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-altunity.alttrashcatj.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-altunity.alttrashcatj.GamePlayTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-altunity.alttrashcatj.GamePlayTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-altunity.alttrashcatj.MainMenuTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-altunity.alttrashcatj.MainMenuTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-altunity.alttrashcatj.ShopTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-altunity.alttrashcatj.ShopTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-altunity.alttrashcatj.StartPageTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-altunity.alttrashcatj.StartPageTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/altunity.alttrashcatj.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/altunity.alttrashcatj.AppTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/altunity.alttrashcatj.GamePlayTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/altunity.alttrashcatj.GamePlayTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/altunity.alttrashcatj.MainMenuTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/altunity.alttrashcatj.MainMenuTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/altunity.alttrashcatj.ShopTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/altunity.alttrashcatj.ShopTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/altunity.alttrashcatj.StartPageTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/altunity.alttrashcatj.StartPageTest.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +65,7 @@
       <recent name="altunity.alttrashcatj" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MainMenuTest">
+  <component name="RunManager" selected="JUnit.GamePlayTest">
     <configuration name="GamePlayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="alttrashcatj" />
       <extension name="coverage">
@@ -149,6 +146,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.GamePlayTest" />
         <item itemvalue="JUnit.MainMenuTest" />
         <item itemvalue="JUnit.GamePlayTest.testGamePlayDisplayedCorrectly" />
         <item itemvalue="JUnit.ShopTest.testShopPageCanBeClosed" />
@@ -182,9 +180,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="240" y="43" key="#Project_Structure" timestamp="1580718555720">
-      <screen x="0" y="23" width="1280" height="709" />
+    <state x="240" y="6" key="#Project_Structure" timestamp="1583161302248">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
+    <state x="240" y="6" key="#Project_Structure/0.0.1280.689@0.0.1280.689" timestamp="1583161302248" />
     <state x="240" y="43" key="#Project_Structure/0.23.1280.709@0.23.1280.709" timestamp="1580718555720" />
     <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1576151056635">
       <screen x="0" y="0" width="1280" height="689" />
@@ -212,37 +211,43 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state width="434" height="466" key="DebuggerActiveHint/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1575983929333" />
-    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1579680121789">
+    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1582180852817">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
+    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689/1920.0.1920.1050@0.0.1280.689" timestamp="1582180852817" />
     <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1579680121789" />
-    <state width="1238" height="175" key="GridCell.Tab.0.bottom" timestamp="1580719995433">
-      <screen x="0" y="23" width="1280" height="709" />
+    <state x="2552" y="150" key="FileChooserDialogImpl/1920.0.1920.1034/0.0.1280.689@1920.0.1920.1034" timestamp="1582015908917" />
+    <state width="1237" height="158" key="GridCell.Tab.0.bottom" timestamp="1583218108935">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state width="1877" height="228" key="GridCell.Tab.0.bottom/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578650179234" />
     <state width="1237" height="228" key="GridCell.Tab.0.bottom/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1578644718426" />
-    <state width="1237" height="195" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1579682517684" />
+    <state width="1237" height="158" key="GridCell.Tab.0.bottom/0.0.1280.689/1920.0.1920.1050@0.0.1280.689" timestamp="1583218108935" />
+    <state width="1237" height="158" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1583161539791" />
     <state width="1238" height="175" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1580719995433" />
-    <state width="1238" height="175" key="GridCell.Tab.0.center" timestamp="1580719995432">
-      <screen x="0" y="23" width="1280" height="709" />
+    <state width="1237" height="158" key="GridCell.Tab.0.center" timestamp="1583218108934">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state width="1877" height="228" key="GridCell.Tab.0.center/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578650179218" />
     <state width="1237" height="228" key="GridCell.Tab.0.center/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1578644718426" />
-    <state width="1237" height="195" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1579682517684" />
+    <state width="1237" height="158" key="GridCell.Tab.0.center/0.0.1280.689/1920.0.1920.1050@0.0.1280.689" timestamp="1583218108934" />
+    <state width="1237" height="158" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1583161539790" />
     <state width="1238" height="175" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1580719995432" />
-    <state width="1238" height="175" key="GridCell.Tab.0.left" timestamp="1580719995430">
-      <screen x="0" y="23" width="1280" height="709" />
+    <state width="1237" height="158" key="GridCell.Tab.0.left" timestamp="1583218108934">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state width="1877" height="228" key="GridCell.Tab.0.left/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578650179218" />
     <state width="1237" height="228" key="GridCell.Tab.0.left/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1578644718426" />
-    <state width="1237" height="195" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1579682517684" />
+    <state width="1237" height="158" key="GridCell.Tab.0.left/0.0.1280.689/1920.0.1920.1050@0.0.1280.689" timestamp="1583218108934" />
+    <state width="1237" height="158" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1583161539789" />
     <state width="1238" height="175" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1580719995430" />
-    <state width="1238" height="175" key="GridCell.Tab.0.right" timestamp="1580719995432">
-      <screen x="0" y="23" width="1280" height="709" />
+    <state width="1237" height="158" key="GridCell.Tab.0.right" timestamp="1583218108934">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state width="1877" height="228" key="GridCell.Tab.0.right/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1578650179234" />
     <state width="1237" height="228" key="GridCell.Tab.0.right/0.0.1280.689/-1920.0.1920.1050@0.0.1280.689" timestamp="1578644718426" />
-    <state width="1237" height="195" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1579682517684" />
+    <state width="1237" height="158" key="GridCell.Tab.0.right/0.0.1280.689/1920.0.1920.1050@0.0.1280.689" timestamp="1583218108934" />
+    <state width="1237" height="158" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1583161539791" />
     <state width="1238" height="175" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1580719995432" />
     <state width="1237" height="153" key="GridCell.Tab.1.bottom" timestamp="1575984160861">
       <screen x="0" y="0" width="1280" height="689" />
