@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 18
-  productGUID: 9fb9c98bedc494652b8f203631d38a56
+  productGUID: c8572c2dd0333314abff730e79bc1e70
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: Altom
-  productName: trashcat
+  companyName: DefaultCompany
+  productName: NewTrashCat
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -151,6 +151,8 @@ PlayerSettings:
       sharedDepthBuffer: 0
       dashSupport: 0
       lowOverheadMode: 0
+      protectedContext: 0
+      v2Signing: 0
     enable360StereoCapture: 0
   isWsaHolographicRemotingEnabled: 0
   protectGraphicsMemory: 0
@@ -165,7 +167,7 @@ PlayerSettings:
     Android: 
     Standalone: 
     Tizen: 
-    iPhone: com.Altom.trashcat
+    iPhone: 
     tvOS: 
   buildNumber:
     iPhone: 0
@@ -357,10 +359,7 @@ PlayerSettings:
   - m_BuildTarget: Standalone
     m_StaticBatching: 1
     m_DynamicBatching: 0
-  m_BuildTargetGraphicsAPIs:
-  - m_BuildTarget: iOSSupport
-    m_APIs: 0b000000
-    m_Automatic: 0
+  m_BuildTargetGraphicsAPIs: []
   m_BuildTargetVRSettings:
   - m_BuildTarget: Android
     m_Enabled: 0
@@ -541,6 +540,7 @@ PlayerSettings:
   switchRatingsInt_9: 0
   switchRatingsInt_10: 0
   switchRatingsInt_11: 0
+  switchRatingsInt_12: 0
   switchLocalCommunicationIds_0: 0x0005000C10000001
   switchLocalCommunicationIds_1: 
   switchLocalCommunicationIds_2: 
@@ -661,7 +661,7 @@ PlayerSettings:
   webGLWasmStreaming: 0
   scriptingDefineSymbols:
     1: DEBUG_ANALYTICS_STANDARD_EVENTS
-    4: UNITY_SOCIAL;DEBUG_ANALYTICS_STANDARD_EVENTS;ALTUNITYTESTER
+    4: UNITY_SOCIAL;UNITY_ADS;DEBUG_ANALYTICS_STANDARD_EVENTS
     7: UNITY_SOCIAL;DEBUG_ANALYTICS_STANDARD_EVENTS
   platformArchitecture:
     iPhone: 2

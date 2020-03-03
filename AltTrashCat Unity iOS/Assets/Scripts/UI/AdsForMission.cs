@@ -8,11 +8,6 @@ using UnityEngine.Advertisements;
 using UnityEngine.Analytics;
 #endif
 
-public enum ShowResult{
-    Finished,
-    Skipped,
-    Failed
-}
 public class AdsForMission : MonoBehaviour
 {
     public MissionUI missionUI;

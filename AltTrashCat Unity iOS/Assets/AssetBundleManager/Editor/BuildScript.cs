@@ -125,8 +125,6 @@ namespace AssetBundles
 				return "/test.app";
 			case BuildTarget.WebGL:
 				return "";
-			case BuildTarget.iOS:
-				return "";
 				// Add more build targets for your own.
 			default:
 				Debug.Log("Target not implemented.");
