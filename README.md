@@ -1,4 +1,4 @@
-# AltTrashCat-Tests Java
+# AltUnityTester Example Tests for iOS Build with Java Tests
 
 This repository shows a few Java tests that use the page object model and AltUnityTester to test the Unity endless runner sample:
 https://assetstore.unity.com/packages/essentials/tutorial-projects/endless-runner-sample-game-87901
