@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="3" failures="0" name="ShopTest" time="185.851" errors="3" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="java.vm.version" value="11.0.13+8"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/temurin-11.jdk/Contents/Home/lib"/>
+    <property name="gopherProxySet" value="false"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/altunitytester/alttrashcat-tests---java"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="user.country" value="RO"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/Users/altunitytester/alttrashcat-tests---java"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="11.0.13+8"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.io.tmpdir" value="/var/folders/wv/70r64jkx3p951vrlgq54n6q40000gr/T/"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="classworlds.conf" value="/usr/local/Cellar/maven/3.6.3/libexec/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/Users/altunitytester/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="maven.conf" value="/usr/local/Cellar/maven/3.6.3/libexec/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="12.2.1"/>
+    <property name="library.jansi.path" value="/usr/local/Cellar/maven/3.6.3/libexec/lib/jansi-native"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="user.home" value="/Users/altunitytester"/>
+    <property name="user.timezone" value="Europe/Bucharest"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="user.name" value="altunitytester"/>
+    <property name="java.class.path" value="/usr/local/Cellar/maven/3.6.3/libexec/boot/plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/temurin-11.jdk/Contents/Home"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="11.0.13"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="maven.home" value="/usr/local/Cellar/maven/3.6.3/libexec"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.version.date" value="2021-10-19"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vendor.version" value="Temurin-11.0.13+8"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase classname="ShopTest" name="testShopPageCanBeClosed" time="65.802">
+    <error message="Failed to connect to AltUnity Tester on host: 127.0.0.1 port: 13000." type="ro.altom.altunitytester.altUnityTesterExceptions.ConnectionTimeoutException">ro.altom.altunitytester.altUnityTesterExceptions.ConnectionTimeoutException: Failed to connect to AltUnity Tester on host: 127.0.0.1 port: 13000.
+	at ro.altom.altunitytester.WebsocketConnection.connect(WebsocketConnection.java:103)
+	at ro.altom.altunitytester.AltUnityDriver.&lt;init&gt;(AltUnityDriver.java:70)
+	at ro.altom.altunitytester.AltUnityDriver.&lt;init&gt;(AltUnityDriver.java:57)
+	at ro.altom.altunitytester.AltUnityDriver.&lt;init&gt;(AltUnityDriver.java:53)
+	at ro.altom.altunitytester.AltUnityDriver.&lt;init&gt;(AltUnityDriver.java:49)
+	at ShopTest.setUp(ShopTest.java:43)
+	at junit.framework.TestCase.runBare(TestCase.java:140)
+	at junit.framework.TestResult$1.protect(TestResult.java:122)
+	at junit.framework.TestResult.runProtected(TestResult.java:142)
+	at junit.framework.TestResult.run(TestResult.java:125)
+	at junit.framework.TestCase.run(TestCase.java:130)
+	at junit.framework.TestSuite.runTest(TestSuite.java:241)
+	at junit.framework.TestSuite.run(TestSuite.java:236)
+	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:90)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+Caused by: java.net.ConnectException: Connection refused
+	at java.base/sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at java.base/sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:777)
+	at org.glassfish.grizzly.nio.transport.TCPNIOConnectorHandler.onConnectedAsync(TCPNIOConnectorHandler.java:206)
+	at org.glassfish.grizzly.nio.transport.TCPNIOConnectorHandler$1.connected(TCPNIOConnectorHandler.java:154)
+	at org.glassfish.grizzly.nio.transport.TCPNIOConnection.onConnect(TCPNIOConnection.java:258)
+	at org.glassfish.grizzly.nio.transport.TCPNIOTransport.fireIOEvent(TCPNIOTransport.java:552)
+	at org.glassfish.grizzly.strategies.AbstractIOStrategy.fireIOEvent(AbstractIOStrategy.java:112)
+	at org.glassfish.grizzly.strategies.WorkerThreadIOStrategy.run0(WorkerThreadIOStrategy.java:117)
+	at org.glassfish.grizzly.strategies.WorkerThreadIOStrategy.executeIoEvent(WorkerThreadIOStrategy.java:103)
+	at org.glassfish.grizzly.strategies.AbstractIOStrategy.executeIoEvent(AbstractIOStrategy.java:89)
+	at org.glassfish.grizzly.nio.SelectorRunner.iterateKeyEvents(SelectorRunner.java:414)
+	at org.glassfish.grizzly.nio.SelectorRunner.iterateKeys(SelectorRunner.java:383)
+	at org.glassfish.grizzly.nio.SelectorRunner.doSelect(SelectorRunner.java:347)
+	at org.glassfish.grizzly.nio.SelectorRunner.run(SelectorRunner.java:278)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.doWork(AbstractThreadPool.java:565)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.run(AbstractThreadPool.java:545)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+</error>
+  </testcase>
+  <testcase classname="ShopTest" name="testPremiumPopUpClosed" time="60.045">
+    <error message="Failed to connect to AltUnity Tester on host: 127.0.0.1 port: 13000." type="ro.altom.altunitytester.altUnityTesterExceptions.ConnectionTimeoutException">ro.altom.altunitytester.altUnityTesterExceptions.ConnectionTimeoutException: Failed to connect to AltUnity Tester on host: 127.0.0.1 port: 13000.
+	at ro.altom.altunitytester.WebsocketConnection.connect(WebsocketConnection.java:103)
+	at ro.altom.altunitytester.AltUnityDriver.&lt;init&gt;(AltUnityDriver.java:70)
+	at ro.altom.altunitytester.AltUnityDriver.&lt;init&gt;(AltUnityDriver.java:57)
+	at ro.altom.altunitytester.AltUnityDriver.&lt;init&gt;(AltUnityDriver.java:53)
+	at ro.altom.altunitytester.AltUnityDriver.&lt;init&gt;(AltUnityDriver.java:49)
+	at ShopTest.setUp(ShopTest.java:43)
+	at junit.framework.TestCase.runBare(TestCase.java:140)
+	at junit.framework.TestResult$1.protect(TestResult.java:122)
+	at junit.framework.TestResult.runProtected(TestResult.java:142)
+	at junit.framework.TestResult.run(TestResult.java:125)
+	at junit.framework.TestCase.run(TestCase.java:130)
+	at junit.framework.TestSuite.runTest(TestSuite.java:241)
+	at junit.framework.TestSuite.run(TestSuite.java:236)
+	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:90)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+Caused by: java.net.ConnectException: Connection refused
+	at java.base/sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at java.base/sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:777)
+	at org.glassfish.grizzly.nio.transport.TCPNIOConnectorHandler.onConnectedAsync(TCPNIOConnectorHandler.java:206)
+	at org.glassfish.grizzly.nio.transport.TCPNIOConnectorHandler$1.connected(TCPNIOConnectorHandler.java:154)
+	at org.glassfish.grizzly.nio.transport.TCPNIOConnection.onConnect(TCPNIOConnection.java:258)
+	at org.glassfish.grizzly.nio.transport.TCPNIOTransport.fireIOEvent(TCPNIOTransport.java:552)
+	at org.glassfish.grizzly.strategies.AbstractIOStrategy.fireIOEvent(AbstractIOStrategy.java:112)
+	at org.glassfish.grizzly.strategies.WorkerThreadIOStrategy.run0(WorkerThreadIOStrategy.java:117)
+	at org.glassfish.grizzly.strategies.WorkerThreadIOStrategy.executeIoEvent(WorkerThreadIOStrategy.java:103)
+	at org.glassfish.grizzly.strategies.AbstractIOStrategy.executeIoEvent(AbstractIOStrategy.java:89)
+	at org.glassfish.grizzly.nio.SelectorRunner.iterateKeyEvents(SelectorRunner.java:414)
+	at org.glassfish.grizzly.nio.SelectorRunner.iterateKeys(SelectorRunner.java:383)
+	at org.glassfish.grizzly.nio.SelectorRunner.doSelect(SelectorRunner.java:347)
+	at org.glassfish.grizzly.nio.SelectorRunner.run(SelectorRunner.java:278)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.doWork(AbstractThreadPool.java:565)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.run(AbstractThreadPool.java:545)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+</error>
+  </testcase>
+  <testcase classname="ShopTest" name="testPremiumPopUpOpen" time="60.004">
+    <error message="Failed to connect to AltUnity Tester on host: 127.0.0.1 port: 13000." type="ro.altom.altunitytester.altUnityTesterExceptions.ConnectionTimeoutException">ro.altom.altunitytester.altUnityTesterExceptions.ConnectionTimeoutException: Failed to connect to AltUnity Tester on host: 127.0.0.1 port: 13000.
+	at ro.altom.altunitytester.WebsocketConnection.connect(WebsocketConnection.java:103)
+	at ro.altom.altunitytester.AltUnityDriver.&lt;init&gt;(AltUnityDriver.java:70)
+	at ro.altom.altunitytester.AltUnityDriver.&lt;init&gt;(AltUnityDriver.java:57)
+	at ro.altom.altunitytester.AltUnityDriver.&lt;init&gt;(AltUnityDriver.java:53)
+	at ro.altom.altunitytester.AltUnityDriver.&lt;init&gt;(AltUnityDriver.java:49)
+	at ShopTest.setUp(ShopTest.java:43)
+	at junit.framework.TestCase.runBare(TestCase.java:140)
+	at junit.framework.TestResult$1.protect(TestResult.java:122)
+	at junit.framework.TestResult.runProtected(TestResult.java:142)
+	at junit.framework.TestResult.run(TestResult.java:125)
+	at junit.framework.TestCase.run(TestCase.java:130)
+	at junit.framework.TestSuite.runTest(TestSuite.java:241)
+	at junit.framework.TestSuite.run(TestSuite.java:236)
+	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:90)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+Caused by: java.net.ConnectException: Connection refused
+	at java.base/sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at java.base/sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:777)
+	at org.glassfish.grizzly.nio.transport.TCPNIOConnectorHandler.onConnectedAsync(TCPNIOConnectorHandler.java:206)
+	at org.glassfish.grizzly.nio.transport.TCPNIOConnectorHandler$1.connected(TCPNIOConnectorHandler.java:154)
+	at org.glassfish.grizzly.nio.transport.TCPNIOConnection.onConnect(TCPNIOConnection.java:258)
+	at org.glassfish.grizzly.nio.transport.TCPNIOTransport.fireIOEvent(TCPNIOTransport.java:552)
+	at org.glassfish.grizzly.strategies.AbstractIOStrategy.fireIOEvent(AbstractIOStrategy.java:112)
+	at org.glassfish.grizzly.strategies.WorkerThreadIOStrategy.run0(WorkerThreadIOStrategy.java:117)
+	at org.glassfish.grizzly.strategies.WorkerThreadIOStrategy.executeIoEvent(WorkerThreadIOStrategy.java:103)
+	at org.glassfish.grizzly.strategies.AbstractIOStrategy.executeIoEvent(AbstractIOStrategy.java:89)
+	at org.glassfish.grizzly.nio.SelectorRunner.iterateKeyEvents(SelectorRunner.java:414)
+	at org.glassfish.grizzly.nio.SelectorRunner.iterateKeys(SelectorRunner.java:383)
+	at org.glassfish.grizzly.nio.SelectorRunner.doSelect(SelectorRunner.java:347)
+	at org.glassfish.grizzly.nio.SelectorRunner.run(SelectorRunner.java:278)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.doWork(AbstractThreadPool.java:565)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.run(AbstractThreadPool.java:545)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+</error>
+  </testcase>
+</testsuite>

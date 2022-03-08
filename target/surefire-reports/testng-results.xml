@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-08T14:31:25Z" name="Command line suite" finished-at="2022-03-08T14:35:00Z" duration-ms="215450">
+    <groups>
+    </groups>
+    <test started-at="2022-03-08T14:31:25Z" name="Command line test" finished-at="2022-03-08T14:35:00Z" duration-ms="215450">
+      <class name="MainMenuTest">
+        <test-method is-config="true" signature="setUpAppium()[pri:0, instance:MainMenuTest@192d43ce]" started-at="2022-03-08T16:32:53Z" name="setUpAppium" finished-at="2022-03-08T16:33:28Z" duration-ms="34976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpAppium -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:MainMenuTest@192d43ce]" started-at="2022-03-08T16:33:28Z" name="setUp" finished-at="2022-03-08T16:33:28Z" duration-ms="559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestMainPageLoadedCorrectly()[pri:0, instance:MainMenuTest@192d43ce]" started-at="2022-03-08T16:33:28Z" name="TestMainPageLoadedCorrectly" finished-at="2022-03-08T16:33:29Z" duration-ms="730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMainPageLoadedCorrectly -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MainMenuTest@192d43ce]" started-at="2022-03-08T16:33:29Z" name="tearDown" finished-at="2022-03-08T16:33:30Z" duration-ms="1003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDownAppium()[pri:0, instance:MainMenuTest@192d43ce]" started-at="2022-03-08T16:33:30Z" name="tearDownAppium" finished-at="2022-03-08T16:33:31Z" duration-ms="1113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAppium -->
+      </class> <!-- MainMenuTest -->
+      <class name="ShopTest">
+        <test-method is-config="true" signature="setUpAppium()[pri:0, instance:ShopTest@55b7a4e0]" started-at="2022-03-08T16:33:31Z" name="setUpAppium" finished-at="2022-03-08T16:34:05Z" duration-ms="34011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpAppium -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ShopTest@55b7a4e0]" started-at="2022-03-08T16:34:05Z" name="setUp" finished-at="2022-03-08T16:34:06Z" duration-ms="667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ShopPageLoadedCorrectly()[pri:0, instance:ShopTest@55b7a4e0]" started-at="2022-03-08T16:34:06Z" name="ShopPageLoadedCorrectly" finished-at="2022-03-08T16:34:07Z" duration-ms="1039" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShopPageLoadedCorrectly -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ShopTest@55b7a4e0]" started-at="2022-03-08T16:34:07Z" name="tearDown" finished-at="2022-03-08T16:34:08Z" duration-ms="1006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ShopTest@55b7a4e0]" started-at="2022-03-08T16:34:08Z" name="setUp" finished-at="2022-03-08T16:34:08Z" duration-ms="431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testPremiumPopUpClosed()[pri:0, instance:ShopTest@55b7a4e0]" started-at="2022-03-08T16:34:08Z" name="testPremiumPopUpClosed" finished-at="2022-03-08T16:34:11Z" duration-ms="2959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPremiumPopUpClosed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ShopTest@55b7a4e0]" started-at="2022-03-08T16:34:11Z" name="tearDown" finished-at="2022-03-08T16:34:12Z" duration-ms="1004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ShopTest@55b7a4e0]" started-at="2022-03-08T16:34:12Z" name="setUp" finished-at="2022-03-08T16:34:12Z" duration-ms="432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testPremiumPopUpOpen()[pri:0, instance:ShopTest@55b7a4e0]" started-at="2022-03-08T16:34:12Z" name="testPremiumPopUpOpen" finished-at="2022-03-08T16:34:13Z" duration-ms="425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPremiumPopUpOpen -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ShopTest@55b7a4e0]" started-at="2022-03-08T16:34:13Z" name="tearDown" finished-at="2022-03-08T16:34:14Z" duration-ms="1003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ShopTest@55b7a4e0]" started-at="2022-03-08T16:34:14Z" name="setUp" finished-at="2022-03-08T16:34:14Z" duration-ms="437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testShopPageCanBeClosed()[pri:0, instance:ShopTest@55b7a4e0]" started-at="2022-03-08T16:34:14Z" name="testShopPageCanBeClosed" finished-at="2022-03-08T16:34:16Z" duration-ms="1991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testShopPageCanBeClosed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ShopTest@55b7a4e0]" started-at="2022-03-08T16:34:16Z" name="tearDown" finished-at="2022-03-08T16:34:17Z" duration-ms="1003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDownAppium()[pri:0, instance:ShopTest@55b7a4e0]" started-at="2022-03-08T16:34:17Z" name="tearDownAppium" finished-at="2022-03-08T16:34:18Z" duration-ms="1150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAppium -->
+      </class> <!-- ShopTest -->
+      <class name="StartPageTest">
+        <test-method is-config="true" signature="setUpAppium()[pri:0, instance:StartPageTest@5f058f00]" started-at="2022-03-08T16:34:18Z" name="setUpAppium" finished-at="2022-03-08T16:34:53Z" duration-ms="34664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpAppium -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:StartPageTest@5f058f00]" started-at="2022-03-08T16:34:53Z" name="setUp" finished-at="2022-03-08T16:34:54Z" duration-ms="763" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testStartButtonLoadMainMenu()[pri:0, instance:StartPageTest@5f058f00]" started-at="2022-03-08T16:34:54Z" name="testStartButtonLoadMainMenu" finished-at="2022-03-08T16:34:56Z" duration-ms="1878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStartButtonLoadMainMenu -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:StartPageTest@5f058f00]" started-at="2022-03-08T16:34:56Z" name="tearDown" finished-at="2022-03-08T16:34:57Z" duration-ms="1006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:StartPageTest@5f058f00]" started-at="2022-03-08T16:34:57Z" name="setUp" finished-at="2022-03-08T16:34:57Z" duration-ms="538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testStartPageLoadedCorrectly()[pri:0, instance:StartPageTest@5f058f00]" started-at="2022-03-08T16:34:57Z" name="testStartPageLoadedCorrectly" finished-at="2022-03-08T16:34:58Z" duration-ms="623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStartPageLoadedCorrectly -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:StartPageTest@5f058f00]" started-at="2022-03-08T16:34:58Z" name="tearDown" finished-at="2022-03-08T16:34:59Z" duration-ms="1006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDownAppium()[pri:0, instance:StartPageTest@5f058f00]" started-at="2022-03-08T16:34:59Z" name="tearDownAppium" finished-at="2022-03-08T16:35:00Z" duration-ms="1148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAppium -->
+      </class> <!-- StartPageTest -->
+      <class name="GamePlayTest">
+        <test-method is-config="true" signature="setUpAppium()[pri:0, instance:GamePlayTest@6eda5c9]" started-at="2022-03-08T16:31:25Z" name="setUpAppium" finished-at="2022-03-08T16:32:15Z" duration-ms="50177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpAppium -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:GamePlayTest@6eda5c9]" started-at="2022-03-08T16:32:15Z" name="setUp" finished-at="2022-03-08T16:32:16Z" duration-ms="1629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAvoidingObstacles()[pri:0, instance:GamePlayTest@6eda5c9]" started-at="2022-03-08T16:32:16Z" name="testAvoidingObstacles" finished-at="2022-03-08T16:32:17Z" duration-ms="746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAvoidingObstacles -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:GamePlayTest@6eda5c9]" started-at="2022-03-08T16:32:17Z" name="tearDown" finished-at="2022-03-08T16:32:18Z" duration-ms="1009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:GamePlayTest@6eda5c9]" started-at="2022-03-08T16:32:18Z" name="setUp" finished-at="2022-03-08T16:32:19Z" duration-ms="1185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testGameCanBePausedAndResumed()[pri:0, instance:GamePlayTest@6eda5c9]" started-at="2022-03-08T16:32:19Z" name="testGameCanBePausedAndResumed" finished-at="2022-03-08T16:32:20Z" duration-ms="949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGameCanBePausedAndResumed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:GamePlayTest@6eda5c9]" started-at="2022-03-08T16:32:20Z" name="tearDown" finished-at="2022-03-08T16:32:21Z" duration-ms="1004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:GamePlayTest@6eda5c9]" started-at="2022-03-08T16:32:21Z" name="setUp" finished-at="2022-03-08T16:32:23Z" duration-ms="1188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testGameCanBePausedAndStopped()[pri:0, instance:GamePlayTest@6eda5c9]" started-at="2022-03-08T16:32:23Z" name="testGameCanBePausedAndStopped" finished-at="2022-03-08T16:32:24Z" duration-ms="1147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGameCanBePausedAndStopped -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:GamePlayTest@6eda5c9]" started-at="2022-03-08T16:32:24Z" name="tearDown" finished-at="2022-03-08T16:32:25Z" duration-ms="1006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:GamePlayTest@6eda5c9]" started-at="2022-03-08T16:32:25Z" name="setUp" finished-at="2022-03-08T16:32:26Z" duration-ms="1363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testGamePlayDisplayedCorrectly()[pri:0, instance:GamePlayTest@6eda5c9]" started-at="2022-03-08T16:32:26Z" name="testGamePlayDisplayedCorrectly" finished-at="2022-03-08T16:32:26Z" duration-ms="414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGamePlayDisplayedCorrectly -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:GamePlayTest@6eda5c9]" started-at="2022-03-08T16:32:26Z" name="tearDown" finished-at="2022-03-08T16:32:27Z" duration-ms="1003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:GamePlayTest@6eda5c9]" started-at="2022-03-08T16:32:27Z" name="setUp" finished-at="2022-03-08T16:32:29Z" duration-ms="1298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testPlayerDiesWhenObstacleNotAvoided()[pri:0, instance:GamePlayTest@6eda5c9]" started-at="2022-03-08T16:32:29Z" name="testPlayerDiesWhenObstacleNotAvoided" finished-at="2022-03-08T16:32:50Z" duration-ms="21416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPlayerDiesWhenObstacleNotAvoided -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:GamePlayTest@6eda5c9]" started-at="2022-03-08T16:32:50Z" name="tearDown" finished-at="2022-03-08T16:32:51Z" duration-ms="1004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDownAppium()[pri:0, instance:GamePlayTest@6eda5c9]" started-at="2022-03-08T16:32:51Z" name="tearDownAppium" finished-at="2022-03-08T16:32:53Z" duration-ms="1328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAppium -->
+      </class> <!-- GamePlayTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

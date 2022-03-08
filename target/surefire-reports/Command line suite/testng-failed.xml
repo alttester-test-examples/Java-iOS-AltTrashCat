@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Command line suite]" verbose="0">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="GamePlayTest">
+        <methods>
+          <include name="testAvoidingObstacles"/>
+          <include name="testGamePlayDisplayedCorrectly"/>
+          <include name="testGameCanBePausedAndResumed"/>
+          <include name="testGameCanBePausedAndStopped"/>
+          <include name="testPlayerDiesWhenObstacleNotAvoided"/>
+          <include name="setUpAppium"/>
+        </methods>
+      </class> <!-- GamePlayTest -->
+      <class name="ShopTest">
+        <methods>
+          <include name="testPremiumPopUpOpen"/>
+          <include name="testShopPageCanBeClosed"/>
+          <include name="testPremiumPopUpClosed"/>
+          <include name="ShopPageLoadedCorrectly"/>
+        </methods>
+      </class> <!-- ShopTest -->
+      <class name="StartPageTest">
+        <methods>
+          <include name="testStartButtonLoadMainMenu"/>
+          <include name="testStartPageLoadedCorrectly"/>
+        </methods>
+      </class> <!-- StartPageTest -->
+      <class name="MainMenuTest">
+        <methods>
+          <include name="TestMainPageLoadedCorrectly"/>
+        </methods>
+      </class> <!-- MainMenuTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->
