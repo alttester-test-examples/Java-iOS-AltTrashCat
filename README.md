@@ -4,7 +4,7 @@ This repository shows a few Java tests that use the page object model and AltUni
 https://assetstore.unity.com/packages/essentials/tutorial-projects/endless-runner-sample-game-87901
 
 ### Before running the tests on iOS
-- in the `ios_tests.sh` script please change the value for `APPIUM_XCODEORGID` with your Team ID (uniquie 10-character string) in Apple dev account
+- in the `BaseTest.java` class please change the value for `xcodeOrgId` with your Team ID (uniquie 10-character string) in Apple dev account
 - export `IOS_UDID=<your-device-udid>` then run the script `ios_tests.sh`
 
 ### Running the tests on MacOS
