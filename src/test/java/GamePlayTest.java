@@ -1,29 +1,36 @@
-
-import pages.*;
-
-import ro.altom.altunitytester.AltUnityDriver;
-
-import static org.testng.Assert.assertTrue;
+import static org.junit.Assert.assertTrue;
 
 import java.io.IOException;
 
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.Test;
+import org.junit.AfterClass;
+import org.junit.Before;
+import org.junit.BeforeClass;
+import org.junit.Test;
 
-public class GamePlayTest extends BaseTest {
+import com.alttester.AltDriver;
 
-    private static AltUnityDriver altUnityDriver;
+import pages.GamePlayPage;
+import pages.GetAnotherChancePage;
+import pages.MainMenuPage;
+import pages.PauseOverlayPage;
+
+public class GamePlayTest {
+
+    private static AltDriver driver;
     private static MainMenuPage mainMenuPage;
     private static PauseOverlayPage pauseOverlayPage;
     private static GetAnotherChancePage getAntoherChancePage;
     private static GamePlayPage gamePlayPage;
 
-    @BeforeMethod
-    public void setUp() throws IOException {
-        altUnityDriver = new AltUnityDriver();
-        
-        mainMenuPage = new MainMenuPage(altUnityDriver);
+    @BeforeClass
+    public static void setUp() throws IOException {
+        driver = new AltDriver();
+    }
+
+    @Before
+    public void loadLevel() throws Exception {
+
+        mainMenuPage = new MainMenuPage(driver);
         mainMenuPage.loadScene();
         mainMenuPage.setCharacterName();
         mainMenuPage.setLeaderBoardButton();
@@ -33,15 +40,14 @@ public class GamePlayTest extends BaseTest {
         mainMenuPage.setStoreButton();
         mainMenuPage.setThemeName();
 
-        gamePlayPage = new GamePlayPage(altUnityDriver);
-        pauseOverlayPage = new PauseOverlayPage(altUnityDriver);
-        getAntoherChancePage = new GetAnotherChancePage(altUnityDriver);
-    
+        gamePlayPage = new GamePlayPage(driver);
+        pauseOverlayPage = new PauseOverlayPage(driver);
+        getAntoherChancePage = new GetAnotherChancePage(driver);
     }
 
     @AfterMethod
     public void tearDown() throws Exception {
-        altUnityDriver.stop();
+        altDriver.stop();
         Thread.sleep(1000);
     }
 

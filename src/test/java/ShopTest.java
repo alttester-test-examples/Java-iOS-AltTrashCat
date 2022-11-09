@@ -1,6 +1,6 @@
 
 import pages.*;
-import ro.altom.altunitytester.AltUnityDriver;
+import com.alttester.AltDriver;
 
 import static org.testng.Assert.assertFalse;
 import static org.testng.Assert.assertTrue;
@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 
 public class ShopTest extends BaseTest{
 
-    private static AltUnityDriver altUnityDriver;
+    private static AltDriver altDriver;
     private static MainMenuPage mainMenuPage;
     private static ShopPage shopPage;
 
@@ -40,16 +40,16 @@ public class ShopTest extends BaseTest{
 
     @BeforeMethod
     public void setUp() throws IOException {
-        altUnityDriver = new AltUnityDriver();
-        mainMenuPage = new MainMenuPage(altUnityDriver);
-        shopPage = new ShopPage(altUnityDriver);
+        altDriver = new AltDriver();
+        mainMenuPage = new MainMenuPage(altDriver);
+        shopPage = new ShopPage(altDriver);
         shopPage.loadScene();
     }
 
 
     @AfterMethod
     public void tearDown() throws Exception {
-        altUnityDriver.stop();
+        altDriver.stop();
         Thread.sleep(1000);
     }
 

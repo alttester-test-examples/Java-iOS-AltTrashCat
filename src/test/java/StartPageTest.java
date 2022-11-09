@@ -1,6 +1,5 @@
-
 import pages.*;
-import ro.altom.altunitytester.AltUnityDriver;
+import com.alttester.AltDriver;
 import static org.testng.Assert.assertTrue;
 
 import java.io.IOException;
@@ -11,22 +10,22 @@ import org.testng.annotations.Test;
 
 public class StartPageTest extends BaseTest{
 
-    private AltUnityDriver altUnityDriver;
+    private AltDriver altDriver;
     private StartPage startPage;
     private MainMenuPage mainMenuPage;
 
     @BeforeMethod
     public void setUp() throws IOException {
-        altUnityDriver = new AltUnityDriver();
+        altDriver = new AltDriver();
 
-        startPage = new StartPage(altUnityDriver);
-        mainMenuPage = new MainMenuPage(altUnityDriver);
+        startPage = new StartPage(altDriver);
+        mainMenuPage = new MainMenuPage(altDriver);
         startPage.load();
     }
 
     @AfterMethod
     public void tearDown() throws Exception {
-        altUnityDriver.stop();
+        altDriver.stop();
         Thread.sleep(1000);
     }
 
