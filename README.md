@@ -9,6 +9,7 @@ https://assetstore.unity.com/packages/essentials/tutorial-projects/endless-runne
 
 ### Running the tests on MacOS
 The tests are meant to be run on a MacOS device.
+The app is provided at https://altom.com/app/uploads/AltTester/TrashCat/TrashCat.ipa.zip and needs to be included unzipped under project.
 To start the tests, run:
 `./ios_tests.sh`
 
