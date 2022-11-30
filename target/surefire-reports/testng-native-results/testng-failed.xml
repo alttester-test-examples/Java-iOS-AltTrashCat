@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Command line suite]" verbose="0">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="GamePlayTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="setUpAppium"/>
+          <include name="tearDownAppium"/>
+        </methods>
+      </class> <!-- GamePlayTest -->
+      <class name="MainMenuTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- MainMenuTest -->
+      <class name="StartPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="testStartPageLoadedCorrectly"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- StartPageTest -->
+      <class name="ShopTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- ShopTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->
