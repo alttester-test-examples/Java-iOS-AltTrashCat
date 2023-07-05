@@ -2,7 +2,7 @@ import static org.junit.Assert.assertTrue;
 
 import java.io.IOException;
 
-import org.junit.AfterClass;
+import org.testng.annotations.AfterMethod;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
@@ -47,7 +47,7 @@ public class GamePlayTest {
 
     @AfterMethod
     public void tearDown() throws Exception {
-        altDriver.stop();
+        driver.stop();
         Thread.sleep(1000);
     }
 
