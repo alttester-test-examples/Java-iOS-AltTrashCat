@@ -3,7 +3,6 @@ import java.net.URL;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.testng.annotations.*;
 import java.util.concurrent.TimeUnit;
-import com.alttester.AltPortForwarding;
 import io.appium.java_client.remote.MobileCapabilityType;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.ios.IOSDriver;
@@ -32,14 +31,7 @@ public class BaseTest {
         driver = new IOSDriver<IOSElement>(url, capabilities);
         driver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
         Thread.sleep(3000);
-        SetupPortForwarding();
     }
-
-    void SetupPortForwarding() throws IOException {
-        AltPortForwarding.killAllIproxyProcess();
-        AltPortForwarding.forwardIos();
-    }
-
     @AfterClass
     public void tearDownAppium() {
         driver.quit();
