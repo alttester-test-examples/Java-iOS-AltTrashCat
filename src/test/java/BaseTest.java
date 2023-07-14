@@ -19,10 +19,11 @@ public class BaseTest {
         URL url = new URL(URL_STRING);
 
         capabilities = new DesiredCapabilities();
-        capabilities.setCapability(MobileCapabilityType.APP, System.getenv("APP"));
-        capabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME, "XCUITest");
-        capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "Local Device");
-        capabilities.setCapability(MobileCapabilityType.PLATFORM_NAME, "iOS");
+        capabilities.setCapability("appium:app", System.getenv("APP"));
+        capabilities.setCapability("appium:automationName", "XCUITest");
+        capabilities.setCapability("appium:deviceName", "Local Device");
+        capabilities.setCapability("appium:platformName", "iOS");
+        capabilities.setCapability("appium:udid", System.getenv("UDID"));
         capabilities.setCapability("useNewWDA", false);
         capabilities.setCapability("xcodeOrgId", "59ESG8ELF5");
         capabilities.setCapability("xcodeSigningId", "iPhone Developer");
